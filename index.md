@@ -1,12 +1,12 @@
 ---
 layout: home2
-title: Welcome!
+title: 
 description: "Georges Hattab website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: snow.banner.jpg
 ---
 
-[![](/images/maze0.png)](/projects)
+[![](/images/maze0.png)](/research)
 
 <br><br>
 
