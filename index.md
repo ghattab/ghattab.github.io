@@ -8,6 +8,6 @@ image: snow.banner.jpg
 
 [![](/images/maze0.png)](/projects)
 
-</br></br>
+<br><br>
 
 [![](/images/maze1.png)](/creative)
