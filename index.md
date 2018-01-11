@@ -6,6 +6,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 
-[![](/images/maze0.png| width=70)](/research)
+[![](/images/maze0.png)](/research)
 <br><br>
-[![](/images/maze1.png| width=70)](/creative)
+[![](/images/maze1.png)](/creative)
