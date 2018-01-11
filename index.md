@@ -6,8 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: snow.banner.jpg
 ---
 
-[![](/images/maze0.png =100x)](/research)
-
+[<img src="/images/maze0.png" style="width: 100px;”/>](/research)
 <br><br>
 
-[![](/images/maze1.png =100x)](/creative)
+[<img src=“/images/maze1.png“ style="width: 100px;”/>](/creative)
