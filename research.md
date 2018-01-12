@@ -12,6 +12,6 @@ comments: false
 
 ### Inquire Infer Innovate
 
-## Time-Lapse Microscopty
+## Time-Lapse Microscopy
 
 Coming soon... 
