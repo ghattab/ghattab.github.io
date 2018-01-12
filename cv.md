@@ -8,4 +8,4 @@ comments: false
 ---
 
 
-[**Full CV as a pdf**](https://www.dropbox.com/s/tfvso5on5ybcacv/ghattab_cv.pdf?dl=0)
+For the detailed CV, please download the [**PDF**](https://www.dropbox.com/s/tfvso5on5ybcacv/ghattab_cv.pdf?dl=0).
