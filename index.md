@@ -6,8 +6,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 
-[![](/images/maze0.png)](/research)
+<!--[![](/images/maze0.png)](/research)-->
 <br>
-The core of mans' spirit comes from new experiences. John Krakauer
+**The core of mans' spirit comes from new experiences. John Krakauer**
 <br>
-[![](/images/maze1.png)](/creative)
+<!--[![](/images/maze1.png)](/creative)-->
+
