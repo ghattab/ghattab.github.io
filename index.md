@@ -3,7 +3,6 @@ layout: home2
 title: 
 description: "Georges Hattab website"
 tags: [Jekyll, theme, responsive, blog, template]
-image: /images/snow.banner.jpg
 ---
 
 
