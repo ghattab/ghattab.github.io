@@ -13,9 +13,10 @@ comments: false
 ### Research Design
 
 ## Book covers
-
+  
 [![](/images/cover0.jpg)](https://www.springer.com/de/book/9781493974610) 
-[![](/images/cover1.jpg)](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)
+[![](/images/cover1.jpg)](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)  
+
 
 ## Amino Acids
 
