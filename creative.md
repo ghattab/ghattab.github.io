@@ -12,6 +12,11 @@ comments: false
 
 ### Research Design
 
+## Book covers
+
+[![](https://images.springer.com/sgw/books/medium/9781493974610.jpg)](https://www.springer.com/de/book/9781493974610) 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51CGa4KA97L._SX329_BO1,204,203,200_.jpg" height=“217”>](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)
+
 ## Amino Acids
 
 Amino acids occur naturally in plant and animal tissues and are the basic constituents of proteins. 
@@ -25,3 +30,4 @@ The result is a Quartet-like card game that employs the potential of infographic
 
 
 <script async class="speakerdeck-embed" data-id="072b845943ff42e4be1729cef78853ab" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
