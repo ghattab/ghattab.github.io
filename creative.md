@@ -14,8 +14,8 @@ comments: false
 
 ## Book covers
 
-[![](https://images.springer.com/sgw/books/medium/9781493974610.jpg)](https://www.springer.com/de/book/9781493974610) 
-<a href=“https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/“><img src="https://images-na.ssl-images-amazon.com/images/I/51CGa4KA97L._SX329_BO1,204,203,200_.jpg" height=“217”></a>
+[![](/images/cover0.jpg)](https://www.springer.com/de/book/9781493974610) 
+[![](/images/cover1.jpg)](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)
 
 ## Amino Acids
 
