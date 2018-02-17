@@ -25,5 +25,7 @@ The main findings were: (1) the C41λ(DE3) and C43λ(DE3) bacterial mutant hosts
 Altogether our analyses provide a set of rules for the optimal use of bacterial expression systems in MP production.
 
 Expression systems and bacterial hosts for MP structure determination are reported in the [Tool Box](http://www.ibpc.fr/UMR7099/tool_box/methodological_approaches.html) for MP studies. 
+Detailed protocols to select bacterial expression mutant hosts and to optimize culture conditions are provided in a book chapter.
 
 [![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](http://dx.doi.org/10.1038/srep12097)
+[![DOI](https://link.springer.com/static/201801171347-2/sites/link/images/favicon-32x32.png)](https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4)
