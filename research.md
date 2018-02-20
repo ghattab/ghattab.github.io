@@ -3,12 +3,9 @@ layout: page
 permalink: /research/
 title: 
 tags: [research]
-modified: 11-10-2018
+modified: 20-02-2018
 comments: false
 ---
-
-[Last updated: 20-02-2018]
-
 
 ## Bioimaging: Translational oncology
 
