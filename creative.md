@@ -10,9 +10,8 @@ comments: false
 [Last updated: 11-10-2018]
 
 
-### Research Design
 
-<!--## Book covers-->
+<!--## Design: Book covers-->
 
 <!--I have been involved in the design of a couple of book covers:-->
 <!--* Comparative Genomics: Methods and Protocols. Setubal, Stoye, and Stadler 2017. [![](/images/cover0.jpg){:style="float: right;"}](https://link.springer.com/book/10.1007/978-1-4939-7463-4) -->
@@ -21,7 +20,7 @@ comments: false
 
 
 
-## Amino Acids
+## Design: Amino Acids
 
 Amino acids occur naturally in plant and animal tissues and are the basic constituents of proteins. 
 Each amino acid is a simple organic compound containing both a carboxyl (—COOH) and an amino (—NH2) group. 
