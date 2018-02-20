@@ -12,9 +12,17 @@ comments: false
 
 ### Inquire Infer Innovate
 
-## Bioimaging: Time-Lapse Microscopy
+## Bioimaging: Cell subpopulations
 
-Coming soon... 
+Understanding the mechanisms that regulate cellular reactions is facilitated by the coupling of high-resolution time-lapse imaging with microfluidic multiplexing.
+These methods increase the rate at which microbiologists record cellular events and colony growth for different bacterial species (e.g. *Sinorhizobium meliloti*). However, this leads to a bottleneck in the analysis steps. Related work for computational analysis uses the general paradigm (i. e. segmentation, tracking, lineage construction).
+However, none of the current approaches have been successful in extracting lineage information.
+The inability to process this data was attributed to high values for various data properties: Cell number, cell shape diversity, cell density, noise and lateral resolution (60 nm/px). Furthermore, the large temporal separation between the images (i. e. the temporal resolution: 1 frame/30 min) is one of the biggest challenges in cell tracking. 
+My primary goal is to characterize different cell behaviors within a colony that are consistent in space and time (i. e. coherent subpopulations). As a task, the search for bacterial subpopulations is linked to many biological questions, such as bacterial pathogenesis (David, 2013) or the study of metabolic interactions (Rosenthal et al., 2017). Due to the high values for the  five properties and the low temporal resolution, it is not possible to segment and track individual cells.
+In order to overcome the bottleneck of the analysis, I propose a novel framework, an alternative to the single-celled paradigm that combines spatial and temporal coherence. The CYCASP framework examines (C)olon (Y) growth and (C)ell (A)ttributes in (SP)atiotemporal Experiments (CYCASP) and considers two new data abstractions to address the dynamics of rapid growth and the diversity of bacterial forms: the *particle* and the *patch*.
+CYCASP selects groups of particle trajectories in order to obtain a better granularity of the colony’s growth. It allows us to process both identifcation and tracking of bacterial subpopulations. Contrary to a minimum of 2 days of manual analyses previously required of our collaborators, our reference results show that CYCASP can automatically extract patch lineages in less than 5 min for biological data sets of more than 100 frames and 300 cells.
+
+[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](http://dx.doi.org/10.1038/srep12097)
 
 
 ## Biophysics: Membrane proteins
