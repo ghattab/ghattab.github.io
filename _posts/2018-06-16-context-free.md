@@ -126,7 +126,7 @@ rule draw {
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-For each triangle, three triangles (half the size) are created at each corner of the triangle. The top triangle: The distance between the center of the triangle to the top of the triangle is given by x/sqrt(3). The smaller triangle moves up by x/2*sqrt(3). Start: Triangle length of one so 1/2*sqrt(3) is 0.288. And so on.
+For each triangle, 3 triangles — that are half the size — are created at each corner of the triangle. E.g. for the top triangle: The distance between the center of the triangle to its top is given by x/sqrt(3). The smaller triangle moves up by x/2*sqrt(3). At the start, its length is 1 so 1/2*sqrt(3) is 0.288. And so on.
     </div>
 </div>
 
