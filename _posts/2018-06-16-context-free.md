@@ -116,7 +116,7 @@ rule tr{
  TRIANGLE{}
 }
 rule draw {
- tr{sat 1 hue 240 b 0.5}
+ tr{b 0.01} // for better contrast
  draw {s 0.5 y 0.288 b 0.1}
  draw {s 0.5 x -0.25 y -0.144 b 0.1}
  draw {s 0.5 x 0.25 y -0.144 b 0.1}
