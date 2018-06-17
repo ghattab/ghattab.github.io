@@ -126,13 +126,11 @@ draw {s 0.5 x -0.25 y -0.144 b 0.1}
 draw {s 0.5 x 0.25 y -0.144 b 0.1}
 }</code></pre>
 		</div>
-    <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig6.png)</pre>
-    </div>
+<div markdown=“1”>![](https://ghattab.github.io/images/fig6.png)
+</div>
 </div>
 
-<div markdown="1">this is a __test__
-</div>
+
 
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
