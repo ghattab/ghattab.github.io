@@ -20,7 +20,7 @@ TRIANGLE {}
 }</pre>  
 The triangle command can be exchanged by a circle or square.
 </div>
-<img style="display: inline-block;" src=“/images/fig1.png" width=“50” height=“50” align="right" />
+<img style="display: inline-block;" src=“/images/fig1.png" width=“50” height=“50” />
 </div>
 
 ![](https://github.com/ghattab/ghattab.github.io/blob/master/images/fig6.png?v=4&s=50)  
