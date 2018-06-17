@@ -47,7 +47,7 @@ rule draw {
 	TRIANGLE {}  
 	draw {x 1 s 0.7}
 }</code></pre>
-The extra line calls the draw instruction which draws an increasingly small triangle every 1 unit from the previous triangle on the x axis (size is multiplied by 0.7). 
+Here the program draws an increasingly small triangle (size is multiplied by 0.7) every unit on the x axis. 
     </div>
 </div>
 
