@@ -22,10 +22,12 @@ TRIANGLE {}
 		<div>The triangle command can be exchanged by a circle or square.</div>
 </div>
 
-![](/images/fig1.png)
+![](/images/fig1.png){: .center-image }
+
 <div style="display: inline-block;">
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 </div>
+
 
 ## Geometry
 Spatial rules employ shape operations of addition, subtraction, and many components of the procrustes analysis such as: translation, skew, rotation, uniform scaling, etc. For example, the translation of a shape along the x-axis is made using the adjustment x, as seen below.
@@ -78,7 +80,7 @@ rule cc {
     </div>
 </div>
 
-->![](https://ghattab.github.io/images/fig4.png)<-
+![](https://ghattab.github.io/images/fig4.png){: .center-image }
 
 ## Time
 CF is powerful enough to render an animation or a set of frames. Each shape has a start time, when it starts to be drawn, and an end time, when it’s drawn. This defines a 1D affine transform with a pair that share the same scale element. The adjustments are time and timescale.
@@ -101,7 +103,7 @@ shape draw
     </div>
 </div>
 
-->![](https://ghattab.github.io/images/fig5.gif)<-
+![](https://ghattab.github.io/images/fig5.gif){: .center-image }
 
 By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
 `./cfdg -a 5 instructions.cfdg img.png`
@@ -113,11 +115,11 @@ To demonstrate the power of CF, let’s create the Sierpinski triangle (3).
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
-rule colortr{
+rule tr{
 	TRIANGLE{}
 }
 rule draw {
-	colortr{sat 1 hue 240 b 0.5}
+	tr{sat 1 hue 240 b 0.5}
 	draw {s 0.5 y 0.288 b 0.1}
 	draw {s 0.5 x -0.25 y -0.144 b 0.1}
 	draw {s 0.5 x 0.25 y -0.144 b 0.1}
@@ -128,7 +130,7 @@ For each triangle, three triangles (half the size) are created at each corner of
     </div>
 </div>
 
-->![](https://ghattab.github.io/images/fig6.png)<-
+![](https://ghattab.github.io/images/fig6.png){: .center-image }
 
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
