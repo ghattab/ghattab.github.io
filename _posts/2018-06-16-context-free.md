@@ -90,12 +90,12 @@ CF is powerful enough to render an animation or a set of frames. Each shape has 
         <pre><code class="language-c">startshape draw[timescale 0.01]
 CF::Time = [time 0 1] 
 shape c{
-	CIRCLE[]
+ CIRCLE[]
 }
 shape draw
 {
-	c[x ftime()]
-	draw[x 0.1 r 4 time 1 0 x 0.1]
+ c[x ftime()]
+ draw[x 0.1 r 4 time 1 0 x 0.1]
 }</code></pre>  
     </div>
     <div style="display: inline-block;">
@@ -116,13 +116,13 @@ To demonstrate the power of CF, let’s create the Sierpinski triangle (3).
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
 rule tr{
-	TRIANGLE{}
+ TRIANGLE{}
 }
 rule draw {
-	tr{sat 1 hue 240 b 0.5}
-	draw {s 0.5 y 0.288 b 0.1}
-	draw {s 0.5 x -0.25 y -0.144 b 0.1}
-	draw {s 0.5 x 0.25 y -0.144 b 0.1}
+ tr{sat 1 hue 240 b 0.5}
+ draw {s 0.5 y 0.288 b 0.1}
+ draw {s 0.5 x -0.25 y -0.144 b 0.1}
+ draw {s 0.5 x 0.25 y -0.144 b 0.1}
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
