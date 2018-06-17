@@ -50,17 +50,9 @@ The extra line calls the `draw` instruction which draws an increasingly small tr
     </div>
 </div>
 
-<div style="text-align:center"><img src ="https://ghattab.github.io/images/fig1.png” /> <img src ="https://ghattab.github.io/images/fig2.png” /> </div>
-
-![](/images/fig2.png) ![](/images/fig3.png)  
-
-<p align="center">
-<img src ="https://ghattab.github.io/images/fig1.png” /> <img src ="https://ghattab.github.io/images/fig2.png” />
-</p>
+-> ![](/images/fig2.png) ![](/images/fig3.png) <-
 
 The second grammar is recursive and employs a new adjustment of size or `s`. The program stops once the triangle size can no longer be represented on the image space.
-
-
 
 ## Color
 CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] for saturation, [0,1] for brightness, and [0,1] for alpha (opacity). When brightness is set to 0 or 1, the result is white and black, respectively. 
