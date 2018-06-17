@@ -27,7 +27,6 @@ The triangle command can be exchanged by a circle or square.
   </tr>
 </table>
 
-<img src=“/images/fig2.png” height="42" width="42" />
 ![alt](/images/fig1.png =42x){: .center-image .example-class1 .example-class2 }
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
