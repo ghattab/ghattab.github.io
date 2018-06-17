@@ -89,3 +89,8 @@
 	content: "\e60f";
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
