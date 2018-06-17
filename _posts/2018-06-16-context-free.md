@@ -13,11 +13,11 @@ Example usage: ```./cfdg instructions.cfdg img.png```
 Shape grammars rely on shape elements or facts. They are often: points, lines, planes, etc. A shape rule can be written as follows to display either a triangle, or a square, or a circle. A shape rule starts with ```startshape```.
 
 
-<pre>startshape draw
+
+<table><tr><td><pre>startshape draw
 rule draw { 
 TRIANGLE {} 
-}</pre> | ![alt](https://ghattab.github.io/images/fig1.png){:height=“50px" width=“50px"}
-
+}</pre></td><td><img src="https://ghattab.github.io/images/fig1.gif” width=“50" height=“50”>></td></tr></table>
 
 <div style="column-count: 2">
     <div style="display: inline-block;">
@@ -27,7 +27,7 @@ TRIANGLE {}
 }</pre>  
 The triangle command can be exchanged by a circle or square.
 </div>
-<img style="float: right;" src="images/fig1.png”>
+        <pre>![](https://ghattab.github.io/images/fig1.png)</pre>
 </div>
 
 
@@ -117,7 +117,7 @@ By default, CF accumulates the existence time for all of the primitive shapes an
 ```convert img_*.png animation.gif```
 
 ## Sierpinski triangle
-To demonstrate the power of CF, let’s create the Sierpinski triangle. 
+To demonstrate the power of CF, let’s create the Sierpinski triangle (3). 
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
@@ -141,4 +141,4 @@ draw {s 0.5 x 0.25 y -0.144 b 0.1}
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
 2. Coyne, C. and Horigan, J. and Lentczner, M. Context Free Art. ([website](https://www.contextfreeart.org/)).
-3. 
+3. Conversano, E. and Tedeschini-Lalli, L., 2011. Sierpinski Triangles in Stone on Medieval Floors in Rome, APLIMAT Journal of Applied Mathematics, 4: 114, 122.
