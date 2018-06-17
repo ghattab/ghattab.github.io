@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Context Free: Hands-on!”
+title: “Context Free”
 description: “Context Free Drawing relies on a set of  rules (grammar) that the program uses to generates images.”
 comments: false
 ---
