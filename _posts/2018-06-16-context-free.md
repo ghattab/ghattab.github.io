@@ -14,10 +14,10 @@ Shape grammars rely on shape elements or facts. They are often: points, lines, p
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
     <div style="display: inline-block;">
-        ```startshape draw
+        <pre>```startshape draw
 rule draw { 
 TRIANGLE {} 
-}```  
+}```</pre>  
 The triangle command can be exchanged by a circle or square.
     </div>
 ![](https://ghattab.github.io/images/fig1.png)
