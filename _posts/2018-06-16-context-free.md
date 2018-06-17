@@ -20,11 +20,12 @@ TRIANGLE {}
 }</code></pre>
 The triangle command can be exchanged by a circle or square.
 		</div>
-    <img style="display: inline-block;" />
+    <div markdown="1" style="display: inline-block;">
 ![](/images/fig1.png)
 </div>
 
-![](/images/fig1.png)
+<div markdown="1">this is a __test__</div>
+
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
