@@ -49,12 +49,12 @@ The extra line calls the draw instruction which draws an increasingly small tria
     </div>
 </div>
 
-![](/images/fig2.png){: .center-image } ![](/images/fig3.png){: .center-image }
+![](/images/fig2.png) ![](/images/fig3.png)
 
 The second grammar is recursive and employs a new adjustment of size or s. The program stops once the triangle size can no longer be represented on the image space.
 
 ## Color
-CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] for saturation, [0,1] for brightness, and [0,1] for alpha (opacity). When brightness is set to 0 or 1, the result is white and black, respectively. 
+CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] for saturation, [0,1] for brightness, and [0,1] for alpha (opacity). When brightness is set to 0 or 1, the result is white and black, respectively.
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
@@ -88,13 +88,13 @@ shape draw
 c[x ftime()]
 draw[x 0.1 r 4 time 1 0 x 0.1]
 }</code></pre>  
-CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.
     </div>
     <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig5.gif)</pre>
+        <pre>CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.</pre>
     </div>
 </div>
 
+![](https://ghattab.github.io/images/fig5.gif)
 
 By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
 `./cfdg -a 5 instructions.cfdg img.png`
