@@ -5,12 +5,12 @@ description: “text”
 comments: false
 ---
 
-Context Free (CF) grammars rely on shape grammars. A shape grammar consists of a set of transformation and production rules. It applies a step-by-step way to generate and operate on a set, or language, of designs (1). The rules of a shape grammar defines how an existing (part of a) shape can be changed. Such rules operate on design elements to compute designs. Context Free Drawing or CFDG generates images from a written grammar (i.e. ```cfdg``` file) (2). The program follows the instructions or set of rules. 
-Example usage: ```./cfdg instructions.cfdg img.png```
+Context Free (CF) grammars rely on shape grammars. A shape grammar consists of a set of transformation and production rules. It applies a step-by-step way to generate and operate on a set, or language, of designs (1). The rules of a shape grammar defines how an existing (part of a) shape can be changed. Such rules operate on design elements to compute designs. Context Free Drawing or CFDG generates images from a written grammar (i.e. `cfdg` file) (2). The program follows the instructions or set of rules. 
+Example usage: `./cfdg instructions.cfdg img.png`
 
 
 ## Shapes
-Shape grammars rely on shape elements or facts. They are often: points, lines, planes, etc. A shape rule can be written as follows to display either a triangle, or a square, or a circle. A shape rule starts with ```startshape```.
+Shape grammars rely on shape elements or facts. They are often: points, lines, planes, etc. A shape rule can be written as follows to display either a triangle, or a square, or a circle. A shape rule starts with `startshape`.
 
 
 <table>
@@ -56,7 +56,7 @@ The extra line adds a circle 5 units away from the triangle on the x axis. The s
 	        TRIANGLE {}  
 	        draw {x 1 s 0.7}
 			  }</code></pre>
-The extra line calls the ```draw``` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
+The extra line calls the `draw` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
 		</div>
     <div style="display: inline-block;">
         <pre>![](https://ghattab.github.io/images/fig3.png)</pre>
@@ -110,8 +110,8 @@ CF::Time = [time 0 1] configurates the time variable. Notice in this example the
 
 
 By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
-```./cfdg -a 5 instructions.cfdg img.png```
-```convert img_*.png animation.gif```
+`./cfdg -a 5 instructions.cfdg img.png`
+`convert img_*.png animation.gif`
 
 ## Sierpinski triangle
 To demonstrate the power of CF, let’s create the Sierpinski triangle (3). 
