@@ -20,7 +20,7 @@ TRIANGLE {}
 }</code></pre>
 The triangle command can be exchanged by a circle or square.
 		</div>
-    <div markdown="1">![](/images/fig1.png)</div>
+    ![](/images/fig1.png)
 </div>
 
 
@@ -131,6 +131,7 @@ draw {s 0.5 x 0.25 y -0.144 b 0.1}
     </div>
 </div>
 
+<div markdown="1">![](https://ghattab.github.io/images/fig6.png)</div>
 
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
