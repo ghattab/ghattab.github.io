@@ -19,10 +19,10 @@ rule draw {
 TRIANGLE {} 
 }</pre>  
 The triangle command can be exchanged by a circle or square.
-    </div>
+</div>
 ![](https://ghattab.github.io/images/fig1.png)
 </div>
-
+</br>
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
 
