@@ -109,9 +109,10 @@ CF::Time = [time 0 1] configurates the time variable. Notice in this example the
 </div>
 
 
-By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To create the animation the following commands are employed: 
-```./cfdg -a 5 instructions.cfdg img.png```
-```convert img_*.png animation.gif```
+By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
+```./cfdg -a 5 instructions.cfdg img.png
+
+convert img_*.png animation.gif```
 
 ## Sierpinski triangle
 To demonstrate the power of CF, let’s create the Sierpinski triangle. 
