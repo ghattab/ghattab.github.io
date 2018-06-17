@@ -19,6 +19,12 @@ comments: false
 <!--* Reversality. Hattab, Bahram, Nazar 2015. A collaboration with the UN Refugee Agency ([UNHCR](http://www.unhcr.org/)). [![](/images/cover1.jpg){:style="float: right;"}](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)-->
 
 
+## Square, Circle, Triangle
+
+In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. These studies piqued my interest and I’ve decided to rediscover them in a more organic manner. I’ve employed a Context-Free grammar for each to generate the following drawings. 
+
+![Circle](/images/circle.png) ![Triangle](/images/triangle.png)
+
 
 ## Design: Amino Acids
 
