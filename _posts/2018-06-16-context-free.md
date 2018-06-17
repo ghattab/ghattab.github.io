@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “Context Free”
-description: “text”
+description: “Context Free ”
 comments: false
 ---
 
@@ -28,7 +28,7 @@ The triangle command can be exchanged by a circle or square.
 </table>
 
 <img src=“/images/fig2.png” height="42" width="42" />
-![Picture text](/images/fig1.png){: .center-image .example-class1 .example-class2 }
+![alt](/images/fig1.png =42x){: .center-image .example-class1 .example-class2 }
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
