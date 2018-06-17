@@ -5,7 +5,7 @@ description: “text”
 comments: false
 ---
 
-Context Free (CF) grammars rely on shape grammars. A shape grammar consists of a set of transformation and production rules. It applies a step-by-step way to generate and operate on a set, or language, of designs (1). The rules of a shape grammar defines how an existing (part of a) shape can be changed. Such rules operate on design elements to compute designs. Context Free Drawing or CFDG generates images from a written grammar (i.e. <tt>cfdg</tt> file) (2). The program follows the instructions or set of rules. 
+Context Free (CF) grammars rely on shape grammars. A shape grammar consists of a set of transformation and production rules. It applies a step-by-step way to generate and operate on a set, or language, of designs (1). The rules of a shape grammar defines how an existing (part of a) shape can be changed. Such rules operate on design elements to compute designs. Context Free Drawing or CFDG generates images from a written grammar (i.e. ```cfdg``` file) (2). The program follows the instructions or set of rules. 
 Example usage: ```./cfdg instructions.cfdg img.png```
 
 
@@ -15,7 +15,9 @@ Shape grammars rely on shape elements or facts. They are often: points, lines, p
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
-        rule draw { TRIANGLE {} }</code></pre>  
+rule draw { 
+TRIANGLE {} 
+}</code></pre>  
 The triangle command can be exchanged by a circle or square.
     </div>
     <div style="display: inline-block;">
@@ -32,10 +34,10 @@ Spatial rules employ shape operations of addition, subtraction, and many compone
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
-        rule draw {
-	        TRIANGLE {}    
-					CIRCLE {x 1}
-			  }</code></pre>  
+rule draw {
+TRIANGLE {}    
+CIRCLE {x 1}
+}</code></pre>  
 The extra line adds a circle 5 units away from the triangle on the x axis. The shapes scale within the bounds of the image space.
     </div>
     <div style="display: inline-block;">
@@ -51,7 +53,7 @@ The extra line adds a circle 5 units away from the triangle on the x axis. The s
 	        TRIANGLE {}  
 	        draw {x 1 s 0.7}
 			  }</code></pre>
-The extra line calls the <tt>draw</tt> instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
+The extra line calls the ```draw``` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
 		</div>
     <div style="display: inline-block;">
         <pre>![](/images/fig3.png)</pre>
@@ -89,12 +91,12 @@ CF is powerful enough to render an animation or a set of frames. Each shape has 
         <pre><code class="language-c">startshape draw[timescale 0.01]
 CF::Time = [time 0 1] 
 shape c{
-	CIRCLE[]
+CIRCLE[]
 }
 shape draw
 {
-	c[x ftime()]
-        draw[x 0.1 r 4 time 1 0 x 0.1]
+c[x ftime()]
+draw[x 0.1 r 4 time 1 0 x 0.1]
 }</code></pre>  
 CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.
     </div>
@@ -104,10 +106,9 @@ CF::Time = [time 0 1] configurates the time variable. Notice in this example the
 </div>
 
 
-By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To create the animation the following commands are employed: ```
-./cfdg -a 5 instructions.cfdg img.png
-convert img_*.png animation.gif 
-```
+By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To create the animation the following commands are employed: 
+```./cfdg -a 5 instructions.cfdg img.png```
+```convert img_*.png animation.gif```
 
 ## Sierpinski triangle
 To demonstrate the power of CF, let’s create the Sierpinski triangle. 
