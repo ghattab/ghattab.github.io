@@ -20,8 +20,7 @@ TRIANGLE {}
 }</code></pre>
 The triangle command can be exchanged by a circle or square.
 		</div>
-    <div markdown="1" style="display: inline-block;">
-![](/images/fig1.png)
+    <div markdown="1">![](/images/fig1.png)</div>
 </div>
 
 <div markdown="1">this is a __test__</div>
