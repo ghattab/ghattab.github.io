@@ -12,8 +12,7 @@ Example usage: ```./cfdg instructions.cfdg img.png```
 ## Shapes
 Shape grammars rely on shape elements or facts. They are often: points, lines, planes, etc. A shape rule can be written as follows to display either a triangle, or a square, or a circle. A shape rule starts with ```startshape```.
 
-<div style="column-count: 2">
-    <div style="display: inline-block;">
+<div style="display: inline-block;">
         <pre>startshape draw
 rule draw { 
 TRIANGLE {} 
@@ -21,7 +20,6 @@ TRIANGLE {}
 The triangle command can be exchanged by a circle or square.
 </div>
 <img style="display: inline-block;" src=“/images/fig1.png" width=“50” height=“50” />
-</div>
 
 ![](https://github.com/ghattab/ghattab.github.io/blob/master/images/fig6.png?v=4&s=50)  
 
