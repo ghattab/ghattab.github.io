@@ -18,13 +18,10 @@ Shape grammars rely on shape elements or facts. They are often: points, lines, p
 rule draw { 
 TRIANGLE {} 
 }</code></pre>
-The triangle command can be exchanged by a circle or square.
 		</div>
-    ![](/images/fig1.png)
+		<div vertical-align=‘middle’>The triangle command can be exchanged by a circle or square.</div>
 </div>
-
-
-
+    ![](/images/fig1.png)
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
 
@@ -38,7 +35,7 @@ rule draw {
 	TRIANGLE {}    
 	CIRCLE {x 1}
 }</code></pre>
-The extra line adds a circle 1 unit away from the triangle on the <code>x</code> axis. The shapes scale within the bounds of the image space.
+The extra line adds a circle 1 unit away from the triangle on the x axis. The shapes scale within the bounds of the image space.
     </div>
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
@@ -46,13 +43,13 @@ rule draw {
 	TRIANGLE {}  
 	draw {x 1 s 0.7}
 }</code></pre>
-The extra line calls the <code>draw</code> instruction which draws an increasingly small triangle every 1 unit from the previous triangle on the <code>x</code> axis (size is multiplied by 0.7). 
+The extra line calls the draw instruction which draws an increasingly small triangle every 1 unit from the previous triangle on the x axis (size is multiplied by 0.7). 
     </div>
 </div>
 
 ![](/images/fig2.png){: .center-image } ![](/images/fig3.png){: .center-image }
 
-The second grammar is recursive and employs a new adjustment of size or `s`. The program stops once the triangle size can no longer be represented on the image space.
+The second grammar is recursive and employs a new adjustment of size or s. The program stops once the triangle size can no longer be represented on the image space.
 
 ## Color
 CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] for saturation, [0,1] for brightness, and [0,1] for alpha (opacity). When brightness is set to 0 or 1, the result is white and black, respectively. 
