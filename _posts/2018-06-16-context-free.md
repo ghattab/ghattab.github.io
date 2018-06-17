@@ -23,7 +23,6 @@ The triangle command can be exchanged by a circle or square.
     <div markdown="1">![](/images/fig1.png)</div>
 </div>
 
-<div markdown="1">this is a __test__</div>
 
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
