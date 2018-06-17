@@ -6,7 +6,7 @@ comments: false
 ---
 
 Context Free (CF) grammars rely on shape grammars. A shape grammar consists of a set of transformation and production rules. It applies a step-by-step way to generate and operate on a set, or language, of designs (1). The rules of a shape grammar defines how an existing (part of a) shape can be changed. Such rules operate on design elements to compute designs. Context Free Drawing or CFDG generates images from a written grammar (i.e. `cfdg` file) (2). The program follows the instructions or set of rules. 
-Example usage: `./cfdg instructions.cfdg img.png`
+An example usage is as follows: `$ ./cfdg instructions.cfdg img.png`
 
 
 ## Shapes
