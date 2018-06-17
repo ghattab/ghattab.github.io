@@ -38,15 +38,8 @@ rule draw {
 TRIANGLE {}    
 CIRCLE {x 1}
 }</code></pre>  
-The extra line adds a circle 5 units away from the triangle on the x axis. The shapes scale within the bounds of the image space.
+The extra line adds a circle 5 units away from the triangle on the `x` axis. The shapes scale within the bounds of the image space.
     </div>
-    <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig2.png)</pre>
-    </div>
-</div>
-
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
         rule draw {
@@ -54,13 +47,17 @@ The extra line adds a circle 5 units away from the triangle on the x axis. The s
 	        draw {x 1 s 0.7}
 			  }</code></pre>
 The extra line calls the `draw` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
-		</div>
-    <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig3.png)</pre>
     </div>
 </div>
 
-This instruction is recursive and employs a new adjustment of size or s. The program stops once the triangle size can no longer be represented on the image space.
+
+The second grammar is recursive and employs a new adjustment of size or `s`. The program stops once the triangle size can no longer be represented on the image space.
+
+
+<p float=“middle”>
+  <img src="https://ghattab.github.io/images/fig2.png" width="100" />
+  <img src="https://ghattab.github.io/images/fig3.png" width="100" /> 
+</p>
 
 
 ## Color
