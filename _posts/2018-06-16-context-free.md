@@ -19,11 +19,13 @@ rule draw {
 TRIANGLE {} 
 }</code></pre>
 		</div>
-		<div vertical-align=‘middle’>The triangle command can be exchanged by a circle or square.</div>
+		<div>The triangle command can be exchanged by a circle or square.</div>
 </div>
-    ![](/images/fig1.png)
-Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
+![](/images/fig1.png)
+<div style="display: inline-block;">
+Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
+</div>
 
 ## Geometry
 Spatial rules employ shape operations of addition, subtraction, and many components of the procrustes analysis such as: translation, skew, rotation, uniform scaling, etc. For example, the translation of a shape along the x-axis is made using the adjustment x, as seen below.
