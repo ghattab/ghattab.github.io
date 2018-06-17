@@ -24,8 +24,8 @@ The triangle command can be exchanged by a circle or square.
     <td><img src=“https://ghattab.github.io/images/fig2.png” height="42" width="42" /></td>
   </tr>
 </table>
-  
 
+<img src=“https://ghattab.github.io/images/fig2.png” height="42" width="42" />
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
