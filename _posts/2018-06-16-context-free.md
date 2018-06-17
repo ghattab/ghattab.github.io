@@ -21,7 +21,7 @@ TRIANGLE {}
 }</pre>
 The triangle command can be exchanged by a circle or square.
 		</td>
-    <td><img src=“https://ghattab.github.io/images/fig2.png” height="42" width="42"></td>
+    <td><img src=“https://ghattab.github.io/images/fig2.png” height="42" width="42" /></td>
   </tr>
 </table>
   
