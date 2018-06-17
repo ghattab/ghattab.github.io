@@ -46,11 +46,17 @@ The extra line adds a circle 5 units away from the triangle on the `x` axis. The
 	        TRIANGLE {}  
 	        draw {x 1 s 0.7}
 			  }</code></pre>
-The extra line calls the `draw` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
+The extra line calls the `draw` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the `x` axis (size is multiplied by 0.7). 
     </div>
 </div>
 
+<div style="text-align:center"><img src ="https://ghattab.github.io/images/fig1.png” /> <img src ="https://ghattab.github.io/images/fig2.png” /> </div>
+
 ![](/images/fig2.png) ![](/images/fig3.png)  
+
+<p align="center">
+<img src ="https://ghattab.github.io/images/fig1.png” /> <img src ="https://ghattab.github.io/images/fig2.png” />
+</p>
 
 The second grammar is recursive and employs a new adjustment of size or `s`. The program stops once the triangle size can no longer be represented on the image space.
 
