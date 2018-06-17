@@ -107,8 +107,8 @@ shape draw
 
 By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
 ```
-./cfdg -a 5 instructions.cfdg img.png
-convert img_*.png animation.gif
+$ ./cfdg -a 5 instructions.cfdg img.png
+$ convert img_*.png animation.gif
 ```
 
 ## Sierpinski triangle
