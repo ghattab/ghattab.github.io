@@ -25,6 +25,9 @@ The triangle command can be exchanged by a circle or square.
     </div>
 </div>
 
+
+![](https://ghattab.github.io/images/fig1.png)
+
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
 
