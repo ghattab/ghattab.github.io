@@ -12,13 +12,20 @@ Example usage: ```./cfdg instructions.cfdg img.png```
 ## Shapes
 Shape grammars rely on shape elements or facts. They are often: points, lines, planes, etc. A shape rule can be written as follows to display either a triangle, or a square, or a circle. A shape rule starts with ```startshape```.
 
+<table><tr><td><pre>startshape draw
+rule draw { 
+TRIANGLE {} 
+}</pre></td><td><img src=‘images/fig1.png’></td></tr></table>
+
 <div style="column-count: 2">
+    <div style="display: inline-block;">
         <pre>startshape draw
 rule draw { 
 TRIANGLE {} 
 }</pre>  
 The triangle command can be exchanged by a circle or square.
-<img style="float: right;" src=“images/fig1.png”>
+</div>
+<img style="float: right;" src="images/fig1.png”>
 </div>
 
 
