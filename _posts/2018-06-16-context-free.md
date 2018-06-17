@@ -21,7 +21,7 @@ TRIANGLE {}
 The triangle command can be exchanged by a circle or square.
     </div>
     <div style="display: inline-block;">
-        <pre>![](/images/fig1.png)</pre>
+        <pre>![](https://ghattab.github.io/images//fig1.png)</pre>
     </div>
 </div>
 
@@ -41,7 +41,7 @@ CIRCLE {x 1}
 The extra line adds a circle 5 units away from the triangle on the x axis. The shapes scale within the bounds of the image space.
     </div>
     <div style="display: inline-block;">
-        <pre>![](/images/fig2.png)</pre>
+        <pre>![](https://ghattab.github.io/images//fig2.png)</pre>
     </div>
 </div>
 
@@ -56,7 +56,7 @@ The extra line adds a circle 5 units away from the triangle on the x axis. The s
 The extra line calls the ```draw``` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the x axis (size is multiplied by 0.7). 
 		</div>
     <div style="display: inline-block;">
-        <pre>![](/images/fig3.png)</pre>
+        <pre>![](https://ghattab.github.io/images//fig3.png)</pre>
     </div>
 </div>
 
@@ -79,7 +79,7 @@ CIRCLE {sat 1 hue 60 b 1 x 2 y -1} //yellow
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-        <pre>![alt](/images/fig4.png)</pre>
+        <pre>![](https://ghattab.github.io/images//fig4.png)</pre>
     </div>
 </div>
 
@@ -101,7 +101,7 @@ draw[x 0.1 r 4 time 1 0 x 0.1]
 CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.
     </div>
     <div style="display: inline-block;">
-        <pre>![](/images/fig5.gif)</pre>
+        <pre>![](https://ghattab.github.io/images//fig5.gif)</pre>
     </div>
 </div>
 
@@ -127,7 +127,7 @@ draw {s 0.5 x 0.25 y -0.144 b 0.1}
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-        <pre>![](/images/fig6.png)</pre>
+        <pre>![](https://ghattab.github.io/images//fig6.png)</pre>
     </div>
 </div>
 
