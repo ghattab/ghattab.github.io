@@ -90,7 +90,7 @@ draw[x 0.1 r 4 time 1 0 x 0.1]
 }</code></pre>  
     </div>
     <div style="display: inline-block;">
-        <pre>CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.</pre>
+        CF::Time = [time 0 1] configurates the time variable. Notice in this example there are multiple rules and a new syntax style.
     </div>
 </div>
 
