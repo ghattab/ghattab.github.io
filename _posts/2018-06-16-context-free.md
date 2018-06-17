@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “Context Free”
-description: “Context Free ”
+description: “Context Free Drawing relies on a set of  rules (grammar) that the program uses to generates images.”
 comments: false
 ---
 
@@ -126,9 +126,9 @@ draw {s 0.5 x -0.25 y -0.144 b 0.1}
 draw {s 0.5 x 0.25 y -0.144 b 0.1}
 }</code></pre>
 		</div>
-		<div markdown=“1” style="display: inline-block;">
-			![](https://ghattab.github.io/images/fig6.png)
-		</div>
+    <div style="display: inline-block;">
+        <pre>![](https://ghattab.github.io/images/fig6.png)</pre>
+    </div>
 </div>
 
 
