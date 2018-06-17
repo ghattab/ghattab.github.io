@@ -107,21 +107,21 @@ To demonstrate the power of CF, let’s create the Sierpinski triangle (3).
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
 rule colortr{
-TRIANGLE{}
+	TRIANGLE{}
 }
 rule draw {
-colortr{sat 1 hue 240 b 0.5}
-draw {s 0.5 y 0.288 b 0.1}
-draw {s 0.5 x -0.25 y -0.144 b 0.1}
-draw {s 0.5 x 0.25 y -0.144 b 0.1}
+	colortr{sat 1 hue 240 b 0.5}
+	draw {s 0.5 y 0.288 b 0.1}
+	draw {s 0.5 x -0.25 y -0.144 b 0.1}
+	draw {s 0.5 x 0.25 y -0.144 b 0.1}
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig6.png)</pre>
+For each triangle, three triangles (half the size) are created at each corner of the triangle. The top triangle: The distance between the center of the triangle to the top of the triangle is given by x/sqrt(3). The smaller triangle moves up by x/2*sqrt(3). Start: Triangle length of one so 1/2*sqrt(3) is 0.288. And so on.
     </div>
 </div>
 
-
+![](https://ghattab.github.io/images/fig6.png)
 
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
