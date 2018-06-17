@@ -62,12 +62,12 @@ CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] fo
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape cc
 rule cc {
-	CIRCLE {sat 1 hue 0 b 1} 
-	CIRCLE {sat 1 hue 120 b 1 x 1}  
-	CIRCLE {sat 1 hue 240 b 1 x 2} 
-	CIRCLE {sat 1 hue 180 b 1 y -1} 
-	CIRCLE {sat 1 hue 300 b 1 x 1 y -1} 
-	CIRCLE {sat 1 hue 60 b 1 x 2 y -1} 
+ CIRCLE {sat 1 hue 0 b 1}  
+ CIRCLE {sat 1 hue 120 b 1 x 1}  
+ CIRCLE {sat 1 hue 240 b 1 x 2} 
+ CIRCLE {sat 1 hue 180 b 1 y -1} 
+ CIRCLE {sat 1 hue 300 b 1 x 1 y -1} 
+ CIRCLE {sat 1 hue 60 b 1 x 2 y -1} 
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
