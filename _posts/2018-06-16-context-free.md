@@ -80,7 +80,7 @@ rule cc {
     </div>
 </div>
 
-![](https://ghattab.github.io/images/fig4.png){: .center-image }
+![](/images/fig4.png){: .center-image }
 
 ## Time
 CF is powerful enough to render an animation or a set of frames. Each shape has a start time, when it starts to be drawn, and an end time, when it’s drawn. This defines a 1D affine transform with a pair that share the same scale element. The adjustments are time and timescale.
@@ -103,7 +103,7 @@ shape draw
     </div>
 </div>
 
-![](https://ghattab.github.io/images/fig5.gif){: .center-image }
+![](/images/fig5.gif){: .center-image }
 
 By default, CF accumulates the existence time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation: 
 ```
@@ -132,9 +132,9 @@ For each triangle, 3 triangles — that are half the size — are created at eac
     </div>
 </div>
 
-![](https://ghattab.github.io/images/fig6.png){: .center-image }
+![](/images/fig6.png){: .center-image }
 
 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
-2. Coyne, C. and Horigan, J. and Lentczner, M. Context Free Art. ([website](https://www.contextfreeart.org/)).
+2. Coyne, C. and Horigan, J. and Lentczner, M. [Context Free Art](https://www.contextfreeart.org/).
 3. Conversano, E. and Tedeschini-Lalli, L., 2011. Sierpinski Triangles in Stone on Medieval Floors in Rome, APLIMAT Journal of Applied Mathematics, 4: 114, 122.
