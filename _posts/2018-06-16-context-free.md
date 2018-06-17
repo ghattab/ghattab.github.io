@@ -71,12 +71,7 @@ rule cc {
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-		red
-		green
-		blue
-		cyan
-		magenta
-		yellow
+		Each circle instruction displays a color: red, green, blue, cyan, magenta, yellow
     </div>
 </div>
 
