@@ -42,10 +42,10 @@ The extra line adds a circle 5 units away from the triangle on the `x` axis. The
     </div>
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape draw
-        rule draw {
-	        TRIANGLE {}  
-	        draw {x 1 s 0.7}
-			  }</code></pre>
+rule draw {
+TRIANGLE {}  
+draw {x 1 s 0.7}
+}</code></pre>
 The extra line calls the `draw` instruction which draws an increasingly small triangle every 3 units from the previous triangle on the `x` axis (size is multiplied by 0.7). 
     </div>
 </div>
