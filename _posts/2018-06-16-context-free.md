@@ -60,18 +60,25 @@ CF uses the HSBA color space. The HSBA coordinates are [0,360] for hue, [0,1] fo
     <div style="display: inline-block;">
         <pre><code class="language-c">startshape cc
 rule cc {
-CIRCLE {sat 1 hue 0 b 1} //red
-CIRCLE {sat 1 hue 120 b 1 x 1} //green  
-CIRCLE {sat 1 hue 240 b 1 x 2} //blue
-CIRCLE {sat 1 hue 180 b 1 y -1} //cyan
-CIRCLE {sat 1 hue 300 b 1 x 1 y -1} //magenta
-CIRCLE {sat 1 hue 60 b 1 x 2 y -1} //yellow
+	CIRCLE {sat 1 hue 0 b 1} 
+	CIRCLE {sat 1 hue 120 b 1 x 1}  
+	CIRCLE {sat 1 hue 240 b 1 x 2} 
+	CIRCLE {sat 1 hue 180 b 1 y -1} 
+	CIRCLE {sat 1 hue 300 b 1 x 1 y -1} 
+	CIRCLE {sat 1 hue 60 b 1 x 2 y -1} 
 }</code></pre>
 		</div>
     <div style="display: inline-block;">
-        <pre>![](https://ghattab.github.io/images/fig4.png)</pre>
+		red
+		green
+		blue
+		cyan
+		magenta
+		yellow
     </div>
 </div>
+
+![](https://ghattab.github.io/images/fig4.png)
 
 ## Time
 CF is powerful enough to render an animation or a set of frames. Each shape has a start time, when it starts to be drawn, and an end time, when it’s drawn. This defines a 1D affine transform with a pair that share the same scale element. The adjustments are time and timescale.
