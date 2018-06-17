@@ -50,7 +50,7 @@ The extra line calls the `draw` instruction which draws an increasingly small tr
     </div>
 </div>
 
--> ![](/images/fig2.png) ![](/images/fig3.png) <-
+<center> ![](/images/fig2.png) ![](/images/fig3.png) </center>
 
 The second grammar is recursive and employs a new adjustment of size or `s`. The program stops once the triangle size can no longer be represented on the image space.
 
