@@ -15,7 +15,7 @@ Shape grammars rely on shape elements or facts. They are often: points, lines, p
 <table><tr><td><pre>startshape draw
 rule draw { 
 TRIANGLE {} 
-}</pre></td><td><img src=‘images/fig1.png’></td></tr></table>
+}</pre></td><td><img src=“https://ghattab.github.io/images/fig1.png”></td></tr></table>
 
 <div style="column-count: 2">
     <div style="display: inline-block;">
