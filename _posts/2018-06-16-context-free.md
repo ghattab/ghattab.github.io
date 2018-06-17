@@ -20,7 +20,7 @@ TRIANGLE {}
 }</pre>  
 The triangle command can be exchanged by a circle or square.
 </div>
-        <pre>![](https://ghattab.github.io/images/fig1.png?v=4&s=50)</pre>
+![](https://ghattab.github.io/images/fig1.png?v=4&s=50)  
 </div>
 
 
