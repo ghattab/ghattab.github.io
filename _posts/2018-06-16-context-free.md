@@ -20,9 +20,10 @@ TRIANGLE {}
 }</pre>  
 The triangle command can be exchanged by a circle or square.
 </div>
-![](https://ghattab.github.io/images/fig1.png?v=4&s=50)  
+![](https://raw.githubusercontent.com/ghattab/ghattab.github.io/master/images/fig1.png?token=ANPi0X4HvfgR2PrFetyEuO5w0c0cAcV9ks5bL37BwA%3D%3D?v=4&s=50)  
 </div>
 
+![](https://raw.githubusercontent.com/ghattab/ghattab.github.io/master/images/fig1.png?token=ANPi0X4HvfgR2PrFetyEuO5w0c0cAcV9ks5bL37BwA%3D%3D?v=4&s=50)  
 
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
 
