@@ -3,11 +3,11 @@ layout: page
 permalink: /research/
 title: 
 tags: [research]
-modified: 20-02-2018
+modified: 02-07-2018
 comments: false
 ---
 
-[Last updated: 20-02-2018]
+[Last updated: 02-07-2018]
 
 
 ## Bioimaging: Translational oncology
@@ -25,7 +25,7 @@ In order to overcome the aforementioned bottleneck, I propose a novel framework,
 To address the dynamics of rapid growth and the diversity of bacterial forms in this particular data, the CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal Experiments by considering two new data abstractions: the particle and the patch.
 CYCASP selects groups of particle trajectories in order to obtain a better granularity of the colony’s growth. It processes both identifcation and tracking of bacterial subpopulations. Contrary to a minimum of 2 days of manual analyses previously required of our collaborators, our reference results show that CYCASP can automatically extract patch lineages in less than 5 min for biological data sets of more than 100 frames and 300 cells.
 
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](http://dx.doi.org/10.1038/srep12097)
+[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017)
 
 
 ## Biophysics: Membrane proteins
