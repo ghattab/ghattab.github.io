@@ -21,7 +21,7 @@ comments: false
 
 ## Square, Circle, Triangle
 
-In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. These studies piqued my interest and I’ve decided to rediscover them in a more organic manner. I’ve employed a Context-Free grammar for each to generate the following drawings. 
+In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. These studies piqued my interest and I’ve decided to rediscover them in a more organic manner. I’ve employed a [Context-Free grammar](https://ghattab.github.io/context-free/) for each to generate the following drawings. 
 
 ![Circle](/images/circle.png) ![Triangle](/images/triangle.png)
 
