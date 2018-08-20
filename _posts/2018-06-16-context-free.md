@@ -130,7 +130,7 @@ For each triangle, 3 triangles — that are half the size — are created at eac
 ![](/images/fig6.png){: .center-image }
 
 
-For complete documentation, the official wiki details shape adjustements, shape replacements, shape rules, expressions and control structures (4).
+For complete documentation, the official wiki details shape adjustements, shape replacements, shape rules, expressions, and control structures (4).
  
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
 2. Coyne, C. and Horigan, J. and Lentczner, M. [Context Free Art](https://www.contextfreeart.org/).
