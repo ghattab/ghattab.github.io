@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /curriculum/
 title: Curriculum Vitae
 tags: [about]
 modified: 11-01-2018
