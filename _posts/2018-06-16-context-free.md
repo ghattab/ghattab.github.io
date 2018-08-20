@@ -130,6 +130,9 @@ For each triangle, 3 triangles — that are half the size — are created at eac
 ![](/images/fig6.png){: .center-image }
 
 
+For complete documentation, the official wiki details shape adjustements, shape replacements, shape rules, expressions and control structures (4).
+ 
 1. Knight, T., 1999. Shape Grammars in Education and Practice: History and Prospects.
 2. Coyne, C. and Horigan, J. and Lentczner, M. [Context Free Art](https://www.contextfreeart.org/).
 3. Conversano, E. and Tedeschini-Lalli, L., 2011. Sierpinski Triangles in Stone on Medieval Floors in Rome, APLIMAT Journal of Applied Mathematics, 4: 114, 122.
+4. Context-free by John Horigan. [Wiki](https://github.com/MtnViewJohn/context-free/wiki).
