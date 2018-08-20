@@ -12,4 +12,3 @@ For the detailed CV, please download the [**PDF**](https://www.dropbox.com/s/tfv
 
 
 
-<script src="https://embed.github.com/view/geojson/ghattab/geo-journal/master/countries.geojson"></script>
