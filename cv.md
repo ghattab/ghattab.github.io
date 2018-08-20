@@ -9,3 +9,7 @@ comments: false
 
 
 For the detailed CV, please download the [**PDF**](https://www.dropbox.com/s/tfvso5on5ybcacv/ghattab_cv.pdf?dl=0).
+
+
+
+<script src="https://embed.github.com/view/geojson/ghattab/geo-journal/master/countries.geojson"></script>
