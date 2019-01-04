@@ -21,14 +21,13 @@ These methods increase the rate at which microbiologists record cellular events 
 However, none of the current approaches have been successful in extracting lineage information for *S. meliloti* colonies.
 The inability to process this data leads to a bottleneck and is attributed to high values for various data properties (cell number, cell shape diversity, noise, etc). Moreover, the large temporal separation between the images (i.e. the temporal resolution: 1 frame/30 min) is one of the biggest challenges in cell tracking. This hinders any possibility to segment and track individual cells.
 
-The task of characterizing different cell behaviors within a colony that are consistent in space and time is finding bacterial subpopulations. The latter is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions.
-I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms.
-The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch.
-CYCASP selects groups of particle trajectories in order to obtain a better granularity of the colony’s growth. It processes both identification and tracking of bacterial subpopulations. Contrary to a minimum of 2 days of manual analyses previously required of our collaborators, our reference results show that CYCASP can automatically extract patch lineages in less than 5 min for biological data sets of more than 100 frames and 300 cells.
+The task of characterizing different cell behaviors within a colony that are consistent in space and time is finding bacterial subpopulations. The latter is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions. I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms. The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch.
 
 [![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017)
 
-Thanks to the (S)egmentation fr(EE) workflow, it is also possible to quickly (Vis)ualize a space-time cube of the particle trajectories. SEEVIS automatically creates a mental map of the colony and offers three different color mappings to highlight different features in 1.15 s/frame.
+The main findings were: (1) the framework automatically processed both identification and tracking of bacterial subpopulations, (2) it selected groups of particle trajectories to obtain a better granularity of the colony growth, (3) in two different biological experiments, the extracted patch lineages indicated either a switch in cell state, or cells that entered the quorum sensing state, (4) given a 100 frames movie showcasing a colony of 300 cells, a patch lineage is extracted in less than 5 min as opposed to 2 days of manual annotation.
+
+Thanks to the particle abstraction, it is also possible to visualize a space-time cube of the particle trajectories at a rate of 1.15 s/frame. This software solution automatically creates a mental map of the colony and offers three different color mappings to highlight different features.
 
 [![DOI](https://www.ncbi.nlm.nih.gov/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png
 )](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889)
