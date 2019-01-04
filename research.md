@@ -28,7 +28,7 @@ CYCASP selects groups of particle trajectories in order to obtain a better granu
 
 [![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017)
 
-Thanks to the (S)egmentation fr(EE) workflow, it is also possible to quickly (Vis)ualize a space-time cube of the particle trajectories. Hence, SEEVIS automatically creates a mental map of the colony and offers three different color mappings to highlight different features in 1.15 s/frame.
+Thanks to the (S)egmentation fr(EE) workflow, it is also possible to quickly (Vis)ualize a space-time cube of the particle trajectories. SEEVIS automatically creates a mental map of the colony and offers three different color mappings to highlight different features in 1.15 s/frame.
 
 [![DOI](https://www.ncbi.nlm.nih.gov/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png
 )](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889)
