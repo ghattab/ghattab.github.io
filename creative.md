@@ -32,7 +32,7 @@ Amino acids occur naturally in plant and animal tissues and are the basic consti
 Each amino acid is a simple organic compound containing both a carboxyl (—COOH) and an amino (—NH2) group.
 Yet particular features distinguish each molecule.
 To learn the amino acids properties and molecular structure of amino acids, I developed an intuitive system to code these features into shapes, colors, and textures.
-The result is a Quartet-like card game that employs the potential of infographics, graphic design, and game motivation. This work was presented at the [Info+](http://informationplusconference.com/2016/) conference at ECUAD, Vancouver, Canada. Print ready files are available under the Creative Commons BY-NC-SA 4.0 International License.
+The result is a Quartet-like card game that employs the potential of infographics, graphic design, and game motivation. This work was presented at the [Info+](http://informationplusconference.com/2016/) conference and exhibition at ECUAD, Vancouver, Canada. Print ready files are available under the Creative Commons BY-NC-SA 4.0 International License.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.55101.svg)](https://doi.org/10.5281/zenodo.55101)
 
