@@ -24,7 +24,7 @@ The result is a mnemonic card set that combines Warholian pop art, graphic desig
 
 [![DOI](https://zenodo.org/badge/168874159.svg)](https://zenodo.org/badge/latestdoi/168874159)
 
-![Gravity](/images/gravity.png)
+![Light](/images/light.png)
 
 
 ## Square, Circle, Triangle
