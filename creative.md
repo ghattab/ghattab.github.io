@@ -22,9 +22,10 @@ Physics is concerned with the nature and properties of matter and energy. From m
 To learn fourteen of the most used physical constants in a fun way, I developed a mnemonic system that relies on amusing associations and consistent visual encodings. 
 The result is a mnemonic card set that combines Warholian pop art, graphic design, and information design. Print ready files are available under the Creative Commons BY-NC-SA 4.0 International License.
 
-[[![DOI](https://zenodo.org/badge/168874159.svg)](https://zenodo.org/badge/latestdoi/168874159)](https://bit.ly/banana-physics)
+[![DOI](https://zenodo.org/badge/168874159.svg)](https://zenodo.org/badge/latestdoi/168874159)
 
-![Light](/images/light.png)
+[![Light](/images/light.png)](https://bit.ly/banana-physics)
+
 
 
 ## Square, Circle, Triangle
