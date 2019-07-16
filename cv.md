@@ -12,7 +12,7 @@ Prior to that, I obtained both my Bachelor’s and Master’s degrees in Bioinfo
 
 ![](/images/cv/paths.png){: .center-image }
 
-For the detailed CV, please download the [**PDF**](https://www.dropbox.com/s/tfvso5on5ybcacv/ghattab_cv.pdf?dl=0).
+For the detailed CV, please download the [**PDF**](https://www.dropbox.com/s/rykyytty7zm04wi/ghattab_cv.pdf?dl=0).
 
 
 
