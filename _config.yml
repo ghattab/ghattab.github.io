@@ -22,7 +22,8 @@ owner:
 #google_analytics:
 #google_verify:
 #bing_verify:
-
+  medium: ghattab
+  
 # Links to include in top navigation
 # For external links add external: true
 links:
