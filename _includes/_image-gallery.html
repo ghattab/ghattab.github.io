@@ -14,7 +14,7 @@
       file.extname == '.JPEG' %}
 
       <a href="{{ file.path }}" title="{{ filename }}">
-        <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&t=square&a=entropy" alt="{{ filename }}" />
+        <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&filt=greyscale&t=square&a=entropy" alt="{{ filename }}" />
         <span>{{ filename }}</span>
       </a>
     {% endif %}
