@@ -35,8 +35,8 @@ links:
 #    url: /publications/
   - title: Creative
     url: /creative/
-  - title: Blog posts
-    url: /blog/
+#  - title: Blog posts
+#    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin

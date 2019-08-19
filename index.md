@@ -2,7 +2,7 @@
 layout: home2
 title:
 description: "Georges Hattab website"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [creative, algorithm, responsive, research, meaning, design]
 ---
 
 
