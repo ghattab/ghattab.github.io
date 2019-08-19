@@ -8,14 +8,16 @@
 <div class="image-gallery">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
-
-      {% assign filenameparts = file.path | split: "/" %}
-      {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    {% if file.extname == '.jpg' or
+      file.extname == '.jpeg' or
+      file.extname == '.JPG' or
+      file.extname == '.JPEG' %}
 
       <a href="{{ file.path }}" title="{{ filename }}">
         <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&t=square&a=entropy" alt="{{ filename }}" />
         <span>{{ filename }}</span>
       </a>
+    {% endif %}
   {% endif %}
 {% endfor %}
 </div>
