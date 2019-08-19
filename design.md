@@ -16,7 +16,7 @@ comments: false
 <!---->
 <!--* Reversality. Hattab, Bahram, Nazar 2015. A collaboration with the UN Refugee Agency ([UNHCR](http://www.unhcr.org/)). [![](/images/cover1.jpg){:style="float: right;"}](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)-->
 
-## Design: Banana Physics
+## Banana Physics
 
 Physics is concerned with the nature and properties of matter and energy. From mechanics, to light and other radiation, to electricity, to the structure of atoms, physicists have established physical constants. They are believed to be both universal in nature and have constant value in time. They fall into three categories: exact, computed, measured.
 To learn fourteen of the most used physical constants in a fun way, I developed a mnemonic system that relies on amusing associations and consistent visual encodings. 
@@ -35,7 +35,7 @@ In the early 1960s Italian designer Bruno Munari published his visual case studi
 ![Square](/images/square.png) ![Circle](/images/circle.png) ![Triangle](/images/triangle.png)
 
 
-## Design: Amino Acids
+## Amino Acids
 
 Amino acids occur naturally in plant and animal tissues and are the basic constituents of proteins.
 Each amino acid is a simple organic compound containing both a carboxyl (—COOH) and an amino (—NH2) group.
