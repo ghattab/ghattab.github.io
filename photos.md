@@ -9,7 +9,11 @@ galleries:
   - title: Homepage
     image: /images/snow.jpg
     url: /
-  - title: Nature
-    image: /images/nature/1.jpg
-    url: /nature
+    - title: Nature
+      image: /images/nature/1.jpg
+      url: /nature
+    - title: Portrait
+      image: /images/portrait/DSC_0068.jpg
+      url: /portrait
+
 ---
