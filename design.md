@@ -32,7 +32,8 @@ The result is a mnemonic card set that combines Warholian inspired art, graphic 
 
 In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. These studies piqued my interest and I’ve decided to rediscover them in a more organic manner. I’ve employed a Context-Free grammar for each of them to generate the following drawings.
 
-![Square](/images/square.png) ![Circle](/images/circle.png) ![Triangle](/images/triangle.png)
+![Circle](/images/circle.png) ![Square](/images/square.png) ![Triangle](/images/triangle.png)
+
 
 
 ## Amino Acids
