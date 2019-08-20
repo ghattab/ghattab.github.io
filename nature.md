@@ -1,7 +1,7 @@
 ---
 layout: page2
 permalink: /nature/
-title: Nature
+title: 
 tags: [nature, photography]
 modified: 20-08-2019
 comments: false
