@@ -38,7 +38,7 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      {% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+      {% if page.galleries %}{% include _image-gallery-index.html %}{% endif %}
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
