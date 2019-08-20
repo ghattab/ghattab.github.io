@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page2n
 permalink: /nature/
 title:
 tags: [nature, photography]
