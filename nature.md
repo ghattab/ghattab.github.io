@@ -1,8 +1,8 @@
 ---
 layout: page2
-permalink: /creative/
+permalink: /nature/
 title:
-tags: [creative]
+tags: [nature]
 modified: 19-08-2019
 comments: false
 ---
