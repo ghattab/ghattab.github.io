@@ -1,7 +1,7 @@
 ---
 layout: page3
 permalink: /photos/
-title:
+title: Photography
 tags: [photo]
 modified: 20-08-2019
 comments: false
