@@ -7,4 +7,4 @@ modified: 20-08-2019
 comments: false
 ---
 
-[<i class="fas fa-arrow-left"></i>](https://ghattab.github.io/photos/)
+[<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/photos/)
