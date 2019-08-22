@@ -27,7 +27,7 @@ This bottleneck is attributed to high values for various data properties (cell n
 The main findings were: (1) the framework automatically processed both identification and tracking of bacterial subpopulations, (2) it selected groups of particle trajectories to obtain a better granularity of the colony growth, (3) the extracted patch lineages of different movies confirmed biological results from two separate experiments (e.g. quorum sensing), (4) a patch lineage is extracted in less than 5 min as opposed to 2 days of manual annotation for a given movie of 100 frames showcasing 300 cells.
 
 Thanks to the particle abstraction, it is also possible to visualize a space-time cube of the particle trajectories at a rate of 1.15 s/frame. This software solution automatically creates a mental map of the colony and offers three different color mappings to highlight different features.
-</details>
+</p></details>
 
 [![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017) [![DOI](https://www.ncbi.nlm.nih.gov/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png
 )](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889)
