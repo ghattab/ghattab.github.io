@@ -20,9 +20,7 @@ Understanding the mechanisms that regulate cellular reactions is facilitated by 
 These methods increase the rate at which microbiologists record cellular events and colony growth. Related work for computational analysis uses the general paradigm (i.e. segmentation, tracking, lineage construction).
 However, none of the current approaches have been successful in extracting lineage information for *S. meliloti* colonies.
 This bottleneck is attributed to high values for various data properties (cell number, cell shape diversity, noise, etc). Moreover, the large temporal separation between the images (i.e. the temporal resolution: 1 frame/30 min) is one of the biggest challenges in cell tracking. This hinders any possibility to segment and track individual cells.
-[expand]
-The task of characterizing different cell behaviors within a colony that are consistent in space and time corresponds to finding bacterial subpopulations. It is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions. I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms. The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch.
-[/expand]
+[expand] The task of characterizing different cell behaviors within a colony that are consistent in space and time corresponds to finding bacterial subpopulations. It is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions. I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms. The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch. [/expand]
 
 [![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017)
 
