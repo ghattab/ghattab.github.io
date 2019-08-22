@@ -23,7 +23,6 @@ This bottleneck is attributed to high values for various data properties (cell n
 <details>
 <summary><b>Read more</b></summary>
 <p>
-
 The task of characterizing different cell behaviors within a colony that are consistent in space and time corresponds to finding bacterial subpopulations. It is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions. I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms. The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch.
 
 The main findings were: (1) the framework automatically processed both identification and tracking of bacterial subpopulations, (2) it selected groups of particle trajectories to obtain a better granularity of the colony growth, (3) the extracted patch lineages of different movies confirmed biological results from two separate experiments (e.g. quorum sensing), (4) a patch lineage is extracted in less than 5 min as opposed to 2 days of manual annotation for a given movie of 100 frames showcasing 300 cells.
