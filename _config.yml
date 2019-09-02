@@ -1,4 +1,4 @@
-title: 🅖🅗 - Bioimaging & More
+title: Georges Hattab
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ghattab.github.io
@@ -48,6 +48,8 @@ highlighter: rouge
 markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
+plugins:
+  - jekyll-seo-tag
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
