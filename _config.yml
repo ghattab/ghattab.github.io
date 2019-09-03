@@ -1,5 +1,5 @@
-title: Data Mining, Design, and Information Encoding
-description:      Welcome to my site.
+title: 🅖🅗
+description: Data Mining, Design, and Information Encoding
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ghattab.github.io
 #http://localhost:5000
@@ -47,7 +47,7 @@ pygments:    true
 highlighter: rouge
 markdown:    kramdown
 kramdown:
-  extensions: ["strikethrough"]
+extensions: ["strikethrough"]
 plugins:
   - jekyll-seo-tag
 
