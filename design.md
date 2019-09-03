@@ -3,25 +3,17 @@ layout: page
 permalink: /design/
 title: Design
 tags: [design]
-modified: 09-02-2019
+modified: 03-09-2019
 comments: false
 ---
 
-[Last updated: 09-02-2019]
+[Last updated: 03-09-2019]
 
-## Book covers
-
-I have been involved in the design of a couple of book covers:
-* [Comparative Genomics: Methods and Protocols](https://www.springer.com/gp/book/9781493974610). Setubal, Stoye, and Stadler 2017.
-<!-- [![](/images/cover0.jpg){:style="float: right;"}](https://link.springer.com/book/10.1007/978-1-4939-7463-4) -->
-
-* [Reversality](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/). Hattab, Bahram, Nazar 2015. A collaboration with the United Nations High Commissioner Refugee Agency (UNHCR).
-<!-- [![](/images/cover1.jpg){:style="float: right;"}](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/) -->
 
 ## Banana Physics
 
 Physics is concerned with the nature and properties of matter and energy. From mechanics, to light and other radiation, to electricity, to the structure of atoms, physicists have established physical constants. They are believed to be both universal in nature and have constant value in time. They fall into three categories: exact, computed, measured.
-To learn fourteen of the most used physical constants in a fun way, I developed a mnemonic system that relies on amusing associations and consistent visual encodings.
+To learn fourteen of the most used physical constants in a fun way, I developed a mnemonic system that relies on amusing associations and consistent [visual encodings](https://github.com/ghattab/banana-physics/blob/master/README.md#visual-encodings).
 The result is a mnemonic card set that combines Warholian inspired art, graphic design, information design, and data encoding. Print ready files are available under the Creative Commons BY-NC-SA 4.0 International License.
 
 [![DOI](https://zenodo.org/badge/168874159.svg)](https://zenodo.org/badge/latestdoi/168874159)
