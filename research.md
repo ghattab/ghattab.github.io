@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title:
+title: Research
 tags: [research]
 modified: 22-08-2019
 comments: false
