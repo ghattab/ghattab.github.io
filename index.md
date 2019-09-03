@@ -2,7 +2,7 @@
 layout: home2
 title:
 description: "Georges Hattab website"
-tags: [creative, algorithm, responsive, research, meaning, design]
+tags: [data, mining, information, encoding, decoding, visualization, algorithm, responsive, research, meaning, design]
 ---
 
 
