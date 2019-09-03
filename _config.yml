@@ -1,4 +1,4 @@
-title: Data Mining, Design, and Information Encoding - Georges Hattab
+title: Data Mining, Design, and Information Encoding
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ghattab.github.io
@@ -8,7 +8,7 @@ url:              //ghattab.github.io
 
 # Owner/author information
 owner:
-  # name:           Georges Hattab
+  name:           Georges Hattab
   avatar:         georges.png
   bio:            Postdoc. I seek novel algorithms and depictions in translational research using computer vision, machine learning, and information visualization. SciFi fan, fervent hiker, and creative writer.
   email:          ghattab@cebitec.uni-bielefeld.de
