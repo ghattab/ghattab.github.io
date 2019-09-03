@@ -12,9 +12,11 @@ comments: false
 ## Book covers
 
 I have been involved in the design of a couple of book covers:
-* Comparative Genomics: Methods and Protocols. Setubal, Stoye, and Stadler 2017. [![](/images/cover0.jpg){:style="float: right;"}](https://link.springer.com/book/10.1007/978-1-4939-7463-4)
+* [Comparative Genomics: Methods and Protocols](https://www.springer.com/gp/book/9781493974610). Setubal, Stoye, and Stadler 2017.
+<!-- [![](/images/cover0.jpg){:style="float: right;"}](https://link.springer.com/book/10.1007/978-1-4939-7463-4) -->
 
-* Reversality. Hattab, Bahram, Nazar 2015. A collaboration with the UN Refugee Agency ([UNHCR](http://www.unhcr.org/)). [![](/images/cover1.jpg){:style="float: right;"}](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/)
+* [Reversality](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/). Hattab, Bahram, Nazar 2015. A collaboration with the United Nations High Commissioner Refugee Agency (UNHCR).
+<!-- [![](/images/cover1.jpg){:style="float: right;"}](https://www.amazon.com/Reversality-Georges-Hattab/dp/1329113063/) -->
 
 ## Banana Physics
 
