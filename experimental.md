@@ -10,4 +10,4 @@ comments: false
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/photos/)
 
 <br/>
-_While you are experimenting, do not remain content with the surface of things._--Ivan Pavlov
+_"While you are experimenting, do not remain content with the surface of things."_--Ivan Pavlov
