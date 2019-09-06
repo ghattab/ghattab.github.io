@@ -6,7 +6,8 @@ tags: [experimental, photography]
 modified: 20-08-2019
 comments: false
 ---
-_While you are experimenting, do not remain content with the surface of things._--Ivan Pavlov
-<br/>
 
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/photos/)
+<br/>
+
+_While you are experimenting, do not remain content with the surface of things._--Ivan Pavlov
