@@ -3,15 +3,18 @@ layout: page3
 permalink: /photos/
 title: Photography
 tags: [photo]
-modified: 20-08-2019
+modified: 06-09-2019
 comments: false
 galleries:
   - title: Nature
-    image: /images/nature/1.jpg
+    image: /images/nature/2DSC_0967.jpg
     url: /nature
   - title: Portrait
     image: /images/portrait/DSC_0068.jpg
     url: /portrait
+  - title: Experimental
+    image: /images/experimental/IMG_0476.jpg
+    url: /experimental
 ---
 
 A photograph is a digital or physical record of an unchanging moment. **The appeal is in the coupling of temporal permanence and spatial reality.** My desire is to bring forth a record of what I see, beyond the conflict of information, the knowing.
