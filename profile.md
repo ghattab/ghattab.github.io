@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: about
 permalink: /profile/
 title: About
 tags: [about]
