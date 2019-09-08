@@ -29,14 +29,14 @@ owner:
 links:
   - title: Research
     url: /research/
-  - title: Curriculum
-    url: /curriculum/
 #  - title: Publications
 #    url: /publications/
-#  - title: Photograph
-#    url: /photos/
   - title: Design
     url: /design/
+  - title: Photograph
+    url: /photos/
+  - title: About
+    url: /profile/
 #  - title: Blog posts
 #    url: /blog/
 
