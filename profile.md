@@ -1,7 +1,7 @@
 ---
 layout: profile
 permalink: /profile/
-title: About
+title: Profile
 tags: [about]
 modified: 23-10-2018
 comments: false
