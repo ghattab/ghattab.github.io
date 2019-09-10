@@ -10,7 +10,7 @@ comments: false
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/research/)
 
 <br/>
-_"You need to let the little things that would ordinarily bore you suddenly thrill you."_―Andy Warhol
+_"All abstract sciences are nothing but the study of relations between signs."_--Denis Diderot
 
 <br/>
 <br/>
