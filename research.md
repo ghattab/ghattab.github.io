@@ -1,50 +1,25 @@
 ---
-layout: page
+layout: page3
 permalink: /research/
 title: Research
-tags: [research]
-modified: 22-08-2019
+tags: [research, science]
+modified: 19-09-2019
 comments: false
+galleries:
+  - title: Bioimaging
+    image: /images/bioimaging.jpg
+    url: /bioimaging
+  - title: Biophysics
+    image: /images/biophysics.jpg
+    url: /biophysics
+  - title: Mox Adventu
+    image: /images/title.jpg
+    url: /404
 ---
 
-[Last updated: 22-08-2019]
-
-## Oncology: Translational surgery
-
-Mox Adventu
-
-
-## Bioimaging: Cell subpopulations
-
-Understanding the mechanisms that regulate cellular reactions is facilitated by the coupling of high-resolution time-lapse imaging with microfluidic multiplexing.
-These methods increase the rate at which microbiologists record cellular events and colony growth. Related work for computational analysis uses the general paradigm (i.e. segmentation, tracking, lineage construction).
-However, none of the current approaches have been successful in extracting lineage information for *S. meliloti* colonies.
-This bottleneck is attributed to high values for various data properties (cell number, cell shape diversity, noise, etc). Moreover, the large temporal separation between the images (i.e. the temporal resolution: 1 frame/30 min) is one of the biggest challenges in cell tracking. This hinders any possibility to segment and track individual cells.
-<details><summary><b>Read more</b></summary>
-<p>The task of characterizing different cell behaviors within a colony that are consistent in space and time corresponds to finding bacterial subpopulations. It is linked to many biological questions, such as bacterial pathogenesis or the study of metabolic interactions. I propose a novel framework that combines spatial and temporal coherence. It addresses the dynamics of rapid growth and the diversity of bacterial forms. The CYCASP framework examines (C)olon(Y) growth and (C)ell (A)ttributes in (SP)atiotemporal experiments by considering two new data abstractions: the particle and the patch.</p>
-<p>
-The main findings were: (1) the framework automatically processed both identification and tracking of bacterial subpopulations, (2) it selected groups of particle trajectories to obtain a better granularity of the colony growth, (3) the extracted patch lineages of different movies confirmed biological results from two separate experiments (e.g. quorum sensing), (4) a patch lineage is extracted in less than 5 min as opposed to 2 days of manual annotation for a given movie of 100 frames showcasing 300 cells.
-</p><p>
-Thanks to the particle abstraction, it is also possible to visualize a space-time cube of the particle trajectories at a rate of 1.15 s/frame. This software solution automatically creates a mental map of the colony and offers three different color mappings to highlight different features.
-</p>
-</details>
+A research is a systematic investigation into and study of materials to establish facts and reach new conclusions. **The appeal lies in formulating and answering interesting questions.** My desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
+<br/>
 <br/>
 
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017) [![DOI](https://www.ncbi.nlm.nih.gov/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png
-)](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889)
 
-
-## Biophysics: Membrane proteins
-
-The structural biology of membrane proteins (MP) is hampered by the difficulty in producing and purifying them. I conducted a comprehensive analysis of protein databases and a large scale analysis of expression protocols.
-The former revealed that 213 unique membrane protein structures have been obtained after production of the target protein in *E. coli*. The latter consisted of text mining citing articles of each expression system. As found in the literature, there are three systems: primarily the T7 RNA polymerase, followed by the arabinose, then the T5 promoter based expression systems, respectively.
-<details><summary><b>Read more</b></summary>
-<p>
-The main findings were: (1) the C41λ(DE3) and C43λ(DE3) bacterial mutant hosts have contributed to 28% of non <i>E. coli</i> MP structures, (2) there is a preference for a combination of bacterial host-vector together with a bimodal distribution of induction temperature and of inducer concentration.
-Altogether these analyses provide a set of rules for the optimal use of bacterial expression systems in MP production.
-</p><p>
-Expression systems and bacterial hosts for MP structure determination are reported in the <a href='http://www.ibpc.fr/UMR7099/tool_box/methodological_approaches.html'>Tool Box</a> for MP studies. Detailed protocols to select bacterial expression mutant hosts and to optimize culture conditions are provided in Membrane Proteins Production for Structural Analysis. Mus-Veteau (Ed.), <a href='https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4'>Springer</a>, NY, USA. <a href='http://www.ibpc.fr/UMR7099/Publis/pdf/Hattab14-2.pdf'>Chapter 4</a>.
-</p>
-</details>
-<br/>
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](http://dx.doi.org/10.1038/srep12097)
+_"Scientific work must not be considered from the point of view of the direct usefulness of it. It must be done for itself, for the beauty of science, and then there is always the chance that a scientific discovery may become like the radium a benefit for mankind."_--Marie Skłodowska Curie
