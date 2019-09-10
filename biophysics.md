@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /physics/
+permalink: /biophysics/
 title: Biophysics
 tags: [research, biophysics, physics, membrane, proteins, text, mining]
 modified: 19-09-2019
