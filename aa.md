@@ -1,8 +1,8 @@
 ---
 layout: page2p
-permalink: /physics/
-title: Physics
-tags: [design, banana, physics]
+permalink: /aa/
+title: Amino Acids
+tags: [design, amino, acids, biochemistry, biology]
 modified: 09-09-2019
 comments: false
 ---

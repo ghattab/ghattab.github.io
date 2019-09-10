@@ -1,8 +1,8 @@
 ---
 layout: page2p
-permalink: /munari/
-title: Munari
-tags: [design, munari]
+permalink: /physics/
+title: Physics
+tags: [design, banana, physics]
 modified: 09-09-2019
 comments: false
 ---
