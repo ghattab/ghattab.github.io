@@ -1,5 +1,5 @@
 ---
-layout: page2p
+layout: page
 permalink: /munari/
 title: Munari
 tags: [design, munari]

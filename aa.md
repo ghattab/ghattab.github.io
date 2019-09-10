@@ -1,5 +1,5 @@
 ---
-layout: page2p
+layout: page
 permalink: /aa/
 title: Amino Acids
 tags: [design, amino, acids, biochemistry, biology]

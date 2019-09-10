@@ -1,5 +1,5 @@
 ---
-layout: page2p
+layout: page
 permalink: /physics/
 title: Physics
 tags: [design, banana, physics]
