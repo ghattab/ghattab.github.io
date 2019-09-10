@@ -12,9 +12,6 @@ galleries:
   - title: Biophysics
     image: /images/biophysics.jpg
     url: /biophysics
-  - title: Mox Adventu
-    image: /images/title.jpg
-    url: /404
 ---
 
 A research is a systematic investigation into and study of materials to establish facts and reach new conclusions. **The appeal lies in formulating and answering interesting questions.** My desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
