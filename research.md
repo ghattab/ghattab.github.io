@@ -3,14 +3,14 @@ layout: page3
 permalink: /research/
 title: Research
 tags: [research, science]
-modified: 09-09-2019
+modified: 10-09-2019
 comments: false
 galleries:
   - title: Bioimaging
-    image: /images/bioimaging.jpg
+    image: /images/cs.jpg
     url: /bioimaging
   - title: Biophysics
-    image: /images/biop.jpg
+    image: /images/mp.jpg
     url: /biophysics
 ---
 
