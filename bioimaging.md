@@ -14,6 +14,7 @@ _"We may have knowledge of the past but cannot control it, we may control the fu
 
 <br/>
 <br/>
+## Cell subpopulations
 Understanding the mechanisms that regulate cellular reactions is facilitated by the coupling of high-resolution time-lapse imaging with microfluidic multiplexing.
 These methods increase the rate at which microbiologists record cellular events and colony growth. Related work for computational analysis uses the general paradigm (i.e. segmentation, tracking, lineage construction).
 However, none of the current approaches have been successful in extracting lineage information for *S. meliloti* colonies.
