@@ -10,7 +10,7 @@ galleries:
     image: /images/bioimaging.jpg
     url: /bioimaging
   - title: Biophysics
-    image: /images/biophysics.jpg
+    image: /images/biophysicss.jpg
     url: /biophysics
 ---
 
