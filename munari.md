@@ -14,7 +14,7 @@ _"In life you have to avoid three geometric figures - vicious circles, love tria
 
 <br/>
 <br/>
-In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. To rediscover them in a more organic manner, I’ve employed a Context-Free grammar to generate the following drawings.
+In the early 1960s Italian designer Bruno Munari published his visual case studies on shapes: Circle, Square, and, a decade later, Triangle. From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. To rediscover them in a more organic manner, I’ve employed a [Context-Free grammar](/grammar) to generate the following drawings.
 
 ![Circle](/images/circle.png){: .center-image }
 <br/>
