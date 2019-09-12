@@ -10,7 +10,7 @@ comments: false
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/research/)
 
 <br/>
-_"We may have knowledge of the past but cannot control it, we may control the future but have no knowledge of it."_―Claude E. Shannon
+_"We may have knowledge of the past but cannot control it, we may control the future but have no knowledge of it."_--Claude E. Shannon
 
 <br/>
 <br/>
