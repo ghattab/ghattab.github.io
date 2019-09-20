@@ -82,3 +82,15 @@
 <!-- Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<nav>
+  {% for item in site.links %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+      {% endif %}
+      <a href="{{ item.url }}" class="{{ class }}">
+          {{ item.title }}
+      </a>
+  {% endfor %}
+</nav>
