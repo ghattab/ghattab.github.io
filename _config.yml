@@ -39,17 +39,6 @@ links:
     url: /profile/
 #  - title: Blog posts
 #    url: /blog/
-navigation:
-  - title: Research
-    url: /research/
-#  - title: Publications
-#    url: /publications/
-  - title: Design
-    url: /design/
-  - title: Photograph
-    url: /photos/
-  - title: About
-    url: /profile/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
