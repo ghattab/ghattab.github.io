@@ -11,7 +11,7 @@ comments: false
 
 <br/>
 _"
-If you have a universe that was just the mirror image of the one we know about, then in fact, presumably it would have right-handed amino acids. That's why I'm only half kidding when I say there is a guy on the other side of the universe with his heart on the right hand side."_―-Ronald Breslow
+If you have a universe that was just the mirror image of the one we know about, then in fact, presumably it would have right-handed amino acids. That's why I'm only half kidding when I say there is a guy on the other side of the universe with his heart on the right hand side."_―Ronald Breslow
 
 <br/>
 <br/>
