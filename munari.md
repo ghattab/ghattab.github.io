@@ -10,7 +10,7 @@ comments: false
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/design/)
 
 <br/>
-_"In life you have to avoid three geometric figures - vicious circles, love triangles and square minds."_--Mario Benedetti
+_"In life you have to avoid three geometric figures - vicious circles, love triangles and square minds."_―Mario Benedetti
 
 <br/>
 <br/>
