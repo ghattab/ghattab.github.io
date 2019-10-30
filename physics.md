@@ -10,7 +10,7 @@ comments: false
 [<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/design/)
 
 <br/>
-_"You need to let the little things that would ordinarily bore you suddenly thrill you."_―-Andy Warhol
+_"You need to let the little things that would ordinarily bore you suddenly thrill you."_--Andy Warhol
 
 <br/>
 <br/>
