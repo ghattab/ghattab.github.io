@@ -7,7 +7,8 @@ modified: 16-12-2018
 comments: false
 ---
 
-Currently, I’m a junior group leader and work to address the problems of long-term information storage using molecular compounds. I’m also heading the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en).
+Currently, I’m a junior group leader and work to address the problems of long-term information storage using molecular compounds. I’m also heading the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
+<br/>
 
 
 Previously, I was in the field of computational medicine, particularly translational research, as a postdoctoral researcher at the National Center for Tumor Diseases, [NCT](https://www.nct-dresden.de/en.html) (Dresden, Germany).
