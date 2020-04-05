@@ -2,6 +2,7 @@
 layout: page2p
 permalink: /portrait/
 title: Portrait
+subtitle: Photograph
 tags: [portrait, photography]
 modified: 20-08-2019
 comments: false
