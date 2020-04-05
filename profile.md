@@ -6,6 +6,7 @@ tags: [about]
 modified: 16-12-2018
 comments: false
 ---
+
 Currently, I am a junior group leader and I am working on solving long-term information storage problems. I also head the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
 <br/>
 <br/>

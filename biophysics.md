@@ -7,9 +7,6 @@ modified: 19-09-2019
 comments: false
 ---
 
-[<i class="fa fa-arrow-left"></i>](https://ghattab.github.io/research/)
-
-<br/>
 _"All abstract sciences are nothing but the study of relations between signs."_--Denis Diderot
 
 <br/>
