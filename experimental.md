@@ -14,4 +14,4 @@ _"While you are experimenting, do not remain content with the surface of things.
 
 <br/>
 <br/>
-There’s something ungrateful and grasping in enjoying our bounty of information without bothering to understand how it goe her. Experimentation in its own right leads to information. Naturally, there’s a satisifaction in discovering knowledge, yet experimenting is valuable for its own sake, as discovery is pleasurable in its own right. 
+There is something ungrateful and startling about taking advantage of our abundance of information without caring to understand how it got there. Experimentation in itself leads to information. Naturally, there is a sense of satisiveness in the discovery of knowledge, yet experimentation is valuable in its own right.
