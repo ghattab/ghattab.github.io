@@ -17,7 +17,7 @@ galleries:
     url: /experimental
 ---
 
-A photograph is a digital or physical record of an unchanging moment. **The appeal is in the coupling of temporal permanence and spatial reality.** My desire is to bring forth a record of what I see, beyond the conflict of information, the knowing.
+A photograph is a digital or physical record of an unchanging moment. **The appeal is in the coupling of temporal permanence and spatial reality.** My desire is to bring forth a *sui generis* record of what I see, beyond the conflict of information.
 <br/>
 <br/>
 
