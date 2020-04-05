@@ -7,13 +7,13 @@ modified: 09-09-2019
 comments: false
 galleries:
   - title: Amino Acids
-    image: /images/aa.jpg
+    image: /images/d1.jpg
     url: /aa
-  - title: Munari
-    image: /images/circle.jpg
-    url: /munari
+  - title: Shapes
+    image: /images/d2.jpg
+    url: /shapes
   - title: Physics
-    image: /images/physics.jpg
+    image: /images/d3.jpg
     url: /physics
 ---
 
