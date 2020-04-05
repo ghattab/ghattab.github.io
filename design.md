@@ -7,13 +7,13 @@ modified: 09-09-2019
 comments: false
 galleries:
   - title: Shapes
-    image: /images/d1.jpg
+    image: /images/1d.jpg
     url: /shapes
   - title: Amino Acids
-    image: /images/d2.jpg
+    image: /images/2d.jpg
     url: /aa
   - title: Physics
-    image: /images/d3.jpg
+    image: /images/3d.jpg
     url: /physics
 ---
 
