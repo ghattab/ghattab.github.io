@@ -17,8 +17,4 @@ From the ring, to the _quadra_, to the three angles shape, intricate patterns ca
 <br/>
 <br/>
 
-![Circle](/images/circle.png){: .center-image }
-<br/>
-![Square](/images/square.png){: .center-image }
-<br/>
-![Triangle](/images/triangle.png){: .center-image }
+![Shapes](/images/shapes.png)
