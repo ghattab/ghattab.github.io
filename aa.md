@@ -7,10 +7,6 @@ modified: 05-04-2020
 comments: false
 ---
 
-_"If you have a universe that was just the mirror image of the one we know about, then in fact, presumably it would have right-handed amino acids. That's why I'm only half kidding when I say there is a guy on the other side of the universe with his heart on the right hand side."_―Ronald Breslow
-
-<br/>
-<br/>
 Amino acids occur naturally in plant and animal tissues and are the basic constituents of proteins.
 Each amino acid is a simple organic compound containing both a carboxyl (—COOH) and an amino (—NH2) group.
 Yet particular features distinguish each molecule.
