@@ -6,12 +6,12 @@ tags: [design]
 modified: 09-09-2019
 comments: false
 galleries:
-  - title: Amino Acids
-    image: /images/d1.jpg
-    url: /aa
   - title: Shapes
-    image: /images/d2.jpg
+    image: /images/d1.jpg
     url: /shapes
+  - title: Amino Acids
+    image: /images/d2.jpg
+    url: /aa
   - title: Physics
     image: /images/d3.jpg
     url: /physics
