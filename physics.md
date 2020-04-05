@@ -20,6 +20,7 @@ Physics is concerned with the nature and properties of matter and energy. From m
 
 To learn fourteen of the most used physical constants in a fun way, I developed a mnemonic system that relies on amusing associations and consistent [visual encodings](https://github.com/ghattab/banana-physics/blob/master/README.md#visual-encodings).
 
+![Hallucination](/images/hallucination.jpg)
 ![Pacman](/images/magnetic.jpg)
 
 
