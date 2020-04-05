@@ -17,6 +17,6 @@ To learn fourteen of the most used physical constants in a fun way, I developed 
 ![Pacman](/images/magnetic.jpg)
 
 
-The result is a mnemonic card set that combines Warholian inspired art, graphic design, information design, and data encoding. Print ready files are available under the Creative Commons BY-NC-SA 4.0 International License.
+The result is a mnemonic card set that combines Warholian inspired art, graphic design, information design, and data encoding. Print ready files are available under the CC BY-NC-SA 4.0 International License.
 
 [![DOI](https://zenodo.org/badge/168874159.svg)](https://zenodo.org/badge/latestdoi/168874159)
