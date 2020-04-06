@@ -42,13 +42,6 @@ a:hover {
 h1 {
  margin:.67em 0;
  font-size:2em
- font-family: 'Helvetica Neue', Helvetica, Arial;
- font-style: normal;
- font-weight: bold;
- letter-spacing: -0.5px;
- line-height: 73px;
- text-transform: none;
- color: #000000;
 }
 abbr[title] {
  border-bottom:1px dotted
@@ -246,9 +239,14 @@ h6 {
 h1 {
  margin-bottom:26px;
  margin-bottom:1.625rem;
- font-size:32px;
+ font-size:28px;
  font-size:2rem;
- line-height:.8125
+ line-height:.8125;
+ font-family: 'Helvetica Neue', Helvetica, Arial;
+ font-style: normal;
+ font-weight: bold;
+ letter-spacing: -0.5px;
+ color: #000000;
 }
 h2 {
  margin-bottom:26px;
