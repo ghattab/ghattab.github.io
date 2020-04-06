@@ -285,7 +285,9 @@ h6 {
  font-size:14px;
  font-size:.875rem;
  line-height:1.8571;
- font-family: 'Helvetica Neue', Helvetica, Arial, serif
+ font-family: ff-meta-serif-web-pro, Georgia, Times, 'Times New Roman', serif;
+ font-style:italic;
+ text-transform: none
 }
 a {
  color:#343434;
