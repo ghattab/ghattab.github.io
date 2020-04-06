@@ -284,7 +284,8 @@ h6 {
  margin-bottom:1.625rem;
  font-size:14px;
  font-size:.875rem;
- line-height:1.8571
+ line-height:1.8571;
+ font-family: 'Helvetica Neue', Helvetica, Arial, serif
 }
 a {
  color:#343434;

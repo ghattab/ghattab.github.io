@@ -19,4 +19,4 @@ Research is a systematic investigation into and study of materials to establish 
 <br/>
 
 
-_"Scientific work must not be considered from the point of view of the direct usefulness of it. It must be done for itself, for the beauty of science, and then there is always the chance that a scientific discovery may become like the radium a benefit for mankind."_--Marie Skłodowska Curie
+<h6>_"Scientific work must not be considered from the point of view of the direct usefulness of it. It must be done for itself, for the beauty of science, and then there is always the chance that a scientific discovery may become like the radium a benefit for mankind."_--Marie Skłodowska Curie</h6>
