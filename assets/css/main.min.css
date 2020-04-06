@@ -42,10 +42,10 @@ a:hover {
 h1 {
  margin:.67em 0;
  font-size:2em
- font-family: 'Helvetica Neue', Helvetica, pragmatica-web, Arial, sans-serif;
+ font-family: 'Helvetica Neue', Helvetica, Arial;
  font-style: normal;
  font-weight: bold;
- letter-spacing: -1px;
+ letter-spacing: -0.5px;
  line-height: 73px;
  text-transform: none;
  color: #000000;
