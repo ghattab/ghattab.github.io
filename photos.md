@@ -9,9 +9,6 @@ galleries:
   - title: Nature
     image: /images/nature/2DSC_0967.jpeg
     url: /nature
-  - title: Portrait
-    image: /images/portrait/DSC_0068.jpg
-    url: /portrait
   - title: Experimental
     image: /images/experimental/IMG_0476.jpeg
     url: /experimental
