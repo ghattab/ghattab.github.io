@@ -6,9 +6,6 @@ tags: [photo]
 modified: 05-04-2020
 comments: false
 galleries:
-  - title: Nature
-    image: /images/nature/2DSC_0967.jpeg
-    url: /nature
   - title: Experimental
     image: /images/experimental/IMG_0476.jpeg
     url: /experimental
