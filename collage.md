@@ -18,23 +18,23 @@ Unlike the painting collages Matisse created, the digital age brought us digital
 However, the collage of photo and/or digital images follows the traditional process.  
 
 
-Implementation conditions
+## Implementation conditions
 Choose images that appeal by their colors or by what they represent. Tear these images into pieces. Brush black India ink around each piece of image. Place the pieces of images on the surface as desired to make a new image. After the adult has checked that the instructions have been followed, glue the pieces together permanently.
 
 
-Collective
+## Collective
 It is better to work on a large format to allow children to compose the picture of their choice (even if it remains very small). During the "ringing" phase with India ink, it is necessary to place the newspapers under the image fragments, to make sure that the children do not cover the entire fragment and to make sure that they do not get the wrong side!
 
 
-Plastic notions
+## Plastic notions
 Rhythm, repetition, full/empty.
 
 
-Cultural contributions
+## Cultural contributions
 Chaissac, Dubuffet, Matisse, Viallat.
 
 
-Didactic content
+## Didactic content
 | Disciplinary objectives               | Aesthetic perception: discovering in the arrangements of shapes, colors, relationships of values... pleasure and emotion.                                                                                                                                                                          |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Induced specific vocabulary           | Organization; rhythm; repetition.                                                                                                                                                                                                                                                                  |
