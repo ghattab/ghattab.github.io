@@ -28,12 +28,9 @@ Choose images that appeal by their colors or by what they represent. Tear these 
 ## Notions
 By relying on rhythm, repetition, and concepts of full versus empty, one creates an aesthetic perception.
 Although part of a whole, discovering the arrangements of shapes, colors, relationships of values helps bring forth meaning and/or emotion.
-
-
+<br>
 
 The specificity of how fragments are organized could be used in other contexts. Paper fragments can be torn into other types of paper: wallpaper, gift paper, colored poster paper. Then, the work will then be more focused on rhythm, repetition of colors or patterns.
+<br>
 
-
-
-Possible applications also exist in other fields. In mathematics, the work on algorithms with paper fragments such as origami. In written expression, the arrangement of shapes and colors can be the support of an opening to the imaginary. 
-
+Further applications also exist in other fields. In mathematics, the work on algorithms that handle shape matching, repetitions, or even spatial organization. In written expression, the arrangement of shapes and colors can be the support of an opening to the imaginary. 
