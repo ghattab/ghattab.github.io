@@ -25,10 +25,6 @@ I detail one traditional example below.
 Choose images that appeal by their colors or by what they represent. Tear these images into pieces. If you wish to make the separation stand out, brush black India ink around each piece of image. Place the pieces on the surface as desired to make a new image. Try a couple of different arrangements. When happy, glue the pieces together permanently.
 
 
-## Collective
-It is better to work on a large format to allow yourself to compose the picture of your choice without spatial restrictions. This means your final collage can be very small. If you brush the pieces with India ink, be careful not to cover the entire fragment.
-
-
 ## Notions
 By relying on rhythm, repetition, and concepts of full versus empty, one creates an aesthetic perception.
 Although part of a whole, discovering the arrangements of shapes, colors, relationships of values helps bring forth meaning and/or emotion.
