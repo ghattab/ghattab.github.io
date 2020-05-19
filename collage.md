@@ -15,23 +15,20 @@ They sometimes do with surprising intricacy, bringing forth a meaning or none.
 If any, this meaning is often only discernible to the careful or knowledgeable viewer.
 By putting things together on a 2D plane, we paint the difference between things and the space among them.
 Unlike the painting collages Matisse created, the digital age brought us digital images.
-However, the collage of photo and/or digital images follows the traditional process.  
+However, the collage of photo and/or digital images follows the traditional process. 
+I detail one traditional example process below.
 
 
 ## Implementation conditions
-Choose images that appeal by their colors or by what they represent. Tear these images into pieces. Brush black India ink around each piece of image. Place the pieces of images on the surface as desired to make a new image. After the adult has checked that the instructions have been followed, glue the pieces together permanently.
+Choose images that appeal by their colors or by what they represent. Tear these images into pieces. If you wish to make the separation stand out, brush black India ink around each piece of image. Place the pieces on the surface as desired to make a new image. Try a couple of different arrangements. When happy, glue the pieces together permanently.
 
 
 ## Collective
-It is better to work on a large format to allow children to compose the picture of their choice (even if it remains very small). During the "ringing" phase with India ink, it is necessary to place the newspapers under the image fragments, to make sure that the children do not cover the entire fragment and to make sure that they do not get the wrong side!
+It is better to work on a large format to allow yourself to compose the picture of your choice without spatial restrictions. This means your final collage can be very small. If you brush the pieces with India ink, be careful not to cover the entire fragment.
 
 
 ## Plastic notions
 Rhythm, repetition, full/empty.
-
-
-## Cultural contributions
-Chaissac, Dubuffet, Matisse, Viallat.
 
 
 ## Didactic content
