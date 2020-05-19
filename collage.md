@@ -35,8 +35,8 @@ Chaissac, Dubuffet, Matisse, Viallat.
 
 
 ## Didactic content
-| Disciplinary objectives               | Aesthetic perception: discovering in the arrangements of shapes, colors, relationships of values... pleasure and emotion.                                                                                                                                                                          |
-|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Induced specific vocabulary           | Organization; rhythm; repetition.                                                                                                                                                                                                                                                                  |
-| Possible uses in other contexts       | Paper fragments can be torn into other types of paper: wallpaper, gift paper, colored poster paper. The work will then be more focused on rhythm, repetition of colors or patterns.                                                                                                                |
-| Possible applications in other fields | In mathematics: work on algorithms with paper fragments. In written expression: the arrangement of shapes and colors can be the support of an opening to the imaginary. The children discover by observing them silhouettes that they describe and are invited to give a name to their production. |
+Disciplinary objectives | Aesthetic perception: discovering in the arrangements of shapes, colors, relationships of values... pleasure and emotion
+--- | --- 
+Induced specific vocabulary | Organization; rhythm; repetition.                                                                                                                                                                                                                                                                  
+Possible uses in other contexts | Paper fragments can be torn into other types of paper: wallpaper, gift paper, colored poster paper. The work will then be more focused on rhythm, repetition of colors or patterns
+Possible applications in other fields | In mathematics: work on algorithms with paper fragments. In written expression: the arrangement of shapes and colors can be the support of an opening to the imaginary. The children discover by observing them silhouettes that they describe and are invited to give a name to their production.
