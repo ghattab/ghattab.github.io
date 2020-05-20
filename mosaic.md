@@ -1,5 +1,5 @@
 ---
-layout: page2p
+layout: page2m
 permalink: /mosaic/
 title: Photomosaic
 subtitle: Photograph
@@ -33,3 +33,12 @@ The work will then be more focused on rhythm, repetition of colors or patterns.
 Further applications also exist in other fields. 
 In mathematics, the work on algorithms that handle shape matching, repetitions, or even spatial organization. 
 In written expression, the arrangement of shapes and colors can be the support of an opening to the imaginary. 
+
+## Works
+You may find below different themed photomosaics. 
+Each part of the used target image is replaced with one tile of a set of images where these colors are as similar as possible. 
+In effect, the target image is reduced in resolution (by downsampling), and then each of the resulting pixels is replaced with an image whose average color matches that pixel.
+For instance, the moon photomosaic is created using Earth views taken by the oldest continuous Earth observing satellite imaging program ([Landsat](https://en.wikipedia.org/wiki/Landsat_program)).
+This photomosaic was created by relying on the HSL colorspace and the Manhattan distance to tile 150,000 image squares.
+
+
