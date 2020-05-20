@@ -9,7 +9,7 @@ galleries:
   - title: Experimental
     image: /images/experimental/IMG_0476.jpeg
     url: /experimental
-  - title: Photomosaic\
+  - title: Photomosaic
     image: /images/mosaic/moon_detail.jpeg\
     url: /mosaic
 ---
