@@ -11,14 +11,14 @@ comments: false
 
 Collage is the greatest innovation.
 Seemingly separate things come together.
-They sometimes do with surprising intricacy, bringing forth a meaning or none.
-If any, this meaning is often only discernible to the careful or knowledgeable viewer.
+They sometimes do with surprising intricacy, bringing forth intricate visuals and meaning.
+Meaning is often only discernible to the careful viewer.
 By putting things together on a 2D plane, we paint the difference between things and the space among them.
 Unlike the painting collages Matisse created, the digital age brought us digital images.
 Photo collage can be organized and arranged to meet certain criteria.
 Some of those may be hue or saturation. 
 However, the modern process of photo collage using digital images echoes the traditional process. 
-I detail one traditional example below.
+In the following section, I will explain a traditional example.
 
 
 ## Implementation conditions
