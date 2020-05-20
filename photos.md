@@ -11,7 +11,7 @@ galleries:
     url: /experimental
   - title: Photomosaic\
     image: /images/mosaic/moon_detail.jpeg\
-		url: /mosaic
+    url: /mosaic
 ---
 
 A photograph is a digital or physical record of an unchanging moment. **The appeal is in the coupling of temporal permanence and spatial reality.** My desire is to bring forth a *sui generis* record of what I see, beyond the conflict of information.
