@@ -40,4 +40,4 @@ Each part of the used target image is replaced with one tile of a set of images 
 In effect, the target image is reduced in resolution (by downsampling), and then each of the resulting pixels is replaced with an image whose average color matches that pixel.
 
 - The moon photomosaic is created using Earth views taken by the oldest continuous Earth observing satellite imaging program ([Landsat](https://en.wikipedia.org/wiki/Landsat_program)). Parameters: HSL colorspace, Manhattan distance, 150,000 image squares.
-- The Earth photomosaic is created using Space views taken by the [Hubble](https://www.nasa.gov/mission_pages/hubble/) Space telescope. Parameters: RGB colorspace, Manhattan distance, 275,625 image squares.
+- The Earth photomosaic uses the famous AS11-36-5337 image taken on 16 July 1969 during the Apollo 11 mission. It is created using Space views taken by the [Hubble](https://www.nasa.gov/mission_pages/hubble/) Space telescope. Parameters: RGB colorspace, Manhattan distance, 275,625 image squares.
