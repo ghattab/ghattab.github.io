@@ -38,7 +38,6 @@ In written expression, the arrangement of shapes and colors can be the support o
 You may find below different themed photomosaics. 
 Each part of the used target image is replaced with one tile of a set of images where these colors are as similar as possible. 
 In effect, the target image is reduced in resolution (by downsampling), and then each of the resulting pixels is replaced with an image whose average color matches that pixel.
-For instance, the moon photomosaic is created using Earth views taken by the oldest continuous Earth observing satellite imaging program ([Landsat](https://en.wikipedia.org/wiki/Landsat_program)).
-This photomosaic was created by relying on the HSL colorspace and the Manhattan distance to tile 150,000 image squares.
 
-
+- The moon photomosaic is created using Earth views taken by the oldest continuous Earth observing satellite imaging program ([Landsat](https://en.wikipedia.org/wiki/Landsat_program)). Parameters: HSL colorspace, Manhattan distance, 150,000 image squares.
+- The Earth photomosaic is created using Space views taken by the [Hubble](https://www.nasa.gov/mission_pages/hubble/) Space telescope. Parameters: RGB colorspace, Manhattan distance, 275,625 image squares.
