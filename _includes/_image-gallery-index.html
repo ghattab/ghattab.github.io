@@ -5,4 +5,4 @@
     .image-gallery-index a span {display: block; text-align: center; padding: 0px 0;}
 </style>
 
-<p class="image-gallery-index">{% for item in page.galleries %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ item.image }}&w=300&h=300&il&output=jpg&q=100&filt=greyscale&t=square&a=entropy&mask=circle&mbg=white" /><span>{{ item.title }}</span></a>{% endfor %}</p>
+<p class="image-gallery-index">{% for item in page.galleries %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ item.image }}&w=300&h=300&il&output=jpg&q=100&filt=greyscale&t=square&a=entropy&mbg=white" /><span>{{ item.title }}</span></a>{% endfor %}</p>
