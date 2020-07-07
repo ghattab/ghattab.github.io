@@ -7,10 +7,10 @@ modified: 10-09-2019
 comments: false
 galleries:
   - title: Bioimaging
-    image: /images/ra.jpg
+    image: /images/ry.jpg
     url: /bioimaging
   - title: Biophysics
-    image: /images/rb.jpg
+    image: /images/rz.jpg
     url: /biophysics
 ---
 
