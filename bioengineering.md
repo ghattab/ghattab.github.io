@@ -12,7 +12,7 @@ _"Inscription devices measure infinitesimal units of time, the fastest and weake
 <br/>
 <br/>
 ## Anatomical replicas
-Anatomically realistic organs replicas provide more consistent results than the use of a living subject or cadaver. 
+Anatomically realistic organ replicas provide more consistent results than the use of a living subject or cadaver. 
 In the case of a kidney replica, the related work did neither deal with its design, nor its development using silicone as the only material.
 To this end, I have designed a two step experimental pipeline: Uniaxial Compression (UC) testing and Cauchy stress modeling.
 The pipeline revealed that none of the available manufacturer silicone brands are suitable for the task of creating a realistic kidney.
