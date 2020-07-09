@@ -21,8 +21,8 @@ The pipeline revealed that none of the available manufacturer silicone brands ar
 The main findings were: 
 (1) the silicones advertised as corresponding to the target ranges of elastic properties of a human kidney do not fall within the required target compression moduli,
 (2) the data we’ve shared showcases less variability and uncertainty (inc. low (E1) and high (E2) strain moduli), 
-(3) the E(max) occurs at a much later stage, and
-(4) the maximal reachable stress of the tested silicone mixtures is larger than literature-based reports.
+(3) the E(max) occurs at a much later stage, 
+(4) the maximal reachable stress of the tested silicone mixtures is larger than literature-based reports, and
 (5) the parameters characterizing the nonlinear elastic model of the silicone mixtures are made available for the purpose of nonlinear finite element simulation of an entire kidney. Altogether these results provide a reference for future work concerned by designing organ replicas.
 </p><p>
 All measured and curated data from the UC testing and the source code for the Cauchy stress modeling and technical validation are openly available at the <a href='https://doi.org/10.24435/materialscloud:2020.0019/v2'>Materials Cloud Archive</a>. A `Behind the paper' post is published in <a href='https://bioengineeringcommunity.nature.com/channels/541-behind-the-paper'>Bioengineering</a>, a Nature Research Community section.
