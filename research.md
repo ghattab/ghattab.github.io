@@ -8,6 +8,7 @@ comments: false
 galleries:
   - title: Bioengineering
     image: /images/rx.jpg
+    url: /bioengineering
   - title: Bioimaging
     image: /images/ry.jpg
     url: /bioimaging
