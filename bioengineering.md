@@ -3,7 +3,7 @@ layout: page
 permalink: /bioengineering/
 title: Bioengineering
 tags: [research, bioengineering, materials, compression, cauchy, blatz]
-modified: 07-07-2020
+modified: 17-07-2020
 comments: false
 ---
 
@@ -25,8 +25,8 @@ The main findings were:
 (4) the maximal reachable stress of the tested silicone mixtures is larger than literature-based reports, and
 (5) the parameters characterizing the nonlinear elastic model of the silicone mixtures are made available for the purpose of nonlinear finite element simulation of an entire kidney. Altogether these results provide a reference for future work concerned by designing organ replicas.
 </p><p>
-All measured and curated data from the UC testing and the source code for the Cauchy stress modeling and technical validation are openly available at the <a href='https://doi.org/10.24435/materialscloud:2020.0019/v2'>Materials Cloud Archive</a>. A `Behind the paper' post is published in <a href='https://bioengineeringcommunity.nature.com/channels/541-behind-the-paper'>Bioengineering</a>, a Nature Research Community section.
+All measured and curated data from the UC testing and the source code for the Cauchy stress modeling and technical validation are openly available at the <a href='https://archive.materialscloud.org/record/327'>Materials Cloud Archive</a>. A `Behind the paper' post is published in <a href='https://bioengineeringcommunity.nature.com/channels/541-behind-the-paper'>Bioengineering</a>, a Nature Research Community section. 
 </p>
 </details>
 <br/>
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](http://dx.doi.org/10.1038/s41598-020-68886-3)
+[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](https://www.nature.com/articles/s41598-020-68886-3)
