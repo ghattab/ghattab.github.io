@@ -23,4 +23,4 @@ Expression systems and bacterial hosts for MP structure determination are report
 </p>
 </details>
 <br/>
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](http://dx.doi.org/10.1038/srep12097)
+[![DOI](/images/id_nature.jpg)](http://dx.doi.org/10.1038/srep12097)

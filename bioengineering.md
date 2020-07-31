@@ -29,4 +29,4 @@ All measured and curated data from the UC testing and the source code for the Ca
 </p>
 </details>
 <br/>
-[![DOI](//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.nature.com-images-lo_npg.gif)](https://www.nature.com/articles/s41598-020-68886-3)
+[![DOI](/images/id_nature.jpg)](https://www.nature.com/articles/s41598-020-68886-3)
