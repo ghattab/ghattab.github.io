@@ -7,13 +7,13 @@ modified: 10-09-2019
 comments: false
 galleries:
   - title: Bioengineering
-    image: /images/rx.jpg
+    image: /images/x.jpg
     url: /bioengineering
   - title: Bioimaging
-    image: /images/ry.jpg
+    image: /images/y.jpg
     url: /bioimaging
   - title: Biophysics
-    image: /images/rz.jpg
+    image: /images/z.jpg
     url: /biophysics
 ---
 
