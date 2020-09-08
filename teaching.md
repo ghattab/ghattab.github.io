@@ -3,7 +3,7 @@ layout: page3
 permalink: /teaching/
 title: Teaching
 tags: [teaching, education, science, data, visualization, design, biology, chemistry]
-modified: 25-08-2020
+modified: 08-09-2020
 comments: false
 galleries:
   - title: Biochemistry
