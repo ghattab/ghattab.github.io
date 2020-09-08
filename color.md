@@ -28,6 +28,8 @@ Methods for visualization of biological data continue to improve, but there is s
 <li>Get it right in Black & White</li>
 </ol>
 </p>
+
 </details>
 <br/>
+
 [![DOI](/images/id_elsevier.png)](https://collections.plos.org/ten-simple-rules)
