@@ -31,4 +31,4 @@ Methods for visualization of biological data continue to improve, but there is s
 </details>
 <br/>
 
-<a href=“https://collections.plos.org/ten-simple-rules”><img src="/images/id_elsevier.png”></a>
+<p><a href="https://collections.plos.org/ten-simple-rules"><img src="/images/id_elsevier.png"></a></p>
