@@ -9,7 +9,7 @@ galleries:
   - title: Biochemistry
     image: /images/ea.jpg
     url: /aa
-  - title: Color Usage
+  - title: Color
     image: /images/eb.jpg
     url: /color
 ---
