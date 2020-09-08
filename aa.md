@@ -3,7 +3,7 @@ layout: page
 permalink: /aa/
 title: Biochemistry
 tags: [design, amino, acids, biochemistry, biology]
-modified: 18-08-2020
+modified: 08-09-2020
 comments: false
 ---
 
@@ -18,5 +18,7 @@ The result is a pedagogical Quartet-like card game that employs the potential of
 This work was presented at the [Info+](http://informationplusconference.com/2016/) conference and exhibition at ECUAD, Vancouver, Canada. Print ready files are available under the CC BY-NC-SA 4.0 International License.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.55101.svg)](https://doi.org/10.5281/zenodo.55101)
+<br/>
+<br/>
 
 **Related project** [Banana Physics](/physics/)
