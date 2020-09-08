@@ -21,4 +21,4 @@ This work was presented at the [Info+](http://informationplusconference.com/2016
 <br/>
 <br/>
 
-**Related project** [Banana Physics](/physics/)
+**Related Project:** [Banana Physics](/physics/)
