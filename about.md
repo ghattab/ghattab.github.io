@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profile
 permalink: /about/
 title: Georges Hattab
 tags: [about, profile, curriculum]
