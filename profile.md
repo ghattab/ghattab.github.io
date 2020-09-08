@@ -1,8 +1,8 @@
 ---
-layout: profile
-permalink: /profile/
+layout: about
+permalink: /about/
 title: Georges Hattab
-tags: [about]
+tags: [about, profile, curriculum]
 modified: 05-04-2020
 comments: false
 ---
