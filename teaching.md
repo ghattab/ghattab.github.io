@@ -14,7 +14,7 @@ galleries:
     url: /color
 ---
 
-Teaching imparts both knowledge and the means to learn and create. **The appeal lies in communicating complex information by the use of a simplified or relatable form.** My desire is to bring Science and Pedagogy for a better understanding and engagement.
+Teaching imparts both knowledge and the means to learn and create. **The appeal lies in communicating complex information by the use of a simplified or relatable form.** My desire is to bring science and pedagogy for a better understanding and engagement.
 <br/>
 <br/>
 
