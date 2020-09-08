@@ -1,4 +1,4 @@
-title: Data Mining, Design, and Info Visualization
+title: Information Everything
 description:
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ghattab.github.io
@@ -31,12 +31,12 @@ links:
     url: /research/
 #  - title: Publications
 #    url: /publications/
-  - title: Design
-    url: /design/
-  - title: Photograph
-    url: /photos/
+  - title: Educate
+    url: /educate/
+  - title: Create
+    url: /create/
   - title: About
-    url: /profile/
+    url: /about/
 #  - title: Blog posts
 #    url: /blog/
 

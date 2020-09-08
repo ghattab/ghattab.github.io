@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /aa/
-title: Amino Acids
+title: Biochemistry
 tags: [design, amino, acids, biochemistry, biology]
-modified: 05-04-2020
+modified: 18-08-2020
 comments: false
 ---
 
 Amino acids occur naturally in plant and animal tissues and are the basic constituents of proteins.
 Each amino acid is a simple organic compound containing both a carboxyl (—COOH) and an amino (—NH2) group.
-Yet particular features distinguish each molecule.
+Yet particular features distinguish each biological molecule.
 To learn the amino acids properties and molecular structure of amino acids, I developed an intuitive system to code these features into shapes, colors, and textures.
 The result is a pedagogical Quartet-like card game that employs the potential of infographics, graphic design, and game motivation.
 
@@ -18,3 +18,5 @@ The result is a pedagogical Quartet-like card game that employs the potential of
 This work was presented at the [Info+](http://informationplusconference.com/2016/) conference and exhibition at ECUAD, Vancouver, Canada. Print ready files are available under the CC BY-NC-SA 4.0 International License.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.55101.svg)](https://doi.org/10.5281/zenodo.55101)
+
+**Related project** [Banana Physics](/physics/)
