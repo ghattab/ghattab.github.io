@@ -16,15 +16,15 @@ Methods for visualization of biological data continue to improve, but there is s
 <details><summary><b>Read more</b></summary>
 <p>
 1.   Identify the Nature of your Data
-2.  Select a Color Space
-3.  Create a Color Palette based on the selected Color Space
-4.  Apply the Color Palette to your Data Set for Visualization
-5.  Check for Color Context in your Data Vis after the Color Palette is Applied
-6.  Evaluate Interactions of Colors in your Data Visualization
-7.  Be Aware of Color Conventions and Definitions in your particular discipline
-8.  Assess Color Deficiencies
-9.  Consider Web Content Accessibility and Print Realities
-10.  Get it right in Black & White
+2.   Select a Color Space
+3.   Create a Color Palette based on the selected Color Space
+4.   Apply the Color Palette to your Data Set for Visualization
+5.   Check for Color Context in your Data Vis after the Color Palette is Applied
+6.   Evaluate Interactions of Colors in your Data Visualization
+7.   Be Aware of Color Conventions and Definitions in your particular discipline
+8.   Assess Color Deficiencies
+9.   Consider Web Content Accessibility and Print Realities
+10.   Get it right in Black & White
 </p>
 </details>
 <br/>
