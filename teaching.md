@@ -3,7 +3,7 @@ layout: page3
 permalink: /teaching/
 title: Teaching
 tags: [teaching, education, science, data, visualization, design, biology, chemistry]
-modified: 08-09-2020
+modified: 17-09-2020
 comments: false
 galleries:
   - title: Biochemistry
@@ -12,6 +12,9 @@ galleries:
   - title: Color
     image: /images/eb.jpg
     url: /color
+  - title: Visualization
+    image: /images/ec.jpg
+    url: /datavis
 ---
 
 Teaching imparts both knowledge and the means to learn and create. **The appeal lies in communicating complex information by the use of a simplified or relatable form.** My desire is to bring science and pedagogy for a better understanding and engagement.
