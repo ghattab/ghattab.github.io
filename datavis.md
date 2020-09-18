@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /datavis/
-title: Data Visualization
+title: Visualization
 tags: [data, visualization, vis, datavis]
 modified: 17-09-2020
 comments: false
