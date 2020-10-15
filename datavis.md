@@ -12,6 +12,6 @@ To obtain a meaningful mapping of the data, it is important to know which messag
 
 <script async class="speakerdeck-embed" data-slide="171" data-id="4da53c39884f4afdaee109ea14c9e555" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-This lecture is offered at the [Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12/) and is open to all students of the [Philipps-University Marburg](https://www.uni-marburg.de/en).
+This lecture is offered as a Multimedia and Graphics module at the [Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12/).
 <br/>
 <br/>
