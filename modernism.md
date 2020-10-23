@@ -17,7 +17,7 @@ comments: false
 <script type="text/javascript">
 var additionalOptions = {
               start_at_end: false,
-							initial_zoom: 5,
+							initial_zoom: 4,
 							slide_padding_lr: 0,
               default_bg_color: {r:255, g:255, b:255},
               timenav_height: 100
