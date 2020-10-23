@@ -1,7 +1,7 @@
 ---
 layout: page
 title: : Modernism
-description: "foo"
+description: "Modernism refers to a global movement in society and culture that in the early decades of the twentieth century"
 tags: [image,test]
 modified: 23-10-2020
 comments: false
