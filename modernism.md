@@ -7,7 +7,6 @@ modified: 23-10-2020
 comments: false
 ---
 
-## Modernism
 
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
