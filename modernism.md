@@ -12,7 +12,7 @@ comments: false
 
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-<div id='timeline-embed' style="width: 100%; height: 650px"></div>
+<div id='timeline-embed' style="width: 100%; height: 700px"></div>
 
 <script type="text/javascript">
 var additionalOptions = {
