@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: : Modernism
 description: "Modernism refers to a global movement in society and culture that from the early decades of the twentieth century"
 tags: [modern,art]
@@ -7,6 +7,7 @@ modified: 23-10-2020
 comments: false
 ---
 
+## Modernism
 
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
