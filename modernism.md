@@ -12,15 +12,15 @@ comments: false
 
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+<div id='timeline-embed' style="width: 100%; height: 400px"></div>
 
 <script type="text/javascript">
 var additionalOptions = {
               start_at_end: false,
-							initial_zoom: 3,
+							initial_zoom: 4,
 							slide_padding_lr: 50,
               default_bg_color: {r:255, g:255, b:255},
-              timenav_height: 88
+              timenav_height: 100
             }
   timeline = new TL.Timeline('timeline-embed',
     'https://docs.google.com/spreadsheets/d/e/2PACX-1vTwLF6wnunaABGlVaSEXS_2atCLHddedTO6C8I3STmhIUtPW0wQdxH4sFHcrpr9tz7gOE-YkT7fcZyh/pubhtml',
