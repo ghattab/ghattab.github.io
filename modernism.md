@@ -21,7 +21,7 @@ var additionalOptions = {
 							initial_zoom: 3,
 							slide_padding_lr: 50,
               default_bg_color: {r:0, g:0, b:0},
-              timenav_height: 150
+              timenav_height: 100
             }
   timeline = new TL.Timeline('timeline-embed',
     'https://docs.google.com/spreadsheets/d/e/2PACX-1vTwLF6wnunaABGlVaSEXS_2atCLHddedTO6C8I3STmhIUtPW0wQdxH4sFHcrpr9tz7gOE-YkT7fcZyh/pubhtml',
