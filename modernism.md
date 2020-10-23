@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: : Modernism
 description: "Modernism refers to a global movement in society and culture that from the early decades of the twentieth century"
 tags: [modern,art]
