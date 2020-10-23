@@ -18,7 +18,7 @@ comments: false
 var additionalOptions = {
               start_at_end: false,
 							initial_zoom: 4,
-							slide_padding_lr: 50,
+							slide_padding_lr: 100,
               default_bg_color: {r:255, g:255, b:255},
               timenav_height: 100
             }
