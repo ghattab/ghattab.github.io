@@ -1,6 +1,6 @@
 ---
 layout: page
-title: : foo
+title: : Modernism
 description: "foo"
 tags: [image,test]
 modified: 23-10-2020
@@ -18,8 +18,10 @@ This is a foo test
 <script type="text/javascript">
 var additionalOptions = {
               start_at_end: false,
+							initial_zoom: 3,
+							slide_padding_lr: 50,
               default_bg_color: {r:0, g:0, b:0},
-              timenav_height: 600
+              timenav_height: 150
             }
   timeline = new TL.Timeline('timeline-embed',
     'https://docs.google.com/spreadsheets/d/e/2PACX-1vTwLF6wnunaABGlVaSEXS_2atCLHddedTO6C8I3STmhIUtPW0wQdxH4sFHcrpr9tz7gOE-YkT7fcZyh/pubhtml',
