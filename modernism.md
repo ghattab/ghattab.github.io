@@ -7,7 +7,6 @@ modified: 23-10-2020
 comments: false
 ---
 
-Modernism refers to a global movement in society and culture that from the early decades of the twentieth century.
 
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
@@ -20,7 +19,7 @@ var additionalOptions = {
               start_at_end: false,
 							initial_zoom: 3,
 							slide_padding_lr: 50,
-              default_bg_color: {r:0, g:0, b:0},
+              default_bg_color: {r:255, g:255, b:255},
               timenav_height: 100
             }
   timeline = new TL.Timeline('timeline-embed',
