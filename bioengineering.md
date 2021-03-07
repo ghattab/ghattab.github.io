@@ -7,7 +7,7 @@ modified: 17-07-2020
 comments: false
 ---
 
-_"Inscription devices measure infinitesimal units of time, the fastest and weakest movements, and the smallest variations of forces cannot escape them. They penetrate the intimate function of the organs where life seems to be translated by unceasing mobility.”_—Étiennes-Jules Marey
+_”Measuring devices capture infinitesimal units of time, the fastest and weakest movements, and the smallest variations of forces cannot escape them. They penetrate the intimate function of the organs where life seems to be translated by unceasing mobility.”_—Étiennes-Jules Marey
 
 <br/>
 <br/>
