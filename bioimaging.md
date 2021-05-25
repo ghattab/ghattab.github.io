@@ -26,4 +26,4 @@ Thanks to the particle abstraction, it is also possible to visualize a space-tim
 </details>
 <br/>
 
-[![DOI](/images/id_frontiers.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017) [![DOI](/images/id_oxford.png)](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889) [![DOI](/images/id_frontiers.png)](https://www.frontiersin.org/articles/10.3389/fgene.2017.00069/)
+[![DOI](/images/id_frontiers.jpg)](https://dx.doi.org/10.3389/fbioe.2018.00017) [![DOI](/images/id_oxford.png)](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bty889) [![DOI](/images/id_frontiers.jpg)](https://www.frontiersin.org/articles/10.3389/fgene.2017.00069/)
