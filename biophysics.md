@@ -19,7 +19,7 @@ The former revealed that 213 unique membrane protein structures have been obtain
 The main findings were: (1) the C41λ(DE3) and C43λ(DE3) bacterial mutant hosts have contributed to 28% of non <i>E. coli</i> MP structures, (2) there is a preference for a combination of bacterial host-vector together with a bimodal distribution of induction temperature and of inducer concentration.
 Altogether these analyses provide a set of rules for the optimal use of bacterial expression systems in MP production.
 </p><p>
-Expression systems and bacterial hosts for MP structure determination are reported in the <a href='http://www.ibpc.fr/UMR7099/tool_box/methodological_approaches.html'>Tool Box</a> for MP studies. Detailed protocols to select bacterial expression mutant hosts and to optimize culture conditions are provided in Membrane Proteins Production for Structural Analysis. Mus-Veteau (Ed.), <a href='https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4'>Springer</a>, NY, USA. [Chapter 4](/documents/Hattab14-2.pdf).
+Expression systems and bacterial hosts for MP structure determination are reported in the <a href='http://www.ibpc.fr/UMR7099/tool_box/methodological_approaches.html'>Tool Box</a> for MP studies. Detailed protocols to select bacterial expression mutant hosts and to optimize culture conditions are provided in Membrane Proteins Production for Structural Analysis. Mus-Veteau (Ed.), <a href='https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4'>Springer</a>, NY, USA. [!Chapter 4](/documents/Hattab14-2.pdf).
 </p>
 </details>
 <br/>
