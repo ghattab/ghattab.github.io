@@ -40,7 +40,7 @@ However, quantifying the impact of different limiting factors on non-rigid volum
 These limiting factors are: the target surface size, its orientation, and the mesh quality.
 My specific objective was to provide solutions to mitigate and even counteract their effects.
 To that end, I designed three experiments and an evaluation pipeline to assess each factor independently. 
-The pipeline consisted of creating a biomechanical model for volume-to-surface registration by using the physics-based shape matching, solving the differential equations for the non-linear deformations using the finite element method, voxelizing of the deformed surface to a 1024<sup>3</sup> voxel grid to capture and discretize the deformation, and computing similarity, distance, and classical metrics.
+The pipeline consisted of creating a biomechanical model by using the physics-based shape matching, solving the differential equations for the non-linear deformations using the finite element method, discretizing the deformed surface to a 1024<sup>3</sup> voxel grid to capture the deformations and to compute similarity, distance, and classical metrics.
 <details><summary><b>Read more</b></summary>
 <p>
 Using the Hausdorff distance, I reported a statistical significance for the different partial surfaces used for registration. 
