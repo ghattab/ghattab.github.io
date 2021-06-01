@@ -30,3 +30,27 @@ All measured and curated data from the UC testing and the source code for the Ca
 </details>
 <br/>
 [![DOI](/images/id_nature.jpg)](https://www.nature.com/articles/s41598-020-68886-3)
+
+
+## Biomechanical models
+
+Soft tissue deformation severely impacts the registration of image-based models during computer-assisted navigation in laparoscopic liver surgery. 
+However, quantifying the impact of different limiting factors on non-rigid volume-to-surface registration performance remains an open research question.
+These limiting factors are: the target surface size, its orientation, and the mesh quality.
+My specific objective was to provide solutions to mitigate and even counteract their effects.
+To that end, I designed three experiments and an evaluation pipeline to assess each factor independently. 
+The pipeline consisted of:
+(1) creating a biomechanical model for volume-to-surface registration by using the physics-based shape matching 
+(2) solving the differential equations for the non-linear deformations using the Finite Element Method
+(3) voxelizing of the deformed surface to a 1024<sup>3</sup> voxel grid to capture and discretize the deformation, and
+(4) computing similarity (e.g., mutual information), distance (i.e., Hausdorff distance), and classical metrics (i.e., mean squared error or MSE).
+<details><summary><b>Read more</b></summary>
+<p>
+Using the Hausdorff distance, I reported a statistical significance for the different partial surfaces used for registration. 
+With the help of the evaluation pipeline and a sensitivity analysis, I found that removing non-manifold geometry and improving the mesh quality noise resulted in better registration performance.
+Another important result is redefining the state of the art available surface size from 20 to 16.5% to successfully register the bioomechanical model.
+The different strategies restricted the limiting factors and improved registration results. 
+</p>
+</details>
+<br/>
+[![DOI](/images/id_springer.png)](https://dx.doi.org/10.1007%2Fs11548-020-02123-0)
