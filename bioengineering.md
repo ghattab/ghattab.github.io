@@ -38,7 +38,7 @@ All measured and curated data from the UC testing and the source code for the Ca
 Soft tissue deformation severely impacts the registration of image-based models during computer-assisted navigation in laparoscopic liver surgery. 
 However, quantifying the impact of different limiting factors on non-rigid volume-to-surface registration performance remains an open research question.
 These limiting factors are: the target surface size, its orientation, and the mesh quality.
-My specific objective was to provide solutions to mitigate and even counteract their effects.
+My objective was to provide solutions to mitigate and even counteract their effects.
 To that end, I designed three experiments and an evaluation pipeline to assess each factor independently. 
 The pipeline consisted of creating a biomechanical model by using the physics-based shape matching, solving the differential equations for the non-linear deformations using the finite element method, discretizing the deformed surface to a 1024<sup>3</sup> voxel grid to capture the deformations and to compute similarity, distance, and classical metrics.
 <details><summary><b>Read more</b></summary>
