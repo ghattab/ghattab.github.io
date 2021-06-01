@@ -31,7 +31,8 @@ All measured and curated data from the UC testing and the source code for the Ca
 <br/>
 [![DOI](/images/id_nature.jpg)](https://www.nature.com/articles/s41598-020-68886-3)
 
-
+<br/>
+<br/>
 ## Biomechanical models
 
 Soft tissue deformation severely impacts the registration of image-based models during computer-assisted navigation in laparoscopic liver surgery. 
