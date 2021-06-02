@@ -28,8 +28,8 @@ I concluded that this approached succeeded in predicting the edges of the kidney
 <br/>
 [![DOI](/images/id_)](https://doi.org/10.1007/s11548-019-02102-0)
 
-</br>
-</br>
+<br/>
+<br/>
 ## Edge quality
 Object detection and image segmentation of regions of interest provide the foundation for numerous pipelines across disciplines. 
 Robust and accurate computer vision methods are needed to properly solve image-based tasks. 

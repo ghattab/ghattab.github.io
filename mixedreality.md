@@ -31,8 +31,8 @@ The results allowed for rapid evaluation prior to deployment of a surgical AR so
 <br/>
 [![DOI](/images/id_eurographics.png)](https://diglib.eg.org/handle/10.2312/evs20201066)
 
-</br>
-</br>
+<br/>
+<br/>
 ## Virtual Reality
 Recent technological advances have made Virtual Reality (VR) attractive in both research and real world applications such as training, rehabilitation, and gaming.
 Although these other fields benefited from VR technology, it remains unclear whether VR contributes to better spatial understanding and training in the context of surgical planning. In this study, I evaluated the use of VR by comparing the recall of spatial information in two learning conditions: a head-mounted display (HMD) and a desktop screen (DT). Specifically, I explored a) a scene understanding, and then b) a direction estimation task using two 3D models (i.e.,~a liver and a pyramid). 
