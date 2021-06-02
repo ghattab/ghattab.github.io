@@ -40,9 +40,9 @@ In the scene understanding task, participants had to navigate the rendered the 3
 In the subsequent direction estimation task, participants had to point at a previously identified target object, i.e.,~internal sphere, on a materialized 3D-printed version of the model using a tracked pointing tool. 
 <details><summary><b>Read more</b></summary>
 <p>
-Results showed that the learning condition (HMD or DT) did not influence participants’ memory and confidence ratings of the models. 
+Results showed that the learning condition did not influence participants’ memory and confidence ratings of the models. 
 In contrast, the model type, that is, whether the model to be recalled was a liver or a pyramid significantly affected participants’ memory about the internal structure of the model. 
-Furthermore, localizing the internal position of the target sphere was also unaffected by participants' previous experience of the model via HMD or DT.
+Furthermore, localizing the internal position of the target sphere was also unaffected by participants' previous experience of the model.
 Overall, results provide novel insights on the use of VR in a surgical planning scenario and have paramount implications in medical learning by shedding light on the mental model we make to recall spatial structures.
 </p>
 </details>
