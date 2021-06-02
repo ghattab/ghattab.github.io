@@ -26,7 +26,7 @@ I concluded that this approached succeeded in predicting the edges of the kidney
 </p>
 </details>
 <br/>
-[![DOI](/images/id_)](https://doi.org/10.1007/s11548-019-02102-0)
+[![DOI](/images/id_springer.png)](https://doi.org/10.1007/s11548-019-02102-0)
 
 <br/>
 <br/>
