@@ -7,7 +7,7 @@ modified: 01-06-2021
 comments: false
 ---
 
-_"A visual image is constructed by our brain's ability to group pixels together in the form of edges."_
+_"A visual image is constructed by our brain's ability to group signals together in the form of edges."_
 
 <br/>
 <br/>
