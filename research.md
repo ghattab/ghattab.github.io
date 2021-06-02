@@ -16,7 +16,7 @@ galleries:
     image: /images/z.jpg
     url: /biophysics  
   - title: Mixed Reality
-    image: /images/w.jpg
+    image: /images/v.jpg
     url: /mixedreality
 ---
 
