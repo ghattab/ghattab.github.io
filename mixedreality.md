@@ -19,7 +19,7 @@ To address this legitimate problem, I present a practical framework that evaluat
 By conducting a task-specific user study using this framework, I observed a set of emerging visualization strategies. 
 <details><summary><b>Read more</b></summary>
 <p>
-The given task is to make the kidney boundary visually salient and make the tumor and calyx distinguishable. 
+The given task was to make the kidney boundary visually salient and make the tumor and calyx distinguishable. 
 After having recruited 23 participants from both the medical and the translational srugical fields, I found two preferred presets to tackle this task. 
 With both presets, the usage of color, depth, and opacity improved the display of the organ bounds while contrasting the tumor and calyx. 
 19 participants successfully completed the task using the modular and evaluative framework. 
