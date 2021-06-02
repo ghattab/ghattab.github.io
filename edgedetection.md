@@ -48,4 +48,4 @@ This work provided guidance for parameter tuning and algorithm selection in the 
 </p>
 </details>
 <br/>
-[![DOI](/images/id_nature.jpg)]()
+[![DOI](/images/id_bmc.png)]()
