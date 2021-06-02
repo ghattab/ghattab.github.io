@@ -2,8 +2,8 @@
 layout: page
 permalink: /bioengineering/
 title: Bioengineering
-tags: [research, bioengineering, materials, compression, cauchy, blatz]
-modified: 17-07-2020
+tags: [research, bioengineering, materials, compression, cauchy, blatz, biomechanical, finite, element]
+modified: 01-05-2021
 comments: false
 ---
 
