@@ -13,7 +13,7 @@ _"A visual image is constructed by our brain's ability to group pixels together 
 <br/>
 ## Edge learning   
 In robotic-assisted kidney surgery, computational methods make it possible to augment the surgical scene and potentially improve patient outcome.
-[/bioengineering/#biomechanical-models](Soft-tissue registration) is a prerequisite for the visualization of tumors and vascular structures hidden beneath the surface. 
+[Soft-tissue registration](/bioengineering/#biomechanical-models) is a prerequisite for the visualization of tumors and vascular structures hidden beneath the surface. 
 State-of-the-art volume-to-surface registration methods, however, are computationally demanding and require a sufficiently large target surface.
 To overcome this limitation, the first step toward registration is the extraction of the outer edge of the kidney.
 To tackle this task, I proposed a deep learning-based solution. Rather than working only on the raw laparoscopic images, the network is given depth information and distance fields to predict whether a pixel of the image belongs to an edge. 
