@@ -20,8 +20,8 @@ To tackle this task, I proposed a deep learning-based solution. Rather than work
 I evaluated the method on expert-labeled *in vivo* data from the EndoVis sub-challenge 2017 Kidney Boundary Detection and define the current state of the art.
 <details><summary><b>Read more</b></summary>
 <p>
-By using a leave-one-out cross-validation, I reported results for the most suitable network with a median precision-like, recall-like, and intersection over union (IOU) of 39.5 px, 143.3 px, and 0.3, respectively.
-I concluded that this approached succeeded in predicting the edges of the kidney, except in instances where high occlusion occurs, which explains the average decrease in the IOU score.
+By using a leave-one-out cross-validation, I reported results for the most suitable network with a median precision-like, recall-like, and Intersection over Union (IoU) of 39.5 px, 143.3 px, and 0.3, respectively.
+I concluded that this approached succeeded in predicting the edges of the kidney, except in instances where high occlusion occurs, which explains the average decrease in the IoU score.
 
 </p>
 </details>
