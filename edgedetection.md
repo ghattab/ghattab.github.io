@@ -3,7 +3,7 @@ layout: page
 permalink: /edgedetection/
 title: Edge detection
 tags: [research, image, processing, edge, detection, computer, vision]
-modified: 01-06-2021
+modified: 03-06-2021
 comments: false
 ---
 

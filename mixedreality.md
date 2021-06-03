@@ -3,7 +3,7 @@ layout: page
 permalink: /mixedreality/
 title: Mixed Reality
 tags: [research, mixed, augmented, virtual, reality, model, medical]
-modified: 01-06-2021
+modified: 03-06-2021
 comments: false
 ---
 
