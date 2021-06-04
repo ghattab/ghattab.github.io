@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /edgedetection/
-title: Edge detection
+title: Edge Detection
 tags: [research, image, processing, edge, detection, computer, vision]
 modified: 03-06-2021
 comments: false
@@ -39,7 +39,7 @@ Thanks to skeletonize algorithms, an object boundary is transformed into an edge
 To extract edges from boundaries generated from different algorithms, I presented a computational pipeline that relies on:
 a novel skeletonize algorithm,
 a non-exhaustive discrete parameter search to find the optimal parameter combination of a specific post-processing pipeline,
-and an extensive evaluation using three data sets from the medical and natural image domains (kidney boundaries, NYU-Depth V2, BSDS 500). 
+and an extensive evaluation using three data sets from the medical and natural image domains (kidney boundaries, [NYU-Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), [BSDS 500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)). 
 While the skeletonize algorithm was compared to classical topological skeletons, the validity of the post-processing algorithm was evaluated by integrating the original post-processing methods from six different works.
 <details><summary><b>Read more</b></summary>
 <p>
