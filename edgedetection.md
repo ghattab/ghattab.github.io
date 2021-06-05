@@ -22,7 +22,7 @@ I evaluated the method on expert-labeled *in vivo* data from the EndoVis sub-cha
 <p>
 By using a leave-one-out cross-validation, I reported results for the most suitable network with a median precision-like, recall-like, and Intersection over Union (IoU) of 39.5 px, 143.3 px, and 0.3, respectively.
 I concluded that this approached succeeded in predicting the edges of the kidney, except in instances where high occlusion occurs, which explains the average decrease in the IoU score.
-
+All parameters, ground truth images, and results are [openly available](https://github.com/ghattab/kidney-edge-detection).
 </p>
 </details>
 <br/>
