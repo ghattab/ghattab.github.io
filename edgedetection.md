@@ -43,7 +43,7 @@ and an extensive evaluation using three data sets from the medical and natural i
 While the skeletonize algorithm was compared to classical topological skeletons, the validity of the post-processing algorithm was evaluated by integrating the original post-processing methods from six different works.
 <details><summary><b>Read more</b></summary>
 <p>
-Using the state of the art metrics, precision and recall based Signed Distance Error and the Intersection over Union bounding box, the results indicated that the SDE metric for these edges was improved up to 2.3 times.
+Using state of the art metrics, precision and recall based Signed Distance Error and the Intersection over Union bounding box, the results indicated that the SDE metric for these edges was improved up to 2.3 times.
 This work provided guidance for parameter tuning and algorithm selection in the post-processing of predicted object boundaries.
 </p>
 </details>
