@@ -45,6 +45,7 @@ While the skeletonize algorithm was compared to classical topological skeletons,
 <p>
 Using state of the art metrics, precision and recall based Signed Distance Error and the Intersection over Union bounding box, the results indicated that the SDE metric for these edges was improved up to 2.3 times.
 This work provided guidance for parameter tuning and algorithm selection in the post-processing of predicted object boundaries.
+Evaluation scripts and data set specific evaluations are [openly available](https://github.com/Fuxxel/edges).
 </p>
 </details>
 <br/>
