@@ -22,7 +22,7 @@ I evaluated the method on expert-labeled *in vivo* data from the EndoVis sub-cha
 <p>
 By using a leave-one-out cross-validation, I reported results for the most suitable network with a median precision-like, recall-like, and Intersection over Union (IoU) of 39.5 px, 143.3 px, and 0.3, respectively.
 I concluded that this approached succeeded in predicting the edges of the kidney, except in instances where high occlusion occurs, which explains the average decrease in the IoU score.
-All parameters, ground truth images, and results are [openly available](https://github.com/ghattab/kidney-edge-detection).
+All parameters, ground truth images, and results are <a href=“https://github.com/ghattab/kidney-edge-detection”>openly available</a>.
 </p>
 </details>
 <br/>
@@ -45,7 +45,7 @@ While the skeletonize algorithm was compared to classical topological skeletons,
 <p>
 Using state of the art metrics, precision and recall based Signed Distance Error and the Intersection over Union bounding box, the results indicated that the SDE metric for these edges was improved up to 2.3 times.
 This work provided guidance for parameter tuning and algorithm selection in the post-processing of predicted object boundaries.
-Evaluation scripts and data set specific evaluations are [openly available](https://github.com/Fuxxel/edges).
+Evaluation scripts and data set specific evaluations are <a href=“https://github.com/Fuxxel/edges”>openly available</a>.
 </p>
 </details>
 <br/>
