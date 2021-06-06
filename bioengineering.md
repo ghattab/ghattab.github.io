@@ -47,7 +47,7 @@ Using the Hausdorff distance, I reported a statistical significance for the diff
 With the help of the evaluation pipeline and a sensitivity analysis, I found that removing non-manifold geometry and improving the mesh quality noise resulted in better registration performance.
 Another important result is redefining the state of the art available surface size from 20 to 16.5% to successfully register the bioomechanical model.
 The different strategies restricted the limiting factors and improved registration results. 
-All reference data, models, and evaluation results are [openly available](https://github.com/ghattab/EvalPBSM/).
+All reference data, models, and evaluation results are <a href='https://github.com/ghattab/EvalPBSM/'</a>.
 </p>
 </details>
 <br/>
