@@ -46,7 +46,7 @@ Publications list in APA style.
 ### 2014
 * **Hattab, G.**, Moncoq, K., Warschawski, D., & Miroux, B. (2014). Escherichia coli as host for membrane protein structure determination: A global analysis. *Biophysical Journal*, 106(2), 46a.
 * **Hattab, G.** (2014). Pattern recognition in a heat maze based spatial system adapted to Drosophila melanogaster. *Université Paris Diderot Sorbonne*. (Master of Science).
-* **Hattab, G.**, Suisse, A. Y., Ilioaia, O., Casiraghi, M., Dezi, M., Warnet, X. L., ... & Miroux, B. (2014). Membrane protein production in Escherichia coli: overview and protocols. Membrane Proteins Production for Structural Analysis, 87-106.
+* **Hattab, G.**, Suisse, A. Y., Ilioaia, O., Casiraghi, M., Dezi, M., Warnet, X. L., ... & Miroux, B. (2014). Membrane protein production in Escherichia coli: overview and protocols. Membrane Proteins Production for Structural Analysis, *Springer*, 87-106.
 
 ### 2012
 * **Hattab, G.** (2012). Establishment of a bibliographic and bioinformatics mining tool to research the over- expression of heterologous membrane proteins. *Institute of Biological Physical Chemistry*. (Bachelor of Science).
