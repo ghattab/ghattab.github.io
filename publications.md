@@ -7,6 +7,8 @@ modified: 21-06-2021
 comments: false
 ---
 
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/nargab/lqab039" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
+
 ### 2021
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2), lqab039.
 * Sperlea, T., Kreuder, N., Beisser, D., **Hattab, G.**, Boenigk, J., & Heider, D. (2021). Quantification of the covariation of lake microbiomes and environmental variables using a machine learning‐based framework. *Molecular Ecology*, 30(9), 2131-2144.
