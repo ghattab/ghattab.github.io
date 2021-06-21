@@ -10,7 +10,7 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
-* **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, M., Breucha, M., von Bechtolsheim, F., Helmert, J., Weitz, J., Pannasch, S., Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning:\\ Evaluation of head-mounted to desktop display. *Scientific Reports*. (accepted)
+* **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, Klausing, P., M., Breucha, ..., & Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning:\\ Evaluation of head-mounted to desktop display. *Scientific Reports*. (accepted)
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2), lqab039. [(link)](https://academic.oup.com/nargab/article/3/2/lqab039/6281452).
 * Sperlea, T., Kreuder, N., Beisser, D., **Hattab, G.**, Boenigk, J., & Heider, D. (2021). Quantification of the covariation of lake microbiomes and environmental variables using a machine learning‐based framework. *Molecular Ecology*, 30(9), 2131-2144. [(link)](https://onlinelibrary.wiley.com/doi/10.1111/mec.15872).
 * Wagner, D., Heider, D., & **Hattab, G.** (2021). Mushroom data creation, curation, and simulation to support classification tasks. *Scientific reports*, 11(1), 1-12. [(link)](https://www.nature.com/articles/s41598-021-87602-3).
