@@ -49,9 +49,3 @@ comments: false
 
 ### 2012
 * **Hattab, G.** (2012). Establishment of a bibliographic and bioinformatics mining tool to research the over- expression of heterologous membrane proteins. *Institute of Biological Physical Chemistry*. (Bachelor of Science).
-
-2021
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/nargab/lqab039" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1111/mec.15872" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
-
-2020 
