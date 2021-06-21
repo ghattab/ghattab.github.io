@@ -29,8 +29,8 @@ owner:
 links:
   - title: Research
     url: /research/
-#  - title: Publications
-#    url: /publications/
+  - title: Publications
+    url: /publications/
   - title: Teaching
     url: /teaching/
   - title: Art
