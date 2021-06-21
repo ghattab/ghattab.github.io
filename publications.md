@@ -7,7 +7,6 @@ modified: 21-06-2021
 comments: false
 ---
 
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/nargab/lqab039" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 ### 2021
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2), lqab039.
@@ -50,3 +49,9 @@ comments: false
 
 ### 2012
 * **Hattab, G.** (2012). Establishment of a bibliographic and bioinformatics mining tool to research the over- expression of heterologous membrane proteins. *Institute of Biological Physical Chemistry*. (Bachelor of Science).
+
+2021
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/nargab/lqab039" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1111/mec.15872" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
+
+2020 
