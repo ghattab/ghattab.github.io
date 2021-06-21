@@ -7,7 +7,7 @@ modified: 21-06-2021
 comments: false
 ---
 
-For a curated view of my work, *cf*. [Research](/research) page. 
+For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2), lqab039.
