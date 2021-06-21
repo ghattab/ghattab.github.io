@@ -27,10 +27,10 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Research
-    url: /research/
   - title: Publications
     url: /publications/
+  - title: Research
+    url: /research/
   - title: Teaching
     url: /teaching/
   - title: Art
