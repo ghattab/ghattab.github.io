@@ -10,16 +10,16 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
-* Hattab, G., (accepted)
+* **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, M., Breucha, M., von Bechtolsheim, F., Helmert, J., Weitz, J., Pannasch, S., Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning:\\ Evaluation of head-mounted to desktop display. *Scientific Reports*. (accepted)
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2), lqab039. [(link)](https://academic.oup.com/nargab/article/3/2/lqab039/6281452).
 * Sperlea, T., Kreuder, N., Beisser, D., **Hattab, G.**, Boenigk, J., & Heider, D. (2021). Quantification of the covariation of lake microbiomes and environmental variables using a machine learning‐based framework. *Molecular Ecology*, 30(9), 2131-2144. [(link)](https://onlinelibrary.wiley.com/doi/10.1111/mec.15872).
 * Wagner, D., Heider, D., & **Hattab, G.** (2021). Mushroom data creation, curation, and simulation to support classification tasks. *Scientific reports*, 11(1), 1-12. [(link)](https://www.nature.com/articles/s41598-021-87602-3).
-* **Hattab, G.**, Rhyne, T. M., & Heider, D. (2021). Correction: Ten simple rules to colorize biological data visualization. *PLoS Computational Biology*, 17(4), e1008901.
-* Hufsky, F., Lamkiewicz, K., Almeida, A., Aouacheria, A., Arighi, C., Bateman, A., ... & Marz, M. (2021). Computational strategies to combat COVID-19: useful tools to accelerate SARS-CoV-2 and coronavirus research. *Briefings in bioinformatics*, 22(2), 642-663.
+* **Hattab, G.**, Rhyne, T. M., & Heider, D. (2021). Correction: Ten simple rules to colorize biological data visualization. *PLoS Computational Biology*, 17(4), e1008901. [(link)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008901).
+* Hufsky, F., Lamkiewicz, K., Almeida, A., Aouacheria, A., Arighi, C., Bateman, A., ... & Marz, M. (2021). Computational strategies to combat COVID-19: useful tools to accelerate SARS-CoV-2 and coronavirus research. *Briefings in bioinformatics*, 22(2), 642-663. [(link)](https://academic.oup.com/bib/article/22/2/642/5955939).
 
 ### 2020
-* Martin, R., Hackl, T., **Hattab, G.**, Fischer, M. G., & Heider, D. MOSGA: Modular Open-Source Genome Annotator. *Bioinformatics* (Oxford, England), btaa1003.
-* **Hattab, G.**, Rhyne, T. M., & Heider, D. (2020). Ten simple rules to colorize biological data visualization. *PLoS Computational Biology*, 16(10). [(link)]().
+* Martin, R., Hackl, T., **Hattab, G.**, Fischer, M. G., & Heider, D. MOSGA: Modular Open-Source Genome Annotator. *Bioinformatics* (Oxford, England), btaa1003. [(link)](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5514/6015104).
+* **Hattab, G.**, Rhyne, T. M., & Heider, D. (2020). Ten simple rules to colorize biological data visualization. *PLoS Computational Biology*, 16(10). [(link)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259).
 * Martin, R., Löchel, H. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2020). CORDITE: the curated CORona drug InTERactions database for SARS-CoV-2. *Iscience*, 23(7), 101297. [(link)](https://www.sciencedirect.com/science/article/pii/S2589004220304843).
 * **Hattab, G.**, Ahlfeld, T., Klimova, A., Koepp, A., Schuerer, M., & Speidel, S. (2020). Uniaxial compression testing and Cauchy stress modeling to design anatomical silicone replicas. *Scientific Reports*, 10(1), 1-7. [(link)](https://www.nature.com/articles/s41598-020-68886-3).
 * **Hattab, G.** (2020). Data from Uniaxial Compression testing and validation scripts for Cauchy stress modeling to design anatomical silicone replicas. *Material Cloud Archive*, 10. [(link)](https://archive.materialscloud.org/record/2020.0019/v2)
