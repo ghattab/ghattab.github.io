@@ -20,7 +20,7 @@ galleries:
     url: /mixedreality
 ---
 
-Research is a systematic investigation into and study of materials to establish facts or theories to challenge or extend existing knowledge. **The appeal lies in formulating and answering interesting questions.** My desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality. Cf. [Publications](https://ghattab.github.io/publications/).
+Research is a systematic investigation into and study of materials to establish facts or theories to challenge or extend existing knowledge. **The appeal lies in formulating and answering interesting questions.** My desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality. Cf. [Publications](/publications/).
 <br/>
 <br/>
 
