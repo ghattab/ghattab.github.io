@@ -28,10 +28,10 @@ For a curated view of my work, *cf*. [Research](/research).
 * **Hattab, G.**, Meyer, F., Albrecht, R. D., & Speidel, S. (2020). MODELAR: A MODular and EvaLuative framework to improve surgical Augmented Reality visualization. *The Eurographics Association*, Eurographics & Eurovis 2020.
 
 ### 2019
-* **Hattab, G.**, & Nattkemper, T. W. (2019). SeeVis—3D space-time cube rendering for visualization of microfluidics image data. *Bioinformatics*, 35(10), 1802-1804.
+* **Hattab, G.**, & Nattkemper, T. W. (2019). SeeVis—3D space-time cube rendering for visualization of microfluidics image data. *Bioinformatics*, 35(10), 1802-1804. [(link)](https://academic.oup.com/bioinformatics/article/35/10/1802/5140217).
 
 ### 2018
-* Hattab, G. (2018) Analyzing colony dynamics and visualizing cell diversity in spatiotemporal experiements. *Bielefeld University*. (PhD, Doctor rerum naturalium).
+* Hattab, G. (2018) Analyzing colony dynamics and visualizing cell diversity in spatiotemporal experiements. *Bielefeld University*. (PhD, Doctor rerum naturalium). [(link)](https://pub.uni-bielefeld.de/record/2919935).
 * **Hattab, G.**, Wiesmann, V., Becker, A., Munzner, T., & Nattkemper, T. W. (2018). A novel Methodology for characterizing cell subpopulations in automated Time-lapse Microscopy. *Frontiers in bioengineering and biotechnology*, 6, 17. [(link)](https://www.frontiersin.org/articles/10.3389/fbioe.2018.00017/full).
 
 ### 2017
