@@ -47,4 +47,4 @@ Overall, results provide novel insights on the use of VR in a surgical planning 
 </p>
 </details>
 <br/>
-[![DOI](/images/id_nature.jpg)]()
+[![DOI](/images/id_nature.jpg)](https://www.nature.com/articles/s41598-021-92536-x)
