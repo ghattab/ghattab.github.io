@@ -45,7 +45,7 @@ The pipeline consisted of creating a biomechanical model by using the physics-ba
 <p>
 Using the Hausdorff distance, I reported a statistical significance for the different partial surfaces used for registration. 
 With the help of the evaluation pipeline and a sensitivity analysis, I found that removing non-manifold geometry and improving the mesh quality resulted in better registration performance.
-Another important result is redefining the state of the art available surface size from 20 to 16.5% to successfully register the bioomechanical model.
+Another important result is redefining the state of the art available surface size from 20 to 16.5% to successfully register the biomechanical model.
 The different strategies restricted the limiting factors and improved registration results. 
 All reference data, models, and evaluation results are <a href='https://github.com/ghattab/EvalPBSM/'>openly available</a>.
 </p>
