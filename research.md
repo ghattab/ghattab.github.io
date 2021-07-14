@@ -16,7 +16,7 @@ galleries:
     image: /images/z.jpg
     url: /biophysics  
   - title: Edge Detection
-    image: /images/v.jpg
+    image: /images/w.jpg
     url: /edgedetection  
   - title: Mixed Reality
     image: /images/u.jpg
