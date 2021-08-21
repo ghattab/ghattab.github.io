@@ -49,4 +49,4 @@ Evaluation scripts and related data are <a href='https://github.com/Fuxxel/edges
 </p>
 </details>
 <br/>
-[![DOI](/images/id_bmc.png)]()
+[![DOI](/images/id_bmc.png)](https://doi.org/10.1186/s12880-021-00650-z)
