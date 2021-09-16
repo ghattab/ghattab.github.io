@@ -10,7 +10,7 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
-* Anžel, A., Heider, D., **Hattab, G.** (2021) The Visual Story of Data Storage:  From Storage Properties to User Interfaces. *Computational and Structural Biotechnology Journal*. [doi.org/10.1016/j.csbj.2021.08.031](https://www.sciencedirect.com/science/article/pii/S2001037021003627)
+* Anžel, A., Heider, D., **Hattab, G.** (2021) The Visual Story of Data Storage:  From Storage Properties to User Interfaces. *Computational and Structural Biotechnology Journal*. [doi.org/10.1016/j.csbj.2021.08.031](https://www.sciencedirect.com/science/article/pii/S2001037021003627).
 * Arnold, M., Speidel, S., **Hattab, G.** (2021) Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. *BMC Medical Imaging, 21 (1), 1-9*. [doi.org/10.1186/s12880-021-00650-z](https://link.springer.com/article/10.1186/s12880-021-00650-z).
 * **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, M., Klausing, P., Breucha, M., ..., & Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning: Evaluation of head-mounted to desktop display. *Scientific Reports*, 11(1), 1-11. [doi.org/10.1038/s41598-021-92536-x](https://www.nature.com/articles/s41598-021-92536-x).
 * Spänig, S., Mohsen, S., **Hattab, G.**, Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. *NAR genomics and bioinformatics*, 3(2). [doi.org/10.1093/nargab/lqab039](https://academic.oup.com/nargab/article/3/2/lqab039/6281452).
