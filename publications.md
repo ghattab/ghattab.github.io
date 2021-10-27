@@ -10,6 +10,7 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
+* **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
 * Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
 * **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2021). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
 * Ezekannagha, C., Heider, D., **Hattab, G.** (2021). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, ACS Synthetic Biology, (submitted).
