@@ -3,7 +3,7 @@ layout: page
 permalink: /biophysics/
 title: Biophysics
 tags: [research, biophysics, physics, membrane, proteins, text, mining]
-modified: 19-09-2019
+modified: 27-10-2021
 comments: false
 ---
 
