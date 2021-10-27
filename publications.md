@@ -10,8 +10,8 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
-* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021) The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted)
-* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2021) CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted)
+* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021) The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
+* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2021) CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
 * Ezekannagha, C., Heider, D., **Hattab, G.** (2021) DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, ACS Synthetic Biology, (submitted).
 * Anžel, A., Heider, D., **Hattab, G.** (2021) MOVIS: MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, (submitted).
 * Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2021) Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (submitted).
