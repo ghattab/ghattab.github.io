@@ -8,7 +8,6 @@ comments: false
 ---
 
 For a curated view of my work, *cf*. [Research](/research). 
-Kaya, G., Ezekannagha, C., Heider, D., Hattab, G., Context-Aware Phylogenetic Trees, (in preparation)
 ### 2021
 * Kaya, G., Ezekannagha, C., Heider, D., Hattab, G., Context-Aware Phylogenetic Trees, (in preparation).
 * Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
