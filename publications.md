@@ -10,10 +10,11 @@ comments: false
 For a curated view of my work, *cf*. [Research](/research). 
 
 ### 2021
-* **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
+* Kaya, G., Ezekannagha, C., Heider, D., Hattab, G., Context-Aware Phylogenetic Trees, (in preparation).
+* Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
 * Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
 * **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2021). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
-* Ezekannagha, C., Heider, D., **Hattab, G.** (2021). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, ACS Synthetic Biology, (submitted).
+* Ezekannagha, C., Heider, D., **Hattab, G.** (2021). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (submitted).
 * Anžel, A., Heider, D., **Hattab, G.** (2021). MOVIS: MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, (submitted).
 * Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2021). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (submitted).
 * Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, Nucleic Acids Research, (under revision).
