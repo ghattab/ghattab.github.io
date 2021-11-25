@@ -9,7 +9,7 @@ comments: false
 
 For a curated view of my work, *cf*. [Research](/research). 
 ### 2021
-* Kaya, G., Ezekannagha, C., Heider, D., Hattab, G., Context-Aware Phylogenetic Trees, (in preparation).
+* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.**, Context-Aware Phylogenetic Trees, (in preparation).
 * Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
 * **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
 * Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
