@@ -8,17 +8,18 @@ comments: false
 ---
 
 For a curated view of my work, *cf*. [Research](/research). 
-### 2021
+### 2022
 * Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.**, Context-Aware Phylogenetic Trees, (in preparation).
 * Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
+* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
+* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
+* Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (submitted).
+* Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, (under revision).
+* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (submitted).
+### 2021
 * **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
-* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2021). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
-* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2021). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
-* Ezekannagha, C., Heider, D., **Hattab, G.** (2021). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (submitted).
-* Anžel, A., Heider, D., **Hattab, G.** (2021). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, (under revision).
-* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2021). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (submitted).
-* Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, Nucleic Acids Research, (accepted).
-* Martin, R., Dressler, H., **Hattab, G.**, Hackl, T., Fischer, M. G., & Heider, D. (2021). MOSGA 2: Comparative Genomics and Validation Tools, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2021.09.024](https://www.sciencedirect.com/science/article/pii/S2001037021004098?via%3Dihub).
+* Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, Nucleic Acids Research, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
+* Martin, R., Dressler, H., **Hattab, G.**, Hackl, T., Fischer, M. G., & Heider, D. (2021). MOSGA 2: Comparative Genomics and Validation Tools, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2021.09.024](https://www.sciencedirect.com/science/article/pii/S2001037021004098).
 * Anžel, A., Heider, D., **Hattab, G.** (2021). The Visual Story of Data Storage:  From Storage Properties to User Interfaces. *Computational and Structural Biotechnology Journal*. [doi.org/10.1016/j.csbj.2021.08.031](https://www.sciencedirect.com/science/article/pii/S2001037021003627).
 * Arnold, M., Speidel, S., **Hattab, G.** (2021). Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. *BMC Medical Imaging, 21 (1), 1-9*. [doi.org/10.1186/s12880-021-00650-z](https://link.springer.com/article/10.1186/s12880-021-00650-z).
 * **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, M., Klausing, P., Breucha, M., ..., & Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning: Evaluation of head-mounted to desktop display. *Scientific Reports*, 11(1), 1-11. [doi.org/10.1038/s41598-021-92536-x](https://www.nature.com/articles/s41598-021-92536-x).
