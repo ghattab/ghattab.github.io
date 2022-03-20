@@ -9,7 +9,7 @@ comments: false
 
 For a curated view of my work, *cf*. [Research](/research). 
 ### 2022
-* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.**, Context-Aware Phylogenetic Trees, (in preparation).
+* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.**, Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, (in preparation).
 * Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
 * Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
 * **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
