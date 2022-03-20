@@ -9,13 +9,14 @@ comments: false
 
 For a curated view of my work, *cf*. [Research](/research). 
 ### 2022
-* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.**, Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, (in preparation).
-* Sperlea, T., Heider, D., **Hattab, G.**, An Information Theory of Bioindication in Complex Ecosystems, BioScience, (in preparation).
-* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, (submitted).
-* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). CMANGOES: Carbon- based Multi-level Atomic NeiGhborhOod EncodingS, Computational and Structural Biotechnology, (submitted).
-* Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (submitted).
-* Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, (under revision).
-* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (submitted).
+* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.** (2022). Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, Frontiers in Genetics (submitted).
+* Sperlea, T., Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, Ecological Indicators, (submitted).
+* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, Expert Systems with Applications, (submitted).
+* Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (under review).
+* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (in revision).
+* Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2022.02.012](https://www.sciencedirect.com/science/article/pii/S2001037022000526).
+* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, [doi.org/10.1016/j.scitotenv.2022.153732](https://www.sciencedirect.com/science/article/abs/pii/S0048969722008245).
+
 ### 2021
 * **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
 * Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, Nucleic Acids Research, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
