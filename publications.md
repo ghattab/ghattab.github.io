@@ -13,7 +13,7 @@ For a curated view of my work, *cf*. [Research](/research).
 * Sperlea, T., Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, Ecological Indicators, (submitted).
 * **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, Expert Systems with Applications, (submitted).
 * Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (under review).
-* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Sustainable Design for long-term Archiving of information with DNA as green Storage Medium, Molecular Systems Biology, (in revision).
+* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Design considerations for advancing data storage with synthetic DNA for long-term archiving, Materials Today Bio, [doi.org/10.1016/j.mtbio.2022.100306](https://www.sciencedirect.com/science/article/pii/S2590006422001041).
 * Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2022.02.012](https://www.sciencedirect.com/science/article/pii/S2001037022000526).
 * Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, [doi.org/10.1016/j.scitotenv.2022.153732](https://www.sciencedirect.com/science/article/abs/pii/S0048969722008245).
 
