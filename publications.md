@@ -3,24 +3,24 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 20-03-2022
+modified: 27-06-2022
 comments: false
 ---
 
 For a curated view of my work, *cf*. [Research](/research). 
 ### 2022
-* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.** (2022). Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, Frontiers in Genetics (submitted).
-* Sperlea, T., Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, Ecological Indicators, (submitted).
-* **Hattab, G.**, Neumann, N., Anžel, A., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, Expert Systems with Applications, (submitted).
 * Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (under review).
-* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Design considerations for advancing data storage with synthetic DNA for long-term archiving, Materials Today Bio, [doi.org/10.1016/j.mtbio.2022.100306](https://www.sciencedirect.com/science/article/pii/S2590006422001041).
-* Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2022.02.012](https://www.sciencedirect.com/science/article/pii/S2001037022000526).
-* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, Science of the Total Environment, [doi.org/10.1016/j.scitotenv.2022.153732](https://www.sciencedirect.com/science/article/abs/pii/S0048969722008245).
+* **Hattab, G.**, Anžel, A., Spänig, S., Neumann, N., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (submitted).
+* Sperlea, T., Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, *Ecological Indicators*, [doi.org/10.1016/j.ecolind.2022.109050](https://www.sciencedirect.com/science/article/pii/S1470160X22005210).
+* Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Design considerations for advancing data storage with synthetic DNA for long-term archiving, *Materials Today Bio*, [doi.org/10.1016/j.mtbio.2022.100306](https://www.sciencedirect.com/science/article/pii/S2590006422001041).
+* Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.** (2022). Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, *Frontiers in Genetics*, [doi.org/10.3389/fgene.2022.891240](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240).
+* Anžel, A., Heider, D., **Hattab, G.** (2022). MOVIS: A Multi-Omics Software Solution for Multi-modal Time-Series Clustering, Embedding, and Visualizing Tasks, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2022.02.012](https://www.sciencedirect.com/science/article/pii/S2001037022000526).
+* Sperlea, T., Schenk, J.P., Dreßler, H., Beisser, D., **Hattab, G.**, Boenigk, J., Heider, D. (2022). The relationship between land cover and microbial community composition in European lakes, *Science of the Total Environment*, [doi.org/10.1016/j.scitotenv.2022.153732](https://www.sciencedirect.com/science/article/abs/pii/S0048969722008245).
 
 ### 2021
 * **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
-* Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, Nucleic Acids Research, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
-* Martin, R., Dressler, H., **Hattab, G.**, Hackl, T., Fischer, M. G., & Heider, D. (2021). MOSGA 2: Comparative Genomics and Validation Tools, Computational and Structural Biotechnology, [doi.org/10.1016/j.csbj.2021.09.024](https://www.sciencedirect.com/science/article/pii/S2001037021004098).
+* Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, *Nucleic Acids Research*, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
+* Martin, R., Dressler, H., **Hattab, G.**, Hackl, T., Fischer, M. G., & Heider, D. (2021). MOSGA 2: Comparative Genomics and Validation Tools, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2021.09.024](https://www.sciencedirect.com/science/article/pii/S2001037021004098).
 * Anžel, A., Heider, D., **Hattab, G.** (2021). The Visual Story of Data Storage:  From Storage Properties to User Interfaces. *Computational and Structural Biotechnology Journal*. [doi.org/10.1016/j.csbj.2021.08.031](https://www.sciencedirect.com/science/article/pii/S2001037021003627).
 * Arnold, M., Speidel, S., **Hattab, G.** (2021). Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. *BMC Medical Imaging, 21 (1), 1-9*. [doi.org/10.1186/s12880-021-00650-z](https://link.springer.com/article/10.1186/s12880-021-00650-z).
 * **Hattab, G.**, Hatzipanayioti, A., Klimova, A., Pfeiffer, M., Klausing, P., Breucha, M., ..., & Speidel, S. (2021). Investigating the utility of VR for spatial understanding in surgical planning: Evaluation of head-mounted to desktop display. *Scientific Reports*, 11(1), 1-11. [doi.org/10.1038/s41598-021-92536-x](https://www.nature.com/articles/s41598-021-92536-x).
