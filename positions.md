@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /positions/
-title: Two Postdoctoral positions
+title: Two Postdoctoral positions in Visualization Research
 tags: 
 modified: 19-10-2022
 comments: false
