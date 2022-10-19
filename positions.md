@@ -1,14 +1,11 @@
 ---
-layout: profile
+layout: page
 permalink: /about/
 title: Two Postdoctoral positions
 tags: 
 modified: 19-10-2022
 comments: false
 ---
-![](https://www.rki.de/SiteGlobals/StyleBundles/Bilder/Farbschema_A/logo_a.jpg?__blob=normal&v=7)
-<br/>
-<br/>
 
 Two postdoctoral positions are available at the Visualization unit of the [Center for Artificial Intelligence in Public Health Research](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html), ZKI-PH, at the [Robert Koch Institute](https://www.rki.de/EN/). 
 <br/>
