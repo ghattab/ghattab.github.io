@@ -10,7 +10,10 @@ comments: false
 <br/>
 <br/>
 
-Currently, I am the junior group leader of the data analytics and visualization group. I work on solving long-term information storage problems that arise in molecular media. I also head the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
+Currently, I am the group leader of the Visualization unit at the Center for Artificial Intelligence in Public Health Research (ZKI-PH), [Robert Koch Institute](https://www.rki.de/EN/). 
+<br/>
+<br/>
+Prior to that, I was a junior group leader of the Analytics and Visualization group and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
 <br/>
 <br/>
 
