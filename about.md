@@ -3,7 +3,7 @@ layout: profile
 permalink: /about/
 title: Georges Hattab
 tags: [about, profile, curriculum]
-modified: 05-04-2020
+modified: 19-10-2022
 comments: false
 ---
 ![](/images/header.png)
