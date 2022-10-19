@@ -30,4 +30,4 @@ The successful candidate is expected to hold a Ph.D. in Computer Science or clos
 The positions are planned for three years. There is a possibility for an indefinite appointment. For further information, please contact me.
 
 <br/>
-Applicants must have completed their doctorate in the past five years. Candidates are invited to send their application including a cover letter describing your experience, interests, and suitability for the position and a curriculum vitae with a list of publications.
+Candidates are invited to send their application including a cover letter describing your experience, interests, and suitability for the position and a curriculum vitae with a list of publications.
