@@ -1,19 +1,19 @@
 ---
 layout: page
 permalink: /positions/
-title: Two Postdoctoral positions in Visualization Research
+title: Two Postdoctoral positions 
 tags: 
 modified: 19-10-2022
 comments: false
 ---
 
-Two postdoctoral positions are available at the Visualization unit of the [Center for Artificial Intelligence in Public Health Research](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html), ZKI-PH, at the [Robert Koch Institute](https://www.rki.de/EN/). 
+Two postdoctoral positions in Visualization Research are available at the Visualization unit of the [Center for Artificial Intelligence in Public Health Research](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html), ZKI-PH, at the [Robert Koch Institute](https://www.rki.de/EN/). 
 <br/>
 <br/>
 
 Start date: flexible 
 <br/>
-Contact: Dr. Georges Hattab [hattabg@rki.de](mailto:hattabg@rki.de)
+Contact: Dr. Georges Hattab, [hattabg@rki.de](mailto:hattabg@rki.de)
 
 <br/>
 The broad Research focus targets the interdisciplinary field of Data Visualization with desired expertise in Machine Learning, Statistics, and Artificial Intelligence.
