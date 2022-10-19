@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /positions/
 title: Two Postdoctoral positions
 tags: 
 modified: 19-10-2022
