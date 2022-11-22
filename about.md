@@ -10,7 +10,7 @@ comments: false
 <br/>
 <br/>
 
-Currently, I am the group leader of the Visualization unit at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, [Robert Koch Institute](https://www.rki.de/EN/). 
+Currently, I am the Visualization group leader at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, [Robert Koch Institute](https://www.rki.de/EN/). 
 <br/>
 <br/>
 Previously, I was a junior group leader of the Analytics and Visualization group and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
