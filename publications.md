@@ -3,14 +3,15 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 27-06-2022
+modified: 21-11-2022
 comments: false
 ---
 
 For a curated view of my work, *cf*. [Research](/research). 
 ### 2022
-* Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, NPG Asia Materials, (under review).
-* **Hattab, G.**, Anžel, A., Spänig, S., Neumann, N., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (submitted).
+* Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, GigaScience, (under review).
+* **Hattab, G.**, Anžel, A., Spänig, S., Neumann, N., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (in revision).
+* **Hattab, G.**, (2022). Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency, *IEEE Transactions on Visualization and Computer Graphics*, ([accepted for IEEE VIS 2022](https://drive.google.com/file/d/1zFFljPInvbcnmBXNtYKCNnTklfoT0HQQ/view?usp=share_link), [Suppl.](https://drive.google.com/file/d/1J2W3F7stQYYdvYxGKC1nkZV0mjP0qegf/view?usp=share_link)).
 * Sperlea, T., Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, *Ecological Indicators*, [doi.org/10.1016/j.ecolind.2022.109050](https://www.sciencedirect.com/science/article/pii/S1470160X22005210).
 * Ezekannagha, C., Becker, A., Heider, D., **Hattab, G.** (2022). Design considerations for advancing data storage with synthetic DNA for long-term archiving, *Materials Today Bio*, [doi.org/10.1016/j.mtbio.2022.100306](https://www.sciencedirect.com/science/article/pii/S2590006422001041).
 * Kaya, G., Ezekannagha, C., Heider, D., **Hattab, G.** (2022). Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, *Frontiers in Genetics*, [doi.org/10.3389/fgene.2022.891240](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240).
