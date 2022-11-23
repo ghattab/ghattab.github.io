@@ -64,4 +64,4 @@ For a curated view of my work, *cf*. [Research](/research).
 * **Hattab, G.**, Suisse, A. Y., Ilioaia, O., Casiraghi, M., Dezi, M., Warnet, X. L., ... & Miroux, B. (2014). Membrane protein production in Escherichia coli: overview and protocols. Membrane Proteins Production for Structural Analysis, *Springer*, 87-106. [doi.org/10.1007/978-1-4939-0662-8_4](https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4)
 
 ### 2012
-* **Hattab, G.** (2012). Establishment of a bibliographic and bioinformatics mining tool to research the over-expression of heterologous membrane proteins. *Institute of Biological Physical Chemistry*. Université Paris Diderot Sorbonne. (Bachelor of Science).
+* **Hattab, G.** (2012). Establishment of a bibliographic and bioinformatics mining tool to research the over-expression of heterologous membrane proteins. Institute of Biological Physical Chemistry. Université Paris Diderot Sorbonne.* (Bachelor of Science).
