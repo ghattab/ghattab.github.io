@@ -45,7 +45,7 @@ For a curated view of my work, *cf*. [Research](/research).
 * **Hattab, G.**, & Nattkemper, T. W. (2019). SeeVis—3D space-time cube rendering for visualization of microfluidics image data. *Bioinformatics*, 35(10), 1802-1804. [doi.org/10.1093/bioinformatics/bty889](https://academic.oup.com/bioinformatics/article/35/10/1802/5140217).
 
 ### 2018
-* Hattab, G. (2018) Analyzing colony dynamics and visualizing cell diversity in spatiotemporal experiments. *Bielefeld University*. (PhD, Doctor rerum naturalium). [(link)](https://pub.uni-bielefeld.de/record/2919935).
+* **Hattab, G.** (2018) Analyzing colony dynamics and visualizing cell diversity in spatiotemporal experiments. *Bielefeld University*. (PhD, Doctor rerum naturalium). [(link)](https://pub.uni-bielefeld.de/record/2919935).
 * **Hattab, G.**, Wiesmann, V., Becker, A., Munzner, T., & Nattkemper, T. W. (2018). A novel Methodology for characterizing cell subpopulations in automated Time-lapse Microscopy. *Frontiers in bioengineering and biotechnology*, 6, 17. [doi.org/10.3389/fbioe.2018.00017](https://www.frontiersin.org/articles/10.3389/fbioe.2018.00017/full).
 
 ### 2017
