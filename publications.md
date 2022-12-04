@@ -7,7 +7,7 @@ modified: 21-11-2022
 comments: false
 ---
 
-For a curated view of my work, *cf*. [Research](/research). 
+For a curated view, *cf*. [Research](/research). 
 ### 2022
 * Ezekannagha, C., Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, GigaScience, (under review).
 * **Hattab, G.**, Anžel, A., Spänig, S., Neumann, N., Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (in revision).
