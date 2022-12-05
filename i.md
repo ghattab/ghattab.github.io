@@ -7,7 +7,7 @@ tags: [data, mining, information, encoding, decoding, visualization, algorithm, 
 
 ![](/images/home/anzel1.svg "Timeline of Storage Media and their Usage"){:width="25%"}
 
-| [![](/images/home/anzel2.svg "Metabolite and physico-chemical values over time (Anžel _et al._, 2022)"){:class="img-responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) |
+| [![](/images/home/anzel2.svg "Metabolite and physico-chemical values over time (Anžel <i>et al.</i>, 2022)"){:class="img-responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) |
 
 
 <br>
