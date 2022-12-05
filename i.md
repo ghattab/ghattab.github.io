@@ -6,8 +6,9 @@ tags: [data, mining, information, encoding, decoding, visualization, algorithm, 
 ---
 
 [![](/images/home/anzel2021.svg "Timeline of Storage Media and their Usage (Anžel et al., 2021)"){:class="responsive"}{:width="49%"}](https://doi.org/10.1016/j.csbj.2021.08.031) 
-
 [![](/images/home/anzel2022.svg "Metabolite and physico-chemical values over time (Anžel et al., 2022)"){:class="responsive"}{:width="49%"}](https://doi.org/10.1016/j.csbj.2022.02.012)
 
+The visual story of data storage: From storage properties to user interfaces
 
+MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks
 <br>
