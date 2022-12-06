@@ -1,8 +1,8 @@
 ---
 layout: home2
 title:
-description: "Georges Hattab website"
-tags: [data, mining, information, encoding, decoding, visualization, algorithm, responsive, research, meaning, design]
+description: "Visualization Group"
+tags: [data, mining, information, encoding, decoding, visualization, algorithm, research, meaning, design]
 ---
 
 ![](/images/index.png)
