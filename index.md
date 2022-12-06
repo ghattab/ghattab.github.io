@@ -8,4 +8,4 @@ tags: [data, mining, information, encoding, decoding, visualization, algorithm, 
 ![](/images/index.png)
 <br>
 We think, feel, and create islands of meaning in the sea of information.
-{: style="text-align: center;"}
+{: style="text-align: center; border:1px solid lightgray"}
