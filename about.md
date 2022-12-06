@@ -1,7 +1,7 @@
 ---
 layout: profile
 permalink: /about/
-title: About
+title:
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 modified: 07-12-2022
 comments: false
