@@ -1,24 +1,20 @@
 ---
 layout: profile
 permalink: /about/
-title: Georges Hattab
-tags: [about, profile, curriculum]
-modified: 19-10-2022
+title: About
+tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
+modified: 07-12-2022
 comments: false
 ---
 ![](/images/header.png)
 <br/>
 <br/>
 
-Currently, I am the Visualization group leader at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, [Robert Koch Institute](https://www.rki.de/EN/).
+The Visualization Group at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, at the [Robert Koch Institute](https://www.rki.de/EN/), is led by [Dr. habil. Georges Hattab](/ghattab).
 
 <br/>
-My research is a systematic investigation into and a study of scientific problems to establish facts or theories to challenge or extend existing knowledge. The appeal lies in formulating and answering interesting questions. My desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
+The main focus of our research is the development of computational solutions at the intersection of Visualization (VIS) and Artificial Intelligence (AI) in the context of public health.
+We develop approaches that leverage visualization techniques to explain, explore, and improve the understanding of the inner workings of AI models as well as data analytics techniques. 
+With the dual goal of increasing the ability of users to better understand and control the models or the data, we are also investigating ways to mitigate or solve problems that arise when visualizing data, such as uncertainty, accessibility, bias in rendered visualizations.
 
-<br/>
-<br/>
-Previously, I was a junior group leader of the Analytics and Visualization group and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146) at [Philipps-Universität Marburg](https://www.uni-marburg.de/en), Germany.
-Prior to that, I was in the field of computational medicine, particularly surgical translational research, as a postdoctoral researcher at the National Center for Tumor Diseases, [NCT](https://www.nct-dresden.de/en.html) with [Prof. Stefanie Speidel](http://bit.ly/2SaNnos) (Dresden, Germany) and in collaboration with the German Cancer Research Center, [DKFZ](https://www.dkfz.de/en/index.html).
-Before that, I obtained a PhD in natural Sciences (rerum naturalium), in particular Bioinformatics at [Bielefeld University](https://www.uni-bielefeld.de/(en)/). I was supervised by [Prof. Tim W. Nattkemper](https://biodatamining.cebitec.uni-bielefeld.de/people.html#leader) and [Prof. Tamara Munzner](http://www.cs.ubc.ca/~tmm/).
-Prior to that, I completed both my bachelor's and master's degrees in bioinformatics at Paris Diderot University, part of [Université de Paris](https://u-paris.fr/en/) (Paris, France).
-For my complete curriculum, please refer to the [**cv**](/documents/ghattab_cv.pdf).
+

@@ -1,4 +1,4 @@
-title: Information Everything
+title: Visualization Group
 description:
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ghattab.github.io
@@ -29,16 +29,12 @@ owner:
 links:
   - title: Publications
     url: /publications/
-  - title: Research
-    url: /research/
-  - title: Teaching
-    url: /teaching/
-  - title: Art
-    url: /art/
+  - title: Bits
+    url: /bits/
+#  - title: Art
+#    url: /art/
   - title: About
     url: /about/
-#  - title: Blog posts
-#    url: /blog/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
