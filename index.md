@@ -7,4 +7,4 @@ tags: [data, mining, information, encoding, decoding, visualization, algorithm, 
 
 ![](/images/index.png)
 <br>
-We think, feel, and create islands of meaning in the sea of information.
+We think, feel, and create islands of meaning in the sea of information.{: style="text-align: center;"}
