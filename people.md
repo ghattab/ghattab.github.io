@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /aa/
+permalink: /people/
 title: People
 tags: [group, members, researcher, assistant, phd, student]
 modified: 08-12-2022
