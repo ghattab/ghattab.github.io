@@ -22,17 +22,25 @@ comments: false
 **Alumni**
 <br/>
 **2022**
-Chu Xiao, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang
-
+<br/>
+Chu Xiao, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang.
+<br/>
+<br/>
 **2021**
-Freya Siv Dorn, Gizem Kaya, Jing Chen, Nils Neumann, Sandra Clemens
-
+<br/>
+Freya Siv Dorn, Gizem Kaya, Jing Chen, Nils Neumann, Sandra Clemens.
+<br/>
+<br/>
 **2020**
-Dennis Wagner
-Johannes Tauscher
-
+<br/>
+Dennis Wagner, Johannes Tauscher.
+<br/>
+<br/>
 *‌*2019**
-Ljupka Titizova Oliver Gold
-
+<br/>
+Ljupka Titizova, Oliver Gold.
+<br/>
+<br/>
 **2018**
-Alexander Koepp
+<br/>
+Alexander Koepp.
