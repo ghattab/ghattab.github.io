@@ -10,7 +10,7 @@ comments: false
 **Name**    | **Role**
 [Dr. habil. Georges Hattab](/hattab)  | PI
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD student
-Chisom Ezekannagha  | PhD student
+[Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
 Ihsan Tri Heldian  | Research Assistant
 Florian Schwarz  | MSc
 Minh Nguyen  | MSc
