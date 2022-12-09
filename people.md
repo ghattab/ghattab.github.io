@@ -37,7 +37,7 @@ Freya Siv Dorn, Gizem Kaya, Jing Chen, Nils Neumann, Sandra Clemens.
 Dennis Wagner, Johannes Tauscher.
 <br/>
 <br/>
-*‌*2019**
+‌**2019**
 <br/>
 Ljupka Titizova, Oliver Gold.
 <br/>
