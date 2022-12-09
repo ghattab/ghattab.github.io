@@ -6,15 +6,16 @@ tags: [group, members, researcher, assistant, phd, student]
 modified: 08-12-2022
 comments: false
 ---
+
 **Name**    | **Role**
 [Dr. habil. Georges Hattab](/hattab)  | PI
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD student
 Chisom Ezekannagha  | PhD student
+Ihsan Tri Heldian  | Research Assistant
 Florian Schwarz  | MSc
 Minh Nguyen  | MSc
 Bianca Thiel  | MSc
 Dilekcan Pamir  | BSc
-Ihsan Tri Heldian  | Research Assistant
 {: .display}
 <br/>
 <br/>
