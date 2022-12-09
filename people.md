@@ -7,15 +7,15 @@ modified: 08-12-2022
 comments: false
 ---
 
-**Name** | **Role**
-[Dr. habil. Georges Hattab](/hattab) | PI
-[Aleksandar Anžel](https://aanzel.github.io) | PhD Student
-Chisom Ezekannagha | PhD student
-Florian Schwarz | MSc
-Minh Nguyen | MSc
-Bianca Thiel | MSc
-Dilekcan Pamir | BSc
-Ihsan Tri Heldian | Research Assistant
+|**Name** | **Role** |
+| [Dr. habil. Georges Hattab](/hattab) | PI |
+| [Aleksandar Anžel](https://aanzel.github.io) | PhD Student |
+| Chisom Ezekannagha | PhD student |
+| Florian Schwarz | MSc |
+| Minh Nguyen | MSc |
+| Bianca Thiel | MSc |
+| Dilekcan Pamir | BSc |
+| Ihsan Tri Heldian | Research Assistant |
 <br/>
 <br/>
 
