@@ -27,7 +27,7 @@ Dilekcan Pamir  | BSc
 <br/>
 **2022**
 <br/>
-Chu Xiao, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang.
+Theodor Sperlea, Roman Martin, Chu Xiao, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang.
 <br/>
 <br/>
 **2021**
@@ -42,7 +42,7 @@ Dennis Wagner, Johannes Tauscher.
 <br/>
 ‌**2019**
 <br/>
-Ljupka Titizova, Oliver Gold.
+Felix Meyer, Remke Dirk Albrecht, Ljupka Titizova, Oliver Gold, Marvin Arnold, Leon Strenger, Darja Arsentjeva, Peter Klausing.
 <br/>
 <br/>
 **2018**
