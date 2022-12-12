@@ -3,12 +3,12 @@ layout: profile
 permalink: /hattab/
 title: Georges Hattab
 tags: [about, profile, bio, curriculum]
-modified: 07-12-2022
+modified: 12-12-2022
 comments: false
 ---
 
 Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently affiliated with the [Philipps-Universität Marburg](https://www.uni-marburg.de/en), where he supervises two doctoral students.
-![](images/hattab.png)
+![](images/hattab.png){:height="200px" width="200px"}
 
 <br/>
 He studied Computer Science, i.e., Bioinformatics, and completed his bachelor's and master's degrees at Paris Diderot University, part of [Université de Paris](https://u-paris.fr/en/), France.
