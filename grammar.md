@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Context Free grammar
-description: “Context Free Drawing relies on a set of  rules (grammar) that the program uses to generates images.”
+description: “Context Free Drawing relies on a set of rules (grammar) that the program uses to generates images.”
 tags: [design, shape, context, free, grammar]
 modified: 12-09-2019
 comments: false
