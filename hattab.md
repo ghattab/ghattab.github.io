@@ -7,10 +7,9 @@ modified: 12-12-2022
 comments: false
 ---
 
-![](/images/profiles/hattab.png){:style="float: right", height="200px" width="200px"}
-Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently affiliated with the [Philipps-Universität Marburg](https://www.uni-marburg.de/en), where he supervises two doctoral students.
-<br/>
+Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently affiliated with the [Philipps-Universität Marburg](https://www.uni-marburg.de/en), where he supervises two doctoral students.  | ![](/images/profiles/hattab.png){:style="float: right", height="200px" width="200px"}
 
+<br/>
 He studied Computer Science, i.e., Bioinformatics, and completed his bachelor's and master's degrees at Paris Diderot University, part of [Université de Paris](https://u-paris.fr/en/), France.
 He subsequently started his PhD studies at the Faculty of Technology of the [Bielefeld University](https://www.uni-bielefeld.de/(en)/). He was supervised by [Prof. Tim W. Nattkemper](https://biodatamining.cebitec.uni-bielefeld.de/people.html#leader) and [Prof. Tamara Munzner](http://www.cs.ubc.ca/~tmm/), and advised by [Prof. Martin Ester](https://sites.google.com/view/esterlab) as part of the German-Canadian DFG International Research Training Group GRK 1906. 
 He obtained his Ph.D. _rerum naturalium_ in 2018. 
