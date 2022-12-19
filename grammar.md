@@ -24,7 +24,7 @@ TRIANGLE {}
 		<div>The triangle command can be exchanged by a circle or square.</div>
 </div>
 
-![](/images/fig1.png){: .center-image }
+![](/images/grammar/fig1.png){: .center-image }
 
 <div style="display: inline-block;">
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
@@ -53,7 +53,7 @@ Here the program draws an increasingly small triangle (size is multiplied by 0.7
     </div>
 </div>
 
-![](/images/fig2.png){: .center-image } ![](/images/fig3.png){: .center-image }
+![](/images/grammar/fig2.png){: .center-image } ![](/images/grammar/fig3.png){: .center-image }
 
 The second grammar is recursive and employs a new adjustment of size or s. The program stops once the triangle size can no longer be represented on the image space.
 
@@ -77,7 +77,7 @@ rule cc {
     </div>
 </div>
 
-![](/images/fig4.png){: .center-image }
+![](/images/grammar/fig4.png){: .center-image }
 
 ## Time
 CF is powerful enough to render an animation or a set of frames. Each shape has a start time, when it starts to be drawn, and an end time, when it’s drawn. This defines a 1D affine transform with a pair that share the same scale element. The adjustments are time and timescale.
@@ -129,7 +129,20 @@ For each triangle, 3 triangles — that are half the size — are created at eac
     </div>
 </div>
 
-![](/images/fig6.png){: .center-image }
+![](/images/grammar/fig6.png){: .center-image }
+
+## Shapes
+
+
+From the ancient Egyptians' fixed rules of a canon, a measurement that is based on the square, to the proportions of the gothic style, to the halos depicted around Catholic saints, to circles for Muslim talismans, to triangles in the star of David, to the Shinto principles of 'Sanmi-sangen', these shapes cross religious and spiritual lines. Acknowledging the three most basic and commonly used shapes is key to understanding both ancient and modern art: the square, the circle, and the triangle.
+
+<br/>
+In the early 1960s Italian designer Bruno Munari published his visual case studies on these fundamental forms.
+From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. Below, I rediscover them in a more organic manner using shape grammars.
+<br/>
+
+![](/images/home/shapes.png){: .center-image }
+
 
 
 For complete documentation, the official wiki details shape adjustements, shape replacements, shape rules, expressions, and control structures (4).

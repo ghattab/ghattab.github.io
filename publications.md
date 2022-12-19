@@ -20,7 +20,7 @@ comments: false
 
 ### 2021
 * **Hattab, G.** (2021). Data Abstractions for Visual Analytics in Computational Life Sciences. Philipps-Universität Marburg. (Habilitation) 
-* Hannah, L. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, *Nucleic Acids Research*, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
+* Löchel, H. F., Welzel, M., **Hattab, G.**, Hauschild, A. C., Heider, D. (2021). Fractal Construction of Constrained Code Words for DNA Storage Systems, *Nucleic Acids Research*, [doi.org/10.1093/nar/gkab1209](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1209/6462385).
 * **Martin, R.**, Dressler, H., **Hattab, G.**, Hackl, T., Fischer, M. G., & Heider, D. (2021). MOSGA 2: Comparative Genomics and Validation Tools, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2021.09.024](https://www.sciencedirect.com/science/article/pii/S2001037021004098).
 * **Anžel, A.**, Heider, D., **Hattab, G.** (2021). The Visual Story of Data Storage:  From Storage Properties to User Interfaces. *Computational and Structural Biotechnology Journal*. [doi.org/10.1016/j.csbj.2021.08.031](https://www.sciencedirect.com/science/article/pii/S2001037021003627).
 * **Arnold, M.**, Speidel, S., **Hattab, G.** (2021). Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. *BMC Medical Imaging, 21 (1), 1-9*. [doi.org/10.1186/s12880-021-00650-z](https://link.springer.com/article/10.1186/s12880-021-00650-z).

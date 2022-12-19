@@ -5,6 +5,77 @@ description: "The Visualization Group at the Center for Artificial Intelligence 
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 ---
 
-[![](/images/home/anzel2021.svg "Timeline of Storage Media and their Usage (Anžel et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.08.031) 
-[![](/images/home/anzel2022.svg "Metabolite and physico-chemical values over time (Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012)
+[![](/images/home/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
+[![](/images/home/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
 <br/>
+
+2022
+[![](/images/home/ezekannagha2022csbj.webp "DNA barcodes sorted using the Levenshtein distance (Ezekannagha et al., 2022)"){:class="responsive"}](TBD) 
+
+[![](/images/home/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2022)"){:class="responsive"}](TBD) 
+
+[![](/images/home/ "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method) 
+
+[![](/images/home/hattab2022ieee.webp "Linear function (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf) 
+
+[![](/images/home/sperlea2022ei.webp "Graphical representation of the model that underlies the “Mathematical Theory of Information” by C. Shannon (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.ecolind.2022.109050) 
+
+[![](/images/home/ezekannagha2022mtb.webp " The amount of data stored in synthetic DNA over time (Ezekannagha et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.mtbio.2022.100306) 
+
+[![](/images/home/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia (Kaya et al., 2022)"){:class="responsive"}](https//doi.org/10.3389/fgene.2022.891240) 
+
+[![](/images/home/anzel2022csbj.svg "Metabolite and physico-chemical values over time (Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) 
+
+[![](/images/home/sperlea2022ste.webp "The relationship between land cover and microbial community composition in European lakes (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.scitotenv.2022.153732) 
+
+
+2021
+[![](/images/home/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of the GC content (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
+
+[![](/images/home/martin2021csbj.webp "Genome-completeness of 7 yeast species and the Average Nucleotide Identity (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
+
+[![](/images/home/anzel2021csbj.svg "Timeline of Storage Media and their Usage (Anžel et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.08.031)
+
+[![](/images/home/arnold2021bmc.webp "Three-dimensional representations of a predicted boundary (Arnold et al., 2021)"){:class="responsive"}](https://doi.org/10.1186/s12880-021-00650-z) 
+
+[![](/images/home/hh2021scirep.webp "Investigating the utility of VR for spatial understanding in surgical planning (Hattab and Hatzipanayioti et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-92536-x) 
+
+[![](/images/home/spaenig2021nargb.webp "Encoding groups performance, sorted by class imbalance and encoding type (Spänig et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqab039) 
+
+[![](/images/home/sperlea2021me.webp "Multitask bioindicators for lake ecosystem variables (Sperlea et al., 2021)"){:class="responsive"}](https://doi.org/10.1111/mec.15872) 
+
+[![](/images/home/wagner2021scirep.svg "Pairwise correlation for the secondary mushroom data variables (Wagner et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-87602-3) 
+
+[![](/images/home/hattab2021plos.webp "Three example color harmonies (Hattab et al., 2021)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008901) 
+
+[![](/images/home/hufsky2021.webp "Computational strategies to combat COVID-19 (Hufsky et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/bib/bbaa232) 
+
+2020
+
+[![](/images/home/martin2020.svg "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
+
+[![](/images/home/hattab2020plos.webp "Ten simple rules to colorize biological data visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008259) 
+
+[![](/images/home/moon_detail.jpeg "Detail of the moon photomosaic (Hattab, 2020)"){:class="responsive"}](/mosaic) 
+
+[![](/images/home/martin2020.webp "The curated CORona drug InTERactions database for SARS-CoV-2 (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1016/j.isci.2020.101297) 
+
+[![](/images/home/hattab2020scirep.webp "Fitted normal stress/strain curves of experimental models (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1038/s41598-020-68886-3) 
+
+[![](/images/home/hattab2020ijcars.webp "Impact of target surface mesh size and mesh quality on volume-to-surface registration performance in hepatic soft tissue navigation (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-020-02123-0) 
+
+[![](/images/home/hattab2020kibo.webp "Diagram of the Kidney Boundary or KiBo-Net’s architecture (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-019-02102-0) 
+
+[![](/images/home/hattab2020euvis.webp "Title (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
+
+
+
+
+
+
+12/09/2019
+[![](/images/home/shapes.png "Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
+
+[![](/images/home/hallucination.jpg "Title (Hattab, 2019)"){:class="responsive"}](/physics) 
+
+[![](/images/home/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
