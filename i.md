@@ -61,7 +61,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2020ijcars.webp "Impact of target surface mesh size and mesh quality on volume-to-surface registration performance in hepatic soft tissue navigation (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-020-02123-0) 
 
-[![](/images/excerpts/hattab2020kibo.webp "Laparoscopic image examples and an illustration of their corresponding reference for the Kidney Boundary or KiBo-Net (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-019-02102-0) 
+[![](/images/excerpts/hattab2020kibo.webp "Diagram of the Kidney Boundary or KiBo-Net’s architecture (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-019-02102-0) 
 
 [![](/images/excerpts/hattab2020euvis.webp "Title (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
 
