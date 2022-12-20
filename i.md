@@ -68,8 +68,6 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 
 
-
-
 12/09/2019
 [![](/images/excerpts/shapes.png "Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
 
