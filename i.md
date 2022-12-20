@@ -19,7 +19,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2022ieee.webp "Linear function (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf) 
 
-[![](/images/excerpts/sperlea2022ei.webp "Graphical representation of the model that underlies the “Mathematical Theory of Information” by C. Shannon (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.ecolind.2022.109050) 
+[![](/images/excerpts/sperlea2022ei.webp "Graphical representation of the information transfer in bioindication in complex ecosystems (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.ecolind.2022.109050) 
 
 [![](/images/excerpts/ezekannagha2022mtb.webp " The amount of data stored in synthetic DNA over time (Ezekannagha et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.mtbio.2022.100306) 
 
@@ -67,8 +67,6 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 
 
-
-12/09/2019
 [![](/images/excerpts/shapes.png "Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
 
 [![](/images/excerpts/hallucination.jpg "Title (Hattab, 2019)"){:class="responsive"}](/physics) 
