@@ -37,7 +37,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/arnold2021bmc.webp "Three-dimensional representations of a predicted boundary (Arnold et al., 2021)"){:class="responsive"}](https://doi.org/10.1186/s12880-021-00650-z) 
 
-[![](/images/excerpts/hh2021scirep.webp "Investigating the utility of VR for spatial understanding in surgical planning (Hattab and Hatzipanayioti et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-92536-x) 
+[![](/images/excerpts/hh2021scirep.webp "Investigating the utility of Virtual Reality for spatial understanding in surgical planning (Hattab and Hatzipanayioti et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-92536-x) 
 
 [![](/images/excerpts/spaenig2021nargb.webp "Encoding groups performance, sorted by class imbalance and encoding type (Spänig et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqab039) 
 
@@ -63,12 +63,12 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2020kibo.webp "Diagram of the Kidney Boundary or KiBo-Net’s architecture (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-019-02102-0) 
 
-[![](/images/excerpts/hattab2020euvis.webp "Title (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
+[![](/images/excerpts/hattab2020euvis.webp "A modular and evaLuative framework to improve surgical Augmented Reality visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
 
 
 
-[![](/images/excerpts/shapes.png "Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
+[![](/images/excerpts/shapes.png "Figures created by Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
 
-[![](/images/excerpts/hallucination.jpg "Title (Hattab, 2019)"){:class="responsive"}](/physics) 
+[![](/images/excerpts/hallucination.jpg "The Banana Physics card game (Hattab, 2019)"){:class="responsive"}](/physics) 
 
 [![](/images/excerpts/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
