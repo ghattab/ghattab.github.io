@@ -9,7 +9,8 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 [![](/images/excerpts/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
 <br/>
 
-2022
+
+
 [![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted using the Levenshtein distance (Ezekannagha et al., 2022)"){:class="responsive"}](TBD) 
 
 [![](/images/excerpts/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2022)"){:class="responsive"}](TBD) 
