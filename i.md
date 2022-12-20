@@ -14,7 +14,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/home/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2022)"){:class="responsive"}](TBD) 
 
-[![](/images/home/ "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method) 
+[![](/images/home/marey2022.webp "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method) 
 
 [![](/images/home/hattab2022ieee.webp "Linear function (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf) 
 
@@ -28,8 +28,6 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/home/sperlea2022ste.webp "The relationship between land cover and microbial community composition in European lakes (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.scitotenv.2022.153732) 
 
-
-2021
 [![](/images/home/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of the GC content (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
 
 [![](/images/home/martin2021csbj.webp "Genome-completeness of 7 yeast species and the Average Nucleotide Identity (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
@@ -49,8 +47,6 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 [![](/images/home/hattab2021plos.webp "Three example color harmonies (Hattab et al., 2021)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008901) 
 
 [![](/images/home/hufsky2021.webp "Computational strategies to combat COVID-19 (Hufsky et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/bib/bbaa232) 
-
-2020
 
 [![](/images/home/martin2020.svg "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
 

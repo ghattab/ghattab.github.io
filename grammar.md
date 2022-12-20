@@ -133,7 +133,6 @@ For each triangle, 3 triangles — that are half the size — are created at eac
 
 ## Shapes
 
-
 From the ancient Egyptians' fixed rules of a canon, a measurement that is based on the square, to the proportions of the gothic style, to the halos depicted around Catholic saints, to circles for Muslim talismans, to triangles in the star of David, to the Shinto principles of 'Sanmi-sangen', these shapes cross religious and spiritual lines. Acknowledging the three most basic and commonly used shapes is key to understanding both ancient and modern art: the square, the circle, and the triangle.
 
 <br/>
@@ -143,7 +142,7 @@ From the ring, to the _quadra_, to the three angles shape, intricate patterns ca
 
 ![](/images/home/shapes.png){: .center-image }
 
-
+<br/>
 
 For complete documentation, the official wiki details shape adjustements, shape replacements, shape rules, expressions, and control structures (4).
 
