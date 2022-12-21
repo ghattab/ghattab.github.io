@@ -31,9 +31,9 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of the GC content (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
 
-[![](/images/excerpts/martin2021csbj.webp "Genome-completeness of 7 yeast species and the Average Nucleotide Identity (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
+[![](/images/excerpts/martin2021csbj.webp "Comparative genomics for 7 yeast species and the Average Nucleotide Identity (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
 
-[![](/images/excerpts/anzel2021csbj.svg "Timeline of Storage Media and their Usage (Anžel et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.08.031)
+[![](/images/excerpts/anzel2021csbj.svg "Timeline of storage media and their usage (Anžel et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.08.031)
 
 [![](/images/excerpts/arnold2021bmc.webp "Three-dimensional representations of a predicted boundary (Arnold et al., 2021)"){:class="responsive"}](https://doi.org/10.1186/s12880-021-00650-z) 
 
@@ -55,7 +55,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/moon_detail.webp "Detail of the moon photomosaic (Hattab, 2020)"){:class="responsive"}](/mosaic) 
 
-[![](/images/excerpts/martin2020.webp "The curated CORona drug InTERactions database for SARS-CoV-2 (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1016/j.isci.2020.101297) 
+[![](/images/excerpts/martin2020.webp "The curated corona drug interactions database for SARS-CoV-2 (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1016/j.isci.2020.101297) 
 
 [![](/images/excerpts/hattab2020scirep.webp "Fitted normal stress/strain curves of experimental models (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1038/s41598-020-68886-3) 
 
@@ -63,11 +63,10 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2020kibo.webp "Diagram of the Kidney Boundary or KiBo-Net’s architecture (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1007/s11548-019-02102-0) 
 
-[![](/images/excerpts/hattab2020euvis.webp "A modular and evaLuative framework to improve surgical Augmented Reality visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
+[![](/images/excerpts/hattab2020euvis.webp "A modular and evaluative framework to improve surgical Augmented Reality visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
 
 
-
-[![](/images/excerpts/shapes.png "Figures created by Shape Grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
+[![](/images/excerpts/shapes.png "Figures created by shape grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
 
 [![](/images/excerpts/hallucination.jpg "The Banana Physics card game (Hattab, 2019)"){:class="responsive"}](/physics) 
 
