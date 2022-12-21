@@ -10,7 +10,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 <br/>
 
 [![](/images/excerpts/marey2022.webp "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method) 
-[![](/images/excerpts/hattab2022ieee.webp "Linear function (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf) 
+[![](/images/excerpts/hattab2022ieee.webp "Linear function from the ten challenges and explainable analogs for statistical literacy and fluency (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf) 
 <br/>
 
 [![](/images/excerpts/sperlea2022ei.webp "Graphical representation of the information transfer in bioindication in complex ecosystems (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.ecolind.2022.109050) 
