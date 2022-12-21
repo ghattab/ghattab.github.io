@@ -77,6 +77,4 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2015scirep.webp "Distribution of secondary structures in membrane protein structures within the T7 expression system (Hattab et al., 2015)"){:class="responsive"}](https://doi.org/10.1038/srep12097) 
 
-[![](/images/excerpts/hattab2014.webp "Membrane Protein Production in Escherichia coli: Overview and Protocols (Hattab et al., 2014)"){:class="responsive"}](https://doi.org/10.1007/978-1-4939-0662-8_4
-) 
-
+[![](/images/excerpts/hattab2014.webp "Membrane Protein Production in Escherichia coli: Overview and Protocols (Hattab et al., 2014)"){:class="responsive"}](https://doi.org/10.1007/978-1-4939-0662-8_4) 
