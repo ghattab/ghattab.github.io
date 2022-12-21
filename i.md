@@ -65,9 +65,18 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 
 [![](/images/excerpts/hattab2020euvis.webp "A modular and evaluative framework to improve surgical Augmented Reality visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
 
-
 [![](/images/excerpts/shapes.png "Figures created by shape grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
+
+[![](/images/excerpts/hattab2019.webp "Views of the three-dimensional space cube with different color mappings (Hattab and Nattkemper, 2019)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/bty889) 
 
 [![](/images/excerpts/hallucination.jpg "The Banana Physics card game (Hattab, 2019)"){:class="responsive"}](/physics) 
 
-[![](/images/excerpts/ "Title (Author et al., YYYY)"){:class="responsive"}](link) 
+[![](/images/excerpts/hattab2018.webp "A graphical description illustrating the patch lineage construction algorithm (Hattab et al., 2018)"){:class="responsive"}](https://doi.org/10.3389/fbioe.2018.00017) 
+
+[![](/images/excerpts/hattab2016.webp "A mnemonic card game for your amino acids (Hattab et al., 2016)"){:class="responsive"}](https://github.com/ghattab/amino-acids-card-game) 
+
+[![](/images/excerpts/hattab2015scirep.webp "Distribution of secondary structures in membrane protein structures within the T7 expression system (Hattab et al., 2015)"){:class="responsive"}](https://doi.org/10.1038/srep12097) 
+
+[![](/images/excerpts/hattab2014.webp "Membrane Protein Production in Escherichia coli: Overview and Protocols (Hattab et al., 2014)"){:class="responsive"}](https://doi.org/10.1007/978-1-4939-0662-8_4
+) 
+
