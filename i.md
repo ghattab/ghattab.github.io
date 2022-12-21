@@ -5,8 +5,8 @@ description: "The Visualization Group at the Center for Artificial Intelligence 
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 ---
 
-[![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted by the Levenshtein distance (Ezekannagha et al., 2022)"){:class="responsive"}](TBD) 
-[![](/images/excerpts/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2022)"){:class="responsive"}](TBD) 
+[![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted by the Levenshtein distance shown in DNAsmart (Ezekannagha et al., 2022)"){:class="responsive"}](https://dnasmart.mathematik.uni-marburg.de) 
+[![](/images/excerpts/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2022)"){:class="responsive"}](http://github.com/ghattab/CMANGOES) 
 <br/>
 
 [![](/images/excerpts/marey2022.webp "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method) 
@@ -17,32 +17,32 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 [![](/images/excerpts/ezekannagha2022mtb.webp " The amount of data stored in synthetic DNA over time (Ezekannagha et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.mtbio.2022.100306) 
 <br/>
 
-[![](/images/excerpts/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia (Kaya et al., 2022)"){:class="responsive"}](https//doi.org/10.3389/fgene.2022.891240) 
-[![](/images/excerpts/anzel2022csbj.svg "Metabolite and physico-chemical values over time (Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) 
+[![](/images/excerpts/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia shown in CAPT (Kaya et al., 2022)"){:class="responsive"}](https//doi.org/10.3389/fgene.2022.891240) 
+[![](/images/excerpts/anzel2022csbj.svg "Metabolite and physico-chemical values over time shown in MOVIS(Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) 
 <br/>
 
 [![](/images/excerpts/sperlea2022ste.webp "The relationship between land cover and microbial community composition in European lakes (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.scitotenv.2022.153732) 
 [![](/images/excerpts/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of the GC content (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
 <br/>
 
-[![](/images/excerpts/martin2021csbj.webp "Comparative genomics for 7 yeast species and the Average Nucleotide Identity (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
+[![](/images/excerpts/martin2021csbj.webp "Comparative genomics for 7 yeast species and the Average Nucleotide Identity showin in MOSGA (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
 [![](/images/excerpts/anzel2021csbj.svg "Timeline of storage media and their usage (Anžel et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.08.031)
 <br/>
 
-[![](/images/excerpts/arnold2021bmc.webp "Three-dimensional representations of a predicted boundary (Arnold et al., 2021)"){:class="responsive"}](https://doi.org/10.1186/s12880-021-00650-z) 
+[![](/images/excerpts/arnold2021bmc.webp "Example illustration of an edge detection using a novel skeletonize algorithm (Arnold et al., 2021)"){:class="responsive"}](https://doi.org/10.1186/s12880-021-00650-z) 
 [![](/images/excerpts/hh2021scirep.webp "Investigating the utility of Virtual Reality for spatial understanding in surgical planning (Hattab and Hatzipanayioti et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-92536-x) 
 <br/>
 
-[![](/images/excerpts/spaenig2021nargb.webp "Encoding groups performance, sorted by class imbalance and encoding type (Spänig et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqab039) 
-[![](/images/excerpts/sperlea2021me.webp "Multitask bioindicators for lake ecosystem variables (Sperlea et al., 2021)"){:class="responsive"}](https://doi.org/10.1111/mec.15872) 
+[![](/images/excerpts/spaenig2021nargb.webp "Encoding groups performance, sorted by class imbalance and encoding type shown in PeptideReactor (Spänig et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqab039) 
+[![](/images/excerpts/sperlea2021me.webp "Multitask bioindicators for lake ecosystem variables (Sperlea et al., 2021)"){:class="responsive"}](https://doi.org/10.1111/mec.15872)
 <br/>
 
-[![](/images/excerpts/wagner2021scirep.svg "Pairwise correlation for the secondary mushroom data variables (Wagner et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-87602-3) 
+[![](/images/excerpts/wagner2021scirep.webp "Pairwise correlation for the secondary mushroom data variables (Wagner et al., 2021)"){:class="responsive"}](https://doi.org/10.1038/s41598-021-87602-3) 
 [![](/images/excerpts/hattab2021plos.webp "Three example color harmonies (Hattab et al., 2021)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008901) 
 <br/>
 
 [![](/images/excerpts/hufsky2021.webp "Computational strategies to combat COVID-19 (Hufsky et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/bib/bbaa232) 
-[![](/images/excerpts/martin2020.svg "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
+[![](/images/excerpts/martin2020.webp "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
 <br/>
 
 [![](/images/excerpts/hattab2020plos.webp "Ten simple rules to colorize biological data visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008259) 
