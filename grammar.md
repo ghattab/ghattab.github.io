@@ -140,7 +140,7 @@ In the early 1960s Italian designer Bruno Munari published his visual case studi
 From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. Below, I rediscover them in a more organic manner using shape grammars.
 <br/>
 
-![](/images/excerpt/shapes.png){: .center-image }
+![](/images/excerpts/shapes.png){: .center-image }
 
 <br/>
 
