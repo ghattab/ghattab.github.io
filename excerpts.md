@@ -22,7 +22,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 <br/>
 
 [![](/images/excerpts/sperlea2022ste.webp "The relationship between land cover and microbial community composition in European lakes (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.scitotenv.2022.153732) 
-[![](/images/excerpts/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of the GC content (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
+[![](/images/excerpts/loechel2021nar.webp "Matrix Chaos Game Representation (mCGR) of code words with different constraints (Löchel et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/nar/gkab1209) 
 <br/>
 
 [![](/images/excerpts/martin2021csbj.webp "Comparative genomics for 7 yeast species and the Average Nucleotide Identity showin in MOSGA (Martin et al., 2021)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2021.09.024) 
