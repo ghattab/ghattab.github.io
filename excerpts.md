@@ -42,14 +42,14 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 <br/>
 
 [![](/images/excerpts/hufsky2021.webp "Computational strategies to combat COVID-19 (Hufsky et al., 2021)"){:class="responsive"}](https://doi.org/10.1093/bib/bbaa232) 
-[![](/images/excerpts/martin2020.webp "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
+[![](/images/excerpts/martin2021.webp "Modular Open-Source Genome Annotator (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/btaa1003) 
 <br/>
 
 [![](/images/excerpts/hattab2020plos.webp "Ten simple rules to colorize biological data visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1371/journal.pcbi.1008259) 
 [![](/images/excerpts/moon_detail.webp "Detail of the moon photomosaic (Hattab, 2020)"){:class="responsive"}](/mosaic) 
 <br/>
 
-[![](/images/excerpts/martin2020.webp "The curated corona drug interactions database for SARS-CoV-2 (Martin et al., 2020)"){:class="responsive"}](https://doi.org/10.1016/j.isci.2020.101297) 
+[![](/images/excerpts/martin2020.webp "Overview of the replication cycle of SARS-CoV2 inside a human cell shown in CORDITE (Martin and Loechel et al., 2020)"){:class="responsive"}](https://doi.org/10.1016/j.isci.2020.101297) 
 [![](/images/excerpts/hattab2020scirep.webp "Fitted normal stress/strain curves of experimental models (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.1038/s41598-020-68886-3) 
 <br/>
 
