@@ -58,7 +58,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 <br/>
 
 [![](/images/excerpts/hattab2020euvis.webp "A modular and evaluative framework to improve surgical Augmented Reality visualization (Hattab et al., 2020)"){:class="responsive"}](https://doi.org/10.2312/evs.20201066) 
-[![](/images/excerpts/shapes.png "Figures created by shape grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
+[![](/images/excerpts/shapes.webp "Figures created by shape grammars (Hattab, 2019)"){:class="responsive"}](/grammar) 
 <br/>
 
 [![](/images/excerpts/hattab2019.webp "Views of the three-dimensional space cube with different color mappings (Hattab and Nattkemper, 2019)"){:class="responsive"}](https://doi.org/10.1093/bioinformatics/bty889) 
