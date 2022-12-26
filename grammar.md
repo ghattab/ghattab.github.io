@@ -24,7 +24,7 @@ TRIANGLE {}
 		<div>The triangle command can be exchanged by a circle or square.</div>
 </div>
 
-![](/images/grammar/fig1.png){: .center-image }
+![](/images/grammar/fig1.webp){: .center-image }
 
 <div style="display: inline-block;">
 Shapes can be adjusted. There exists three types of shape adjustments: geometry, color, time.
@@ -53,7 +53,7 @@ Here the program draws an increasingly small triangle (size is multiplied by 0.7
     </div>
 </div>
 
-![](/images/grammar/fig2.png){: .center-image } ![](/images/grammar/fig3.png){: .center-image }
+![](/images/grammar/fig2.webp){: .center-image } ![](/images/grammar/fig3.webp){: .center-image }
 
 The second grammar is recursive and employs a new adjustment of size or s. The program stops once the triangle size can no longer be represented on the image space.
 
@@ -77,7 +77,7 @@ rule cc {
     </div>
 </div>
 
-![](/images/grammar/fig4.png){: .center-image }
+![](/images/grammar/fig4.webp){: .center-image }
 
 ## Time
 CF is powerful enough to render an animation or a set of frames. Each shape has a start time, when it starts to be drawn, and an end time, when it’s drawn. This defines a 1D affine transform with a pair that share the same scale element. The adjustments are time and timescale.
@@ -129,7 +129,7 @@ For each triangle, 3 triangles — that are half the size — are created at eac
     </div>
 </div>
 
-![](/images/grammar/fig6.png){: .center-image }
+![](/images/grammar/fig6.webp){: .center-image }
 
 ## Shapes
 
@@ -140,7 +140,7 @@ In the early 1960s Italian designer Bruno Munari published his visual case studi
 From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. Below, I rediscover them in a more organic manner using shape grammars.
 
 <br/>
-![](/images/excerpts/shapes.png){: .center-image }
+![](/images/excerpts/shapes.webp){: .center-image }
 
 <br/>
 
