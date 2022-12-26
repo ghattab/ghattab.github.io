@@ -100,7 +100,7 @@ shape draw
     </div>
 </div>
 
-![](/images/fig5.gif){: .center-image }
+![](/images/grammar/fig5.gif){: .center-image }
 
 By default, CF accumulates the existing time for all of the primitive shapes and divides this time span evenly for each animation frame. In this case the timescale adjustment creates 11 steps given the time adjustment from 0 (inclusive) to 1. To generate the animation:
 ```
@@ -138,8 +138,8 @@ From the ancient Egyptians' fixed rules of a canon, a measurement that is based 
 <br/>
 In the early 1960s Italian designer Bruno Munari published his visual case studies on these fundamental forms.
 From the ring, to the _quadra_, to the three angles shape, intricate patterns can be created. Below, I rediscover them in a more organic manner using shape grammars.
-<br/>
 
+<br/>
 ![](/images/excerpts/shapes.png){: .center-image }
 
 <br/>
