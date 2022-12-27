@@ -6,7 +6,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 modified: 12-12-2022
 comments: false
 ---
-![](/images/header.png)
+![](/images/header.webp)
 <br/>
 <br/>
 
