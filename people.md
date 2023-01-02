@@ -12,7 +12,6 @@ comments: false
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
 Ihsan Tri Heldian  | Student Assistant
-Christopher Hardt  | Research Assistant
 Moritz Weckbecker  | Research Assistant
 Ebenezer Oladijemi Awotoro  | Research Assistant
 Florian Schwarz  | MSc
