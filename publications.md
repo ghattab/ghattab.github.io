@@ -6,10 +6,11 @@ tags: [research,publications,scholar,APA]
 modified: 21-11-2022
 comments: false
 ---
+### 2023
+* **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, Computational and Structural Biotechnology, (in review).
+* **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (accepted in 2022).
 
 ### 2022
-* **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2022). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, GigaScience, (under review).
-* **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2022). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, (accepted).
 * Marey, É. J. (2022). The Graphic Method, La Méthode Graphique, Information Graphic Visionaries, Translated and edited by **Hattab, G.** Co-edited by Andrews, R. J., Visionary Press. [979-8-9861945-2-3](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method).
 * **Hattab, G.**, (2022). Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency, *IEEE Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good57762.2022.00006](https://ghattab.github.io/documents/hattab2022i.pdf), ([Suppl.](https://ghattab.github.io/documents/hattab2022is.pdf)).
 * **Sperlea, T.**, Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, *Ecological Indicators*, [doi.org/10.1016/j.ecolind.2022.109050](https://www.sciencedirect.com/science/article/pii/S1470160X22005210).
