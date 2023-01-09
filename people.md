@@ -13,7 +13,7 @@ comments: false
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
 Ihsan Tri Heldian  | Student Assistant
 Moritz Weckbecker  | Research Assistant
-Ebenezer Oladijemi Awotoro  | Research Assistant
+Ebenezer Oladimeji Awotoro  | Research Assistant
 Florian Schwarz  | MSc
 Minh Nguyen  | MSc
 Bianca Thiel  | MSc
