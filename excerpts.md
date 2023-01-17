@@ -18,7 +18,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 <br/>
 
 [![](/images/excerpts/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia shown in CAPT (Kaya et al., 2022)"){:class="responsive"}](https//doi.org/10.3389/fgene.2022.891240) 
-[![](/images/excerpts/anzel2022csbj.svg "Metabolite and physico-chemical values over time shown in MOVIS(Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) 
+[![](/images/excerpts/anzel2022csbj.svg "Metabolite and physico-chemical values over time shown in MOVIS (Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012) 
 <br/>
 
 [![](/images/excerpts/sperlea2022ste.webp "The relationship between land cover and microbial community composition in European lakes (Sperlea et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.scitotenv.2022.153732) 
