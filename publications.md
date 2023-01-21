@@ -8,7 +8,7 @@ comments: false
 ---
 ### 2023
 * **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, Computational and Structural Biotechnology, (in review).
-* **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach to molecular encodings of carbon-based multilevel atomic neighborhoods, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqac103](https://academic.oup.com/nargab/article/5/1/lqac103/6980839).
+* **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqac103](https://academic.oup.com/nargab/article/5/1/lqac103/6980839).
 
 ### 2022
 * Marey, É. J. (2022). The Graphic Method, La Méthode Graphique, Information Graphic Visionaries, Translated and edited by **Hattab, G.** Co-edited by Andrews, R. J., Visionary Press. [979-8-9861945-2-3](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method).
