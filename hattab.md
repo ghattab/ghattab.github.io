@@ -7,7 +7,7 @@ modified: 12-12-2022
 comments: false
 ---
 
-Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently affiliated with the [Philipps-Universität Marburg](https://www.uni-marburg.de/en), where he supervises two doctoral students. ![](/images/profiles/hattab.png){:class="profile"}
+Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently affiliated with the [Philipps-Universität Marburg](https://www.uni-marburg.de/en) and the [Freie Universität Berlin](https://www.fu-berlin.de/en/). ![](/images/profiles/hattab.png){:class="profile"}
 
 <br/>
 He studied Computer Science, i.e., Bioinformatics, and completed his bachelor's and master's degrees at Paris Diderot University, part of [Université de Paris](https://u-paris.fr/en/), France.
@@ -15,7 +15,7 @@ He subsequently started his PhD studies at the Faculty of Technology of the [Bie
 He obtained his Ph.D. _rerum naturalium_ in 2018. 
 Until 2019, he worked as a postdoctoral researcher in the field of computational medicine, particularly surgical translational research.
 His work took place at the National Center for Tumor Diseases, [NCT](https://www.nct-dresden.de/en.html) in Dresden and in collaboration with the German Cancer Research Center, [DKFZ](https://www.dkfz.de/en/index.html) in Heidelberg, Germany.
-Afterwards, he led the junior group of Analytics and Visualization at the [Philipps-Universität Marburg](https://www.uni-marburg.de/en) and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146); where he finished his habilitation thesis in 2021 and obtained the _Venia Legendi_ in 2022 to become an Adjunct Professor ([Privatdozent](https://en.wikipedia.org/wiki/Privatdozent)). 
+Afterwards, he led the junior group of Analytics and Visualization at the [Philipps-Universität Marburg](https://www.uni-marburg.de/en) and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146); where he finished his habilitation thesis in 2021 and obtained the _Venia Legendi_ in 2022. Since 2023, he is an Adjunct Professor ([Privatdozent](https://en.wikipedia.org/wiki/Privatdozent)) at the [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 
 <br/>
 Georges Hattab views research as a systematic investigation into and a study of scientific problems to establish facts or theories to challenge or extend existing knowledge. His desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
