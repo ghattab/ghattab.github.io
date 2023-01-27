@@ -18,7 +18,7 @@ His work took place at the National Center for Tumor Diseases, [NCT](https://www
 Afterwards, he led the junior group of Analytics and Visualization at the [Philipps-Universität Marburg](https://www.uni-marburg.de/en) and headed the Bioinformatics division with the mentorship of [Prof. Dominik Heider](http://heiderlab.de/?page_id=146); where he finished his habilitation thesis in 2021 and obtained the _Venia Legendi_ in 2022. Since 2023, he is an Adjunct Professor ([Privatdozent](https://en.wikipedia.org/wiki/Privatdozent)) at the [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 
 <br/>
-Georges Hattab views research as a systematic investigation into and a study of scientific problems to establish facts or theories to challenge or extend existing knowledge. His desire is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
+Georges Hattab views research as a systematic investigation into and a study of scientific problems to establish facts or theories to challenge or extend existing knowledge. His motivation is to facilitate interdisciplinary research, and teach aspects of the scientific method to reach successive approximations of reality.
 
 <br/>
 Georges Hattab, [_curriculum vitae_](/documents/ghattab_cv.pdf).
