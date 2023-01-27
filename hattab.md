@@ -11,7 +11,7 @@ Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Ar
 
 <br/>
 He studied Computer Science, i.e., Bioinformatics, and completed his bachelor's and master's degrees at Paris Diderot University, part of [Université de Paris](https://u-paris.fr/en/), France.
-He subsequently started his PhD studies at the Faculty of Technology of the [Bielefeld University](https://www.uni-bielefeld.de/(en)/). He was supervised by [Prof. Tim W. Nattkemper](https://biodatamining.cebitec.uni-bielefeld.de/people.html#leader) and [Prof. Tamara Munzner](http://www.cs.ubc.ca/~tmm/), and advised by [Prof. Martin Ester](https://sites.google.com/view/esterlab) as part of the German-Canadian DFG International Research Training Group GRK 1906. 
+He subsequently started his PhD studies at the Faculty of Technology of the [Bielefeld University](https://www.uni-bielefeld.de/(en)/), Germany. He was supervised by [Prof. Tim W. Nattkemper](https://biodatamining.cebitec.uni-bielefeld.de/people.html#leader) and [Prof. Tamara Munzner](http://www.cs.ubc.ca/~tmm/), and advised by [Prof. Martin Ester](https://sites.google.com/view/esterlab) as part of the German-Canadian DFG International Research Training Group GRK 1906. 
 He obtained his Ph.D. _rerum naturalium_ in 2018. 
 Until 2019, he worked as a postdoctoral researcher in the field of computational medicine, particularly surgical translational research.
 His work took place at the National Center for Tumor Diseases, [NCT](https://www.nct-dresden.de/en.html) in Dresden and in collaboration with the German Cancer Research Center, [DKFZ](https://www.dkfz.de/en/index.html) in Heidelberg, Germany.
