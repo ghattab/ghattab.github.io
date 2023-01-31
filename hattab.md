@@ -7,7 +7,7 @@ modified: 12-12-2022
 comments: false
 ---
 
-Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently an Adjunct Professor (Privatdozent) at the [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
+Dr. habil. Georges Hattab is the Visualization Group Leader at the Center for Artificial Intelligence in Public Health Research at the [Robert Koch Institute](https://www.rki.de/EN/) since 2022. He is currently an Adjunct Professor (Privatdozent) at the Department of Mathematics and Computer Science of the [Freie Universität Berlin](https://www.fu-berlin.de/en/). 
 ![](/images/profiles/hattab.png){:class="profile"}
 
 <br/>
