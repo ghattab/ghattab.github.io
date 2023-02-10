@@ -17,6 +17,7 @@ Ebenezer Oladimeji Awotoro  | Research Assistant
 Florian Schwarz  | MSc
 Minh Nguyen  | MSc
 Bianca Thiel  | MSc
+Chu Xiao  | BSc
 Dilekcan Pamir  | BSc
 {: .display}
 <br/>
@@ -26,7 +27,7 @@ Dilekcan Pamir  | BSc
 <br/>
 **2022**
 <br/>
-Theodor Sperlea, Roman Martin, Chu Xiao, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang.
+Theodor Sperlea, Roman Martin, Yanhan Lin, Solida Neziri, Fabio Rougier, David Sonnabend, Khawla Elhadri, Samuel Becker, Felix Klein, Raffael Schön, Leon Wimbes, Luca Staus, Liu Chang.
 <br/>
 <br/>
 **2021**
