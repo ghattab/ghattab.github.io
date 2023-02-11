@@ -5,7 +5,7 @@ description: "The Visualization Group at the Center for Artificial Intelligence 
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 ---
 
-[![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted by the Levenshtein distance shown in DNAsmart (Ezekannagha et al., 2023)"){:class="responsive"}](https://dnasmart.mathematik.uni-marburg.de)
+[![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted by the Levenshtein distance shown in DNAsmart (Ezekannagha et al., 2023)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2023.02.016)
 [![](/images/excerpts/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2023)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqac103)
 <br/>
 
