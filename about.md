@@ -6,9 +6,6 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 modified: 12-12-2022
 comments: false
 ---
-![](/images/header.webp){:height="164px" width="500px"}
-<br/>
-<br/>
 
 The Visualization Group at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, at the [Robert Koch Institute](https://www.rki.de/EN/), is led by [Dr. habil. Georges Hattab](/hattab).
 

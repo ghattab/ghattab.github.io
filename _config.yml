@@ -1,10 +1,9 @@
 title: Visualization Group
 description:
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //ghattab.github.io
+url:              //
 #http://localhost:5000
 #https://www.ghattab.github.io
-#disqus_shortname:
 
 # Owner/author information
 owner:
