@@ -8,7 +8,7 @@ comments: false
 ---
 
 **Name**    | **Role**
-[Dr. habil. Georges Hattab](/hattab)  | PI
+[Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
 Ihsan Tri Heldian  | Student Assistant
