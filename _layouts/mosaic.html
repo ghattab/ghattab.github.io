@@ -38,7 +38,7 @@
     <h1>{{ page.title }}</h1>
     <div align="justify" class="article-wrap">
       {{ content }}
-      {% include _image-gallery-mosaic.html folder="/images/mosaic" %}
+      {% include _image-gallery.html folder="/images/mosaic" %}
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
