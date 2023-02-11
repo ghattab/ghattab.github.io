@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home
 title:
 description: "Visualization Group"
 tags: [data, mining, information, encoding, decoding, visualization, algorithm, research, meaning, design]
