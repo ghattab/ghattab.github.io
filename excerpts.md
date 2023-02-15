@@ -17,7 +17,7 @@ tags: [about, group, visualization, artificial intelligence, ai, machine learnin
 [![](/images/excerpts/ezekannagha2022mtb.webp " The amount of data stored in synthetic DNA over time (Ezekannagha et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.mtbio.2022.100306)
 <br/>
 
-[![](/images/excerpts/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia shown in CAPT (Kaya et al., 2022)"){:class="responsive"}](https//doi.org/10.3389/fgene.2022.891240)
+[![](/images/excerpts/kaya2022fg.webp "Taxonomic icicle view of a selection from the tree class Methanomicrobia shown in CAPT (Kaya et al., 2022)"){:class="responsive"}](https://doi.org/10.3389/fgene.2022.891240)
 [![](/images/excerpts/anzel2022csbj.svg "Metabolite and physico-chemical values over time shown in MOVIS (Anžel et al., 2022)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2022.02.012)
 <br/>
 
