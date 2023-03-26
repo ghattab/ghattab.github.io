@@ -11,11 +11,9 @@ comments: false
 [Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
-Ihsan Tri Heldian  | Student Assistant
 Moritz Weckbecker  | Research Assistant
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Florian Schwarz  | MSc
-Minh Nguyen  | MSc
 Bianca Thiel  | MSc
 Chu Xiao  | BSc
 Dilekcan Pamir  | BSc
@@ -24,6 +22,10 @@ Dilekcan Pamir  | BSc
 <br/>
 
 **Alumni**
+<br/>
+**2023**
+Ihsan Tri Heldian, Minh Nguyen.
+<br/>
 <br/>
 **2022**
 <br/>
