@@ -9,14 +9,17 @@ comments: false
 
 **Name**    | **Role**
 [Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
-[Aleksandar Anžel](https://aanzel.github.io)  | PhD student
-[Chisom Ezekannagha](https://sombiri.github.io)  | PhD student
+İlgen Bahar  | Postdoc Researcher
+[Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
+[Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
+Akshat Dubey  | PhD Student
+Andre J. Wijaya  | PhD Student
 Moritz Weckbecker  | Research Assistant
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Florian Schwarz  | MSc
 Bianca Thiel  | MSc
 Chu Xiao  | BSc
-Dilekcan Pamir  | BSc
+Dilekcan Pamir  | Research Project
 {: .display}
 <br/>
 <br/>
