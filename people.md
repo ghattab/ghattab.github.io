@@ -12,8 +12,8 @@ comments: false
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoc Researcher
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
-[Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
+[Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 Moritz Weckbecker  | Research Assistant
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Florian Schwarz  | MSc
