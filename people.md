@@ -9,10 +9,10 @@ comments: false
 
 **Name**    | **Role**
 [Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
-İlgen Bahar  | Postdoc Researcher
+[Dr Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoc Researcher
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
-Akshat Dubey  | PhD Student
+[Akshat Dubey](https://www.kaggle.com/akshat0007)  | PhD Student
 Andre J. Wijaya  | PhD Student
 Moritz Weckbecker  | Research Assistant
 Ebenezer Oladimeji Awotoro  | Research Assistant
