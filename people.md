@@ -14,8 +14,8 @@ comments: false
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
-Moritz Weckbecker  | Research Assistant
 Ebenezer Oladimeji Awotoro  | Research Assistant
+Moritz Weckbecker  | Research Assistant
 Florian Schwarz  | MSc
 Bianca Thiel  | MSc
 Chu Xiao  | BSc
