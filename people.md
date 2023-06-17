@@ -12,6 +12,7 @@ comments: false
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
+[Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Moritz Weckbecker  | Research Assistant
 Dilekcan Pamir  | Research Project
