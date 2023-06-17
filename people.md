@@ -10,16 +10,17 @@ comments: false
 **Name**    | **Role**
 [Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoctoral Researcher
+[Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 [Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Moritz Weckbecker  | Research Assistant
+Dilekcan Pamir  | Research Project
 Florian Schwarz  | MSc
 Bianca Thiel  | MSc
 Chu Xiao  | BSc
-Dilekcan Pamir  | Research Project
 {: .display}
 <br/>
 <br/>
