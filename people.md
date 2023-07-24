@@ -17,7 +17,7 @@ comments: false
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Moritz Weckbecker  | Research Assistant
 Dilekcan Pamir  | Research Project
-Florian Schwarz  | MSc
+Florian Suhre  | MSc
 Bianca Thiel  | MSc
 Chu Xiao  | BSc
 {: .display}
@@ -28,7 +28,7 @@ Chu Xiao  | BSc
 <br/>
 **2023**
 <br/>
-Ihsan Tri Heldian, Minh Nguyen.
+Ihsan Tri Heldian, Minh Nguyen, Florian Schwarz.
 <br/>
 <br/>
 **2022**
