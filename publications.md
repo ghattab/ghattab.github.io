@@ -7,13 +7,13 @@ modified: 21-11-2022
 comments: false
 ---
 ### 2023
-* Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌IEEE Industrial Electronics Society*, [(IECON 2023)](https://arxiv.org/abs/2307.13945).
+* Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌The 49th Annual Conference of the IEEE Industrial Electronics Society (IECON)*, [(accepted)](https://arxiv.org/abs/2307.13945).
 * **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624).
 * **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqac103](https://academic.oup.com/nargab/article/5/1/lqac103/6980839).
 
 ### 2022
 * Marey, É. J. (2022). The Graphic Method, La Méthode Graphique, Information Graphic Visionaries, Translated and edited by **Hattab, G.** Co-edited by Andrews, R. J., Visionary Press. [979-8-9861945-2-3](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method).
-* **Hattab, G.**, (2022). Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency, *IEEE Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good57762.2022.00006](https://ghattab.github.io/documents/hattab2022i.pdf), ([Suppl.](https://ghattab.github.io/documents/hattab2022is.pdf)).
+* **Hattab, G.**, (2022). Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good57762.2022.00006](https://ghattab.github.io/documents/hattab2022i.pdf), ([Suppl.](https://ghattab.github.io/documents/hattab2022is.pdf)).
 * **Sperlea, T.**, Heider, D., **Hattab, G.** (2022). A Theoretical Basis for Bioindication in Complex Ecosystems, *Ecological Indicators*, [doi.org/10.1016/j.ecolind.2022.109050](https://www.sciencedirect.com/science/article/pii/S1470160X22005210).
 * **Ezekannagha, C.**, Becker, A., Heider, D., **Hattab, G.** (2022). Design considerations for advancing data storage with synthetic DNA for long-term archiving, *Materials Today Bio*, [doi.org/10.1016/j.mtbio.2022.100306](https://www.sciencedirect.com/science/article/pii/S2590006422001041).
 * **Kaya, G.**, **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2022). Context-Aware Phylogenetic Trees for Phylogeny-based Visualization, *Frontiers in Genetics*, [doi.org/10.3389/fgene.2022.891240](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240).
