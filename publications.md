@@ -7,7 +7,8 @@ modified: 21-11-2022
 comments: false
 ---
 ### 2023
-* **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624)..
+* Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌IEEE Industrial Electronics Society*, [(IECON 2023)](https://arxiv.org/abs/2307.13945).
+* **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624).
 * **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqac103](https://academic.oup.com/nargab/article/5/1/lqac103/6980839).
 
 ### 2022
