@@ -9,8 +9,8 @@ comments: false
 ### 2023
 * **Ezekannagha, C.**, Langlotz, X., Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., Hirche, S., **Hattab, G.** (2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, (submitted). 
-* **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, ACM NLPIR Natural Language Processing and Information Retrieval, (in preparation).
-* **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, ACM NLPIR Natural Language Processing and Information Retrieval, (in preparation).
+* **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, *ACM NLPIR Natural Language Processing and Information Retrieval*, (in preparation).
+* **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, *ACM NLPIR Natural Language Processing and Information Retrieval*, (in preparation).
 * **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Molecular Encoding using Count Tables of Multilevel Atomic Neighbourhoods for Peptide and Protein Classification, *Nature Machine Intelligence *, (submitted).
 * **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, (accepted).
 * **Weckbecker, M.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [(accepted)](https://ghattab.github.io/documents/wekbeckerneziri2023.pdf).
