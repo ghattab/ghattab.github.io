@@ -8,7 +8,7 @@ comments: false
 ---
 
 **Name**    | **Role**
-[Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
+[PD. Dr. Georges Hattab](/hattab)  | Principle Investigator
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
