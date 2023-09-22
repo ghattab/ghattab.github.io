@@ -3,10 +3,17 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 21-11-2022
+modified: 14-09-2023
 comments: false
 ---
 ### 2023
+* **Ezekannagha, C.**, Langlotz, X., Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
+* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., Hirche, S., **Hattab, G.** (2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, (submitted). 
+* **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, ACM NLPIR Natural Language Processing and Information Retrieval, (in preparation).
+* **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, ACM NLPIR Natural Language Processing and Information Retrieval, (in preparation).
+* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Molecular Encoding using Count Tables of Multilevel Atomic Neighbourhoods for Peptide and Protein Classification, *Nature Machine Intelligence *, (submitted).
+* **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, (accepted).
+* **Weckbecker, M.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [(accepted)](https://ghattab.github.io/documents/wekbeckerneziri2023.pdf).
 * Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌Conference of the IEEE Industrial Electronics Society (IECON)*, [(accepted)](https://arxiv.org/abs/2307.13945).
 * **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624).
 * **Hattab, G.**, **Anžel, A.**, Spänig, S., **Neumann, N.**, Heider, D. (2023). A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqac103](https://academic.oup.com/nargab/article/5/1/lqac103/6980839).

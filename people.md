@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: People
 tags: [group, members, researcher, assistant, phd, student]
-modified: 18-06-2023
+modified: 14-09-2023
 comments: false
 ---
 
@@ -11,17 +11,19 @@ comments: false
 [Dr. habil. Georges Hattab](/hattab)  | Principle Investigator
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
-[Aleksandar Anžel](https://aanzel.github.io)  | PhD Student
+[Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
-[Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student
+[Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student (UMR)
+Ana Paula Gomes  | PhD Student
+Jannis Köckritz  | PhD Student
+Vincent Schilling  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 Ebenezer Oladimeji Awotoro  | Research Assistant
 Moritz Weckbecker  | Research Assistant
 Dilekcan Pamir  | Research Project
-Blessy Rajan  | Intern
 Florian Suhre  | MSc
 Bianca Thiel  | MSc
-Chu Xiao  | BSc
+Blessy Rajan  | Intern
 {: .display}
 <br/>
 <br/>
@@ -30,7 +32,7 @@ Chu Xiao  | BSc
 <br/>
 **2023**
 <br/>
-Ihsan Tri Heldian, Minh Nguyen, Florian Schwarz.
+Ihsan Tri Heldian, Minh Nguyen, Florian Schwarz, Xiao Langlotz.
 <br/>
 <br/>
 **2022**
