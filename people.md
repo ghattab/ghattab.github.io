@@ -52,7 +52,7 @@ Dennis Wagner, Johannes Tauscher.
 <br/>
 ‌**2019**
 <br/>
-Felix Meyer, Remke Dirk Albrecht, Ljupka Titizova, Oliver Gold, Marvin Arnold, Leon Strenger, Darja Arsentjeva, Peter Klausing.
+Felix Meyer, Remke Dirk Albrecht, Ljupka Titizova, Oliver Gold, Marvin Arnold, Leon Strenger, Darja Arsentjeva, Peter Klausing, Lena Denne.
 <br/>
 <br/>
 **2018**
