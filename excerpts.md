@@ -5,11 +5,15 @@ description: "The Visualization Group at the Center for Artificial Intelligence 
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 ---
 
+
+[![](/images/excerpts/weckbeckerneziri2023.webp "The visual proof for the sum of inverse powers of four (Weckbecker and Neziri et al., 2023)"){:class="responsive"}](/documents/weckbeckerneziri2023.pdf)
+[![](/images/excerpts/yindaiyang2023ieee.webp "The distribution of training data sets and the reference trajectory (Yin, Dai and Yang et al., 2023)"){:class="responsive"}](https://arxiv.org/pdf/2307.13945.pdf)
+<br/>
+
 [![](/images/excerpts/ezekannagha2022csbj.webp "DNA barcodes sorted by the Levenshtein distance shown in DNAsmart (Ezekannagha et al., 2023)"){:class="responsive"}](https://doi.org/10.1016/j.csbj.2023.02.016)
 [![](/images/excerpts/hattab2022nargb.webp "Evaluation results of the peptide classification task (Hattab et al., 2023)"){:class="responsive"}](https://doi.org/10.1093/nargab/lqac103)
 <br/>
 
-[![](/images/excerpts/marey2022.webp "The Graphic Method, La Méthode Graphique (Marey, 2022)"){:class="responsive"}](https://visionarypress.com/products/etienne-jules-marey-the-graphic-method)
 [![](/images/excerpts/hattab2022ieee.webp "Linear function from the ten challenges and explainable analogs for statistical literacy and fluency (Hattab, 2022)"){:class="responsive"}](/documents/hattab2022i.pdf)
 <br/>
 
