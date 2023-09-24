@@ -22,7 +22,6 @@ Ebenezer Oladimeji Awotoro  | Research Assistant
 Moritz Weckbecker  | Research Assistant
 Dilekcan Pamir  | Research Project
 Florian Suhre  | MSc
-Bianca Thiel  | MSc
 Blessy Rajan  | Intern
 {: .display}
 <br/>
