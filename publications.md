@@ -8,7 +8,7 @@ comments: false
 ---
 ### 2023
 * **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
-* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Explainable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence *, (submitted).
+* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Explainable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence*, (submitted).
 * **Ezekannagha, C.**, Langlotz, X., Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S.(2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (submitted). 
 * **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
