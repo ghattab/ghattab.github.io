@@ -3,7 +3,7 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 14-09-2023
+modified: 09-11-2023
 comments: false
 ---
 ### 2023
