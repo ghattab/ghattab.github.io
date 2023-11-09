@@ -19,8 +19,6 @@ Jannis Köckritz  | PhD Student
 Vincent Schilling  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 Ebenezer Oladimeji Awotoro  | Research Assistant
-Moritz Weckbecker  | Research Assistant
-Dilekcan Pamir  | Research Project
 Florian Suhre  | MSc
 Blessy Rajan  | Intern
 {: .display}
@@ -31,7 +29,7 @@ Blessy Rajan  | Intern
 <br/>
 **2023**
 <br/>
-Ihsan Tri Heldian, Minh Nguyen, Florian Schwarz, Xiao Langlotz.
+Ihsan Tri Heldian, Minh Nguyen, Florian Schwarz, Xiao Langlotz, Dilekcan Pamir, Moritz Weckbecker.
 <br/>
 <br/>
 **2022**

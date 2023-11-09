@@ -7,12 +7,12 @@ modified: 14-09-2023
 comments: false
 ---
 ### 2023
+* **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
+* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Explainable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence *, (submitted).
 * **Ezekannagha, C.**, Langlotz, X., Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S.(2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (submitted). 
-* **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (in preparation).
-* **Ilgen, B.**, **Hattab, G.**, (2023). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (in preparation).
-* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2023). Molecular Encoding using Count Tables of Multilevel Atomic Neighbourhoods for Peptide and Protein Classification, *Nature Machine Intelligence *, (submitted).
-* **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, (accepted).
+* **Ilgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pretraining to Recognize Immunization Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
+* **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, [doi.org/10.1016/j.cmpb.2023.107843](https://www.sciencedirect.com/science/article/pii/S0169260723005096).
 * **Weckbecker, M.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [(accepted)](https://ghattab.github.io/documents/weckbeckerneziri2023.pdf).
 * Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌Conference of the IEEE Industrial Electronics Society (IECON)*, [(accepted)](https://arxiv.org/abs/2307.13945).
 * **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624).
