@@ -10,7 +10,7 @@ owner:
   name:           Georges Hattab
   avatar:         home.webp
   # bio:
-  email:          hattabg@rki.de
+  # email:          hattabg@rki.de
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: georgesvis
@@ -34,6 +34,8 @@ links:
     url: /people/
   - title: About
     url: /about/
+  - title: Impressum
+    url: /impressum/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
