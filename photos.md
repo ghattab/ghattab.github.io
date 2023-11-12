@@ -10,6 +10,7 @@ comments: false
 ![](/images/group/231101.webp "Group Photo"){:width="600px"}
 Nov. 2023
 <br/>
+<br/>
 
 ![](/images/group/231102.webp "Group Photo"){:width="600px"}
 Nov. 2023

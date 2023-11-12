@@ -8,8 +8,8 @@ comments: false
 ---
 
 ![](/images/group/231101.webp "Group Photo")
-Group Photos
-{: style="text-align: center;"}
+[Group Photos
+{: style="text-align: center;"}](/photos/)
 
 The Visualization Group at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, at the Robert Koch Institute, is led by [PD. Dr. Georges Hattab](/hattab).
 
