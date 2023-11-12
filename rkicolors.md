@@ -7,6 +7,6 @@ modified: 12-11-2023
 comments: false
 ---
 
-Colors carry meaning, both culturally and emotionally. Viewers infer certain (brand) characteristics and values from colors. This is what makes the composition of the right color climate so central for brands. This work extends the existing corporate design of the Robert Koch Institute by creating a variety of color palettes. They follow the state of the art in color theory.
-
-More details coming soon.
+Colors carry meaning, both culturally and emotionally. Viewers infer certain (brand) characteristics and values from colors. This is what makes the composition of the right color climate so central for brands. This work extends the existing corporate design of the Robert Koch Institute by creating a variety of color palettes. They follow the state of the art in color theory. </br>
+</br>
+More details coming soon.</br>
