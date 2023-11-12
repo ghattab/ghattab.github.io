@@ -5,8 +5,8 @@ description: "The Visualization Group at the Center for Artificial Intelligence 
 tags: [about, group, visualization, artificial intelligence, ai, machine learning, ml, data, representation, abstraction, visualization, vis]
 ---
 
-[![](/images/excerpts/anzel2023cmpb.pdf "Interactive polar diagrams for model comparison (Anžel et al., 2023)"){:class="responsive"}](https://www.sciencedirect.com/science/article/pii/S0169260723005096)
-[![](/images/excerpts/hattab2023.pdf "The Colors of the Robert Koch Institute (Hattab, 2023)"){:class="responsive"}](/rkicolors/)
+[![](/images/excerpts/anzel2023cmpb.webp "Interactive polar diagrams for model comparison (Anžel et al., 2023)"){:class="responsive"}](https://www.sciencedirect.com/science/article/pii/S0169260723005096)
+[![](/images/excerpts/hattab2023.webp "The Colors of the Robert Koch Institute (Hattab, 2023)"){:class="responsive"}](/rkicolors/)
 <br/>
 
 [![](/images/excerpts/weckbeckerneziri2023.webp "The visual proof for the sum of inverse powers of four (Weckbecker and Neziri et al., 2023)"){:class="responsive"}](/documents/weckbeckerneziri2023.pdf)
