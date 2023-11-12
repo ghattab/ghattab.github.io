@@ -5,7 +5,8 @@ permalink: /impressum/
 ---  
 
 
-PD. Dr. Georges Hattab <br/>
+PD. Dr. Georges Hattab <br/> 
+<br/>
 Center for Artificial Intelligence for Public Health Research (ZKI-PH) <br/>
 Robert Koch Institute <br/>
 Nordufer 20 <br/>
