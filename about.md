@@ -8,10 +8,9 @@ comments: false
 ---
 
 ![](/images/group/231101.webp "Group Photo")
-[Group Photos](/photos/){: style="text-align: center;"}
-
-The Visualization Group at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, at the Robert Koch Institute, is led by [PD. Dr. Georges Hattab](/hattab).
-
+[Group Photos](/photos/) <br/>
+<br/>
+The Visualization Group at the Center for Artificial Intelligence in Public Health Research, ZKI-PH, at the Robert Koch Institute, is led by [PD. Dr. Georges Hattab](/hattab).<br/>
 <br/>
 The main focus of our research is the development of computational solutions at the intersection of Visualization (VIS) and Artificial Intelligence (AI) in the context of Public Health Research.
 We develop approaches that leverage visualization techniques to explain, explore, and improve the understanding of the inner workings of AI models as well as data analytics techniques. 
