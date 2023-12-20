@@ -6,7 +6,7 @@ tags: [research,publications,scholar,APA]
 modified: 20-12-2023
 comments: false
 ---
-### 2024
+### 2024 
 * **İlgen, B.**, **Hattab, G.**, (2024). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence*, (submitted).
 * **Ezekannagha, C.**, **Langlotz, X.**, Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
