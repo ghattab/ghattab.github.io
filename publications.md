@@ -3,14 +3,15 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 09-11-2023
+modified: 20-12-2023
 comments: false
 ---
-### 2023
+### 2024
 * **İlgen, B.**, **Hattab, G.**, (2024). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
-* **Weckbecker, M.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence*, (submitted).
+* **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Machine Intelligence*, (submitted).
 * **Ezekannagha, C.**, **Langlotz, X.**, Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, *IEEE Pacific Visualization Symposium (PacificVis)*, (submitted).
-* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (submitted). 
+* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Correlation-Aware Cooperative Learning with Gaussian Process Regression for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (submitted).
+### 2023
 * **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
 * **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, [doi.org/10.1016/j.cmpb.2023.107843](https://www.sciencedirect.com/science/article/pii/S0169260723005096).
 * **Weckbecker, M.**, **Neziri, S.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good60218.2023.00011](https://ghattab.github.io/documents/weckbeckerneziri2023.pdf).
