@@ -11,7 +11,7 @@ comments: false
 * **Ezekannagha, C.**, **Langlotz, X.**, Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, (in preparation).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Communications*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
-* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., **Hattab, G.**, Hirche, S. (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
+* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
 
 ### 2023
 * **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
