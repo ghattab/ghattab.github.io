@@ -9,8 +9,8 @@ comments: false
 ### 2024 
 * **İlgen, B.**, **Hattab, G.**, (2024). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
 * **Ezekannagha, C.**, **Langlotz, X.**, Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, (in preparation).
-* Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (submitted).
 * **Yang, Z.**, Dai, X., Hirche, S., **Hattab, G.** (2024). Asynchronous Distributed Gaussian Process Regression, *International Conference on Machine Learning (ICML)*, (submitted).
+* Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (submitted).
 * **Yang, Z.**, Dai, X., **Hattab, G.** (2024). Quality or Quantity? Error-Informed Cooperative Learning with Distributed Gaussian Process Regression, *International Joint Conference on Artificial Intelligence (IJCAI)*, (submitted).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Communications*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
