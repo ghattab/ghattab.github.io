@@ -8,7 +8,7 @@ comments: false
 ---
 ### 2024 
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.**, (2024). Nested Model for AI Design and Validation, *Nature Machine Intelligence*, (submitted).
-* **Hattab, G.**, (2024). AI-Illuminated Realities: A Dialogue on Art, AI, and the Fabric of Experience; *Nature Futures*, (submitted)
+* **Hattab, G.**, (2024). AI-Illuminated Realities: A Dialogue on Art, AI, and the Fabric of Experience, *Nature Futures*, (submitted)
 * Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (submitted).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Briefings in Bioinformatics*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
