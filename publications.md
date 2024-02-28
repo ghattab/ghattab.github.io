@@ -3,16 +3,16 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 20-12-2023
+modified: 28-02-2024
 comments: false
 ---
 ### 2024 
-* **İlgen, B.**, **Hattab, G.**, (2024). SimpLexTr: A BERT based Lexical Simplification framework for Turkish, (in preparation).
-* **Ezekannagha, C.**, **Langlotz, X.**, Heider, D., **Hattab, G.** (2024). The Visual Language of Multidimensional Data Projection: A Visualization Taxonomy and Informed Insights, (in preparation).
+* **Dubey, A.**, **Yang, Z.**, **Hattab, G.**, (2024). Nested Model for AI Design and Validation, *Nature Machine Intelligence*, (submitted).
+* **Hattab, G.**, (2024). AI-Illuminated Realities: A Dialogue on Art, AI, and the Fabric of Experience; *Nature Futures*, (submitted)
 * Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (submitted).
-* **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Nature Communications*, (submitted).
+* **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Briefings in Bioinformatics*, (submitted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
-* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
+* **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
 
 ### 2023
 * **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
