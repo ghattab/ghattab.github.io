@@ -10,10 +10,10 @@ comments: false
 **Name**    | **Role**
 [PD. Dr. Georges Hattab](/hattab)  | Principle Investigator
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
+[Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
 [Dr. Bahar İlgen](https://scholar.google.com/citations?hl=en&user=dTdqws0AAAAJ)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
-[Chisom Ezekannagha](https://sombiri.github.io)  | PhD Student (UMR)
 Ana Paula Gomes Ferreira  | PhD Student
 Jannis Köckritz  | PhD Student
 Vincent Schilling  | PhD Student
