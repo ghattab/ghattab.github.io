@@ -15,7 +15,7 @@ comments: false
 * **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
 
 ### 2023
-* **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
+* **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, [doi.org/10.1145/3639233.3639355](https://dl.acm.org/doi/10.1145/3639233.3639355).
 * **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, [doi.org/10.1016/j.cmpb.2023.107843](https://www.sciencedirect.com/science/article/pii/S0169260723005096).
 * **Weckbecker, M.**, **Neziri, S.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good60218.2023.00011](https://ghattab.github.io/documents/weckbeckerneziri2023.pdf).
 * Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌Conference of the IEEE Industrial Electronics Society (IECON)*, [doi.org/10.1109/IECON51785.2023.10312503](https://ieeexplore.ieee.org/document/10312503).
