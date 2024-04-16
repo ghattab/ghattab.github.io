@@ -9,6 +9,8 @@ comments: false
 
 The following table lists all relevant keywords from the [IEEE Thesaurus](https://www.ieee.org/publications/services/thesaurus.html) and corresponds to research conducted in this research group.
 <br/>
+<br/>
+
 | Category | Subcategory |
 | --- | --- |
 | Computational and Artificial Intelligence | Context Awareness<br>Cooperative Systems<br>Intelligent Systems<br>Knowledge Engineering (Knowledge Discovery and Representation)<br>Machine Learning (Boosting, Deep Learning, Dimensionality Reduction, Ensemble Learning, Hyperparameter Optimization, Random Forests, Representation Learning)<br>Machine Intelligence (Pattern Analysis)<br>Prediction Methods<br>Neural Networks |
