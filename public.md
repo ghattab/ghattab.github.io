@@ -3,7 +3,7 @@ layout: profile
 permalink: /public/
 title: For the Public
 tags: [for the public, group, public information, public outreach, representation, abstraction, data]
-modified: 13-04-2024
+modified: 16-04-2024
 comments: false
 ---
 
@@ -28,14 +28,14 @@ In traditional machine learning, structured data representation is essential for
 Data visualization serves as a powerful tool for humans to understand complex data, make informed decisions, and communicate insights effectively. Graphical representations help humans explore nuances, identify errors, and extract valuable information. While AI can automate certain visualization tasks, human cognition excels at capturing subtleties, biases, ethical considerations, and domain-specific details that machines may struggle with.
 
 ### Data Abstraction
-People use data abstraction to simplify complexity and increase understanding. By filtering out irrelevant details, abstraction allows people to focus on the essential aspects of decision-making and problem solving. For example, in everyday tasks such as baking or dressing, abstraction streamlines processes by presenting simplified concepts rather than overwhelming users with intricate details. These concepts can be as simple as determining the correct order of ingredients to bake a cake, or as complex as using color theory to match different outfits to create something unique.
+People use data abstraction to simplify complexity and increase understanding. By filtering out irrelevant details, abstraction allows people to focus on the essential aspects of decision-making and problem solving. For example, in everyday tasks such as baking or dressing, abstraction streamlines processes by presenting simplified concepts rather than overwhelming users with intricate details. These concepts can be as simple as determining the correct order of ingredients to bake a cake, or as complex as using color theory to match different outfits to create something unique. <br/>
 <br/>
 
 Machines use data abstraction to solve complex problems like jigsaw puzzles in an efficient way. Instead of worrying about the intricate details of each puzzle piece, they represent the pieces as a set of relevant features, such as shape, color, texture, and spatial relationships. This abstraction allows the machine to focus on the essential features needed to solve the puzzle, rather than getting bogged down in the fine-grained details. The machine can then calculate the "distance" between different piece features to determine which ones are likely to fit together, and use this distance-based matching to assemble the puzzle. Through this process of abstraction, feature representation, and distance-based matching, machines can solve complex puzzles without needing to understand the full complexity of each piece.
 
 
 ### Human-Machine Collaboration
-The divergence between human and machine use of data representation and abstraction stems from their different goals and capabilities. Humans use abstraction to reduce cognitive load, aiding comprehension and task performance by focusing on relevant information. In contrast, machines rely on abstraction to increase efficiency in programming and computing, simplifying tasks through predefined structures created by programmers.
+The divergence between human and machine use of data representation and abstraction stems from their different goals and capabilities. Humans use abstraction to reduce cognitive load, aiding comprehension and task performance by focusing on relevant information. In contrast, machines rely on abstraction to increase efficiency in programming and computing, simplifying tasks through predefined structures created by programmers. <br/>
 <br/>
 
 While both humans and machines use data representation and abstraction to simplify and manage complexity, their approaches play to their unique strengths: human cognition excels at understanding context and adapting to new situations, while machines excel at efficiently processing large amounts of structured data within predefined frameworks. By combining the strengths of humans and machines, hidden insights can be uncovered from complex data sets to enable better decision-making.

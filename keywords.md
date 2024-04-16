@@ -7,8 +7,7 @@ modified: 16-04-2024
 comments: false
 ---
 
-The following table lists all relevant keywords from the [IEEE Thesaurus](https://www.ieee.org/publications/services/thesaurus.html) and corresponds to research conducted in this research group.
-<br/>
+The following table lists all relevant keywords from the [IEEE Thesaurus](https://www.ieee.org/publications/services/thesaurus.html) and corresponds to research conducted in this research group. <br/>
 <br/>
 
 | Category | Subcategory |
