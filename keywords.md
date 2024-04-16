@@ -1,6 +1,6 @@
 ---
 layout: profile
-permalink: /about/
+permalink: /keywords/
 title:
 tags: [keywords, Institute of Electrical and Electronics Engineers, IEEE, thesaurus, research, table]
 modified: 16-04-2024
