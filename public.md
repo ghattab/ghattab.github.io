@@ -29,22 +29,16 @@ Data visualization serves as a powerful tool for humans to understand complex da
 
 ### Data Abstraction
 People use data abstraction to simplify complexity and increase understanding. By filtering out irrelevant details, abstraction allows people to focus on the essential aspects of decision-making and problem solving. For example, in everyday tasks such as baking or dressing, abstraction streamlines processes by presenting simplified concepts rather than overwhelming users with intricate details. These concepts can be as simple as determining the correct order of ingredients to bake a cake, or as complex as using color theory to match different outfits to create something unique.
-
+<br/>
 Machines use data abstraction to solve complex problems like jigsaw puzzles in an efficient way. Instead of worrying about the intricate details of each puzzle piece, they represent the pieces as a set of relevant features, such as shape, color, texture, and spatial relationships. This abstraction allows the machine to focus on the essential features needed to solve the puzzle, rather than getting bogged down in the fine-grained details. The machine can then calculate the "distance" between different piece features to determine which ones are likely to fit together, and use this distance-based matching to assemble the puzzle. Through this process of abstraction, feature representation, and distance-based matching, machines can solve complex puzzles without needing to understand the full complexity of each piece.
 
 
 ### Human-Machine Collaboration
 The divergence between human and machine use of data representation and abstraction stems from their different goals and capabilities. Humans use abstraction to reduce cognitive load, aiding comprehension and task performance by focusing on relevant information. In contrast, machines rely on abstraction to increase efficiency in programming and computing, simplifying tasks through predefined structures created by programmers.
-
+<br/>
 While both humans and machines use data representation and abstraction to simplify and manage complexity, their approaches play to their unique strengths: human cognition excels at understanding context and adapting to new situations, while machines excel at efficiently processing large amounts of structured data within predefined frameworks. By combining the strengths of humans and machines, hidden insights can be uncovered from complex data sets to enable better decision-making.
 
 ## What We Do
 The group is dedicated to developing computational solutions that merge visualization techniques with Artificial Intelligence (AI). Their primary goal is to enhance understanding and control of AI models and data analytics through innovative visualization approaches. This group aims to address challenges like uncertainty, accessibility, and bias in visualized data by leveraging AI methods.
 
-Their tasks include:
-1. **Strategic Management**: Overseeing the expansion of AI research at RKI in information processing, learning, and decision-making processes.
-2. **Method Development**: Creating AI-supported simulations and models for user-friendly visualization of biomedical data.
-3. **Pattern Recognition and Knowledge Processing**: Utilizing AI-supported methods for pattern recognition, knowledge representation, and processing.
-4. **Visual Analytics Development**: Creating visual analytics tools to present complex data sets effectively to the public, BMG, and the broader research community beyond RKI and ZKI-PH.
 
-At the intersection of visualization and AI, this group's work not only contributes to the advancement of AI applications in public health research, but also plays a critical role in improving data understanding, decision-making, and knowledge dissemination in these fields.
