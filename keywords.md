@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: page
 permalink: /keywords/
 title:
 tags: [keywords, Institute of Electrical and Electronics Engineers, IEEE, thesaurus, research, table]

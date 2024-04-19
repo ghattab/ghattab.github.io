@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: page
 permalink: /public/
 title: For the Public
 tags: [for the public, group, public information, public outreach, representation, abstraction, data]
