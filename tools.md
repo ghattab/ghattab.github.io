@@ -10,15 +10,15 @@ comments: false
 This page lists tools published in the visualization group.<br/>
 <br/>
 
-![](/images/home.webp){:height=“50px" width=“50px"}
+![](/images/home.webp){:height=“25px" width=“25px"}
 <br>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-{: style="text-align: right; border:0px solid lightgray"}
+{: style="text-align: right; border:1px solid lightgray"}
 <br/>
 <br/>
 
 
-![](/images/home.webp){:height=“50px" width=“50px"}
+![](/images/home.webp){:height=“25px" width=“25px"}
 <br>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-{: style="text-align: left; border:0px solid lightgray"}
+{: style="text-align: right; border:1px solid lightgray"}
