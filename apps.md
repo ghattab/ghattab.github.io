@@ -20,4 +20,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ![](/images/apps/modelar.png){:height=“100px" width=“100px"}
 MODELAR is a modular and evaluative framework to improve surgical Augmented Reality (AR) visualization. It provides a modular and customizable platform to test different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [Source Code](https://github.com/ghattab/MODELAR). [doi.org/10.2312/evs.20201066](https://diglib.eg.org/handle/10.2312/evs20201066).
 <br>
-{: style="text-align: center; border:1px solid lightgray"}
+{: style="text-align: justify; border:1px solid lightgray"}
