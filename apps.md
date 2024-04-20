@@ -18,6 +18,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/>
 
 ![](/images/apps/modelar.png){:height=“100px" width=“100px"}
-MODELAR is a modular and evaluative framework to improve surgical Augmented Reality (AR) visualization. It provides a modular and customizable platform to test different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [Source Code](https://github.com/ghattab/MODELAR). [doi.org/10.2312/evs.20201066](https://diglib.eg.org/handle/10.2312/evs20201066).
+MODELAR is a modular and evaluative framework to improve surgical Augmented Reality (AR) visualization. It provides a modular and customizable platform to test different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [Source Code](https://github.com/ghattab/MODELAR). [Publication](https://diglib.eg.org/handle/10.2312/evs20201066).
 <br>
 {: style="text-align: justify; border:1px solid lightgray"}
+
+
+| - | - |
+| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
