@@ -12,4 +12,4 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/fig1.webp)](https://github.com/ghattab/MODELAR) </span> | **modelAR** is a modular and evaluative framework to improve Augmented Reality (AR) visualization for surgical applications. It enables testing different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [[Publication]](https://diglib.eg.org/handle/10.2312/evs20201066). |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/modelar.webp)](https://github.com/ghattab/MODELAR) </span> | **modelAR** is a modular and evaluative framework to improve Augmented Reality (AR) visualization for surgical applications. It enables testing different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [[Publication]](https://diglib.eg.org/handle/10.2312/evs20201066). |
