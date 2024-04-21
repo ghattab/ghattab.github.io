@@ -7,7 +7,7 @@ modified: 21-04-2024
 comments: false
 ---
 
-This page lists published computer applications, including console, web and window applications.<br/>
+This page lists published computer applications, including console, web and window-based applications.<br/>
 <br/>
 
 
