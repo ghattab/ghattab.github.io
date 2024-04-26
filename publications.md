@@ -7,7 +7,7 @@ modified: 18-04-2024
 comments: false
 ---
 ### 2024 
-* **Anžel, A.**, **Yang, Z.**, **Hattab, G.**(2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *IEEE Visualization*, (submitted).
+* **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *IEEE Visualization*, (submitted).
 * **Wijaya, A.J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *Briefings in Bioinformatics*, (submitted).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Nested Model for AI Design and Validation, *Machine Learning: Science and Technology*, (under review).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, (under review).
