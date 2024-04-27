@@ -12,7 +12,7 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/movis.webp)](https://github.com/ghattab/CAPT) </span> | **CAPT** is an interactive web tool that supports users in exploration and validation tasks related to phylogeny-based taxonomy. It bridges the gap between phylogeny and taxonomy by offering two simultaneous views: a phylogenetic tree view and a taxonomic icicle view. [[Publication]](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240). |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/capt.webp)](https://github.com/ghattab/CAPT) </span> | **CAPT** is an interactive web tool that supports users in exploration and validation tasks related to phylogeny-based taxonomy. It bridges the gap between phylogeny and taxonomy by offering two simultaneous views: a phylogenetic tree view and a taxonomic icicle view. [[Publication]](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240). |
 
 
 | - | - |
