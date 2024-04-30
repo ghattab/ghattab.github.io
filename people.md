@@ -19,7 +19,6 @@ Jannis Köckritz  | PhD Student
 Vincent Schilling  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 Ebenezer Oladimeji Awotoro  | Research Assistant
-Blessy Rajan  | Intern
 {: .display}
 <br/>
 <br/>
@@ -28,7 +27,7 @@ Blessy Rajan  | Intern
 <br/>
 **2024**
 <br/>
-Florian Suhre.
+Florian Suhre, Blessy Rajan.
 <br/>
 <br/>
 **2023**
