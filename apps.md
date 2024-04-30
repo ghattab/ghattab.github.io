@@ -21,7 +21,7 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/movis.webp)](https://movis.mathematik.uni-marburg.de) </span> | **MOVIS** is a multimodal omics application that enables the import, embedding, clustering, and visualization of different types of omics data with temporal information. It provides insight into patterns and anomalies in an integrated environment, complementing traditional data exploration approaches. [[Publication]](https://www.sciencedirect.com/science/article/pii/S2001037022000526). |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/movis.webp)](https://movis.mathematik.uni-marburg.de) </span> | **MOVIS** is a multimodal omics application that enables the import, embedding, clustering, and interactive visualization of different types of omics data with temporal information. It provides insight into patterns and anomalies in an integrated environment, complementing traditional data exploration approaches. [[Publication]](https://www.sciencedirect.com/science/article/pii/S2001037022000526). |
 
 
 | - | - |
