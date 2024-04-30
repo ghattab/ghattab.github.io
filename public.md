@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /public/
-title: Public Access
+title: Public Understanding
 tags: [for the public, access, engagement, civic involvement, public understanding of science, group, public information, public outreach, representation, abstraction, data]
-modified: 16-04-2024
+modified: 30-04-2024
 comments: false
 ---
 
