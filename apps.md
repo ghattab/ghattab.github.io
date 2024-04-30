@@ -11,8 +11,13 @@ This page lists published computer applications, including console, web and wind
 <br/>
 
 
+
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/capt.webp)](https://github.com/ghattab/CAPT) </span> | **CAPT** is an interactive web tool that supports users in exploration and validation tasks related to phylogeny-based taxonomy. It bridges the gap between phylogeny and taxonomy by offering two simultaneous views: a phylogenetic tree view and a taxonomic icicle view. [[Publication]](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240). |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/dnasmart.webp)](https://github.com/Sombiri/DNAsmart) </span> | **DNAsmart** is an interactive and visual analytical application that enables the evaluation and ranking of DNA storage encoding approaches based on multiple attributes. It provides an accessible and tractable way to solve comparison, ranking, and validation tasks related to DNA storage encoding. [[Publication]](https://www.sciencedirect.com/science/article/pii/S2001037023000624). |
+
+
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/capt.webp)](https://github.com/ghattab/CAPT) </span> | **CAPT** is an interactive web application that supports users in exploration and validation tasks related to phylogeny-based taxonomy. It bridges the gap between phylogeny and taxonomy by offering two simultaneous views: a phylogenetic tree view and a taxonomic icicle view. [[Publication]](https://www.frontiersin.org/articles/10.3389/fgene.2022.891240). |
 
 
 | - | - |
