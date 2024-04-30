@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /public/
-title: For the Public
-tags: [for the public, group, public information, public outreach, representation, abstraction, data]
+title: Public Access
+tags: [for the public, access, engagement, civic involvement, public understanding of science, group, public information, public outreach, representation, abstraction, data]
 modified: 16-04-2024
 comments: false
 ---

@@ -26,6 +26,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Apps
+    url: /apps/
   - title: Publications
     url: /publications/
   - title: Excerpts
@@ -34,7 +36,7 @@ links:
     url: /people/
   - title: About
     url: /about/
-  - title: For the Public
+  - title: Public Access
     url: /public/
   - title: Impressum
     url: /impressum/
