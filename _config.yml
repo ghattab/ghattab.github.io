@@ -34,12 +34,12 @@ links:
     url: /excerpts/
   - title: People
     url: /people/
-  - title: About
-    url: /about/
   - title: Public
     url: /public/
   - title: Impressum
     url: /impressum/
+  - title: About
+    url: /about/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
