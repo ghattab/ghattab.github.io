@@ -11,6 +11,9 @@ This page lists published computer applications, including console, web and wind
 <br/>
 
 
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/polardiagrams.webp)](https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison) </span> | **PolarDiagrams** is an interactive console application that enables the evaluation of complex models across various domains, including biology, medicine, climatology, and machine learning. It addresses the challenge of evaluating models using multiple metrics by providing an integrated visualization approach. [[Publication]](https://www.sciencedirect.com/science/article/pii/S0169260723005096). |
+
 
 | - | - |
 | <span style="display: inline-block; width:200px"> [![](/images/apps/dnasmart.webp)](https://github.com/Sombiri/DNAsmart) </span> | **DNAsmart** is an interactive and visual analytical application that enables the evaluation and ranking of DNA storage encoding approaches based on multiple attributes. It provides an accessible and tractable way to solve comparison, ranking, and validation tasks related to DNA storage encoding. [[Publication]](https://www.sciencedirect.com/science/article/pii/S2001037023000624). |
