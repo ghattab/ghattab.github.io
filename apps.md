@@ -28,6 +28,14 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/peptidereactor.webp)](https://peptidereactor.mathematik.uni-marburg.de/) </span> | **PeptideREACToR** is a web and console application for peptide encoding performance in the biomedical domain. It provides a baseline of 48 encoding groups tested on 50 datasets, enabling initial encoding selection, objective comparison of new encodings, and sophisticated encoding optimization in automated machine learning pipelines. [[Publication]](https://academic.oup.com/nargab/article/3/2/lqab039/6281452). |
+
+
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/mosga.webp)](https://mosga.mathematik.uni-marburg.de) </span> | **MOSGA** is a versatile web application that combines genome annotation and comparative genomics capabilities. It provides a user-friendly interface to generate and integrate annotations, analyze results in a genome browser, and enable comparative genomics analyses on high-quality genome assemblies.  [Publications] [[1](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5514/6015104),[2](https://www.sciencedirect.com/science/article/pii/S2001037021004098)]. |
+
+
+| - | - |
 | <span style="display: inline-block; width:200px"> [![](/images/apps/modelar.webp)](https://github.com/ghattab/MODELAR) </span> | **modelAR** is a modular and evaluative framework to improve Augmented Reality (AR) visualization for surgical applications. It enables testing different visualization techniques and presets for displaying 3D biomedical data in an AR environment. [[Publication]](https://diglib.eg.org/handle/10.2312/evs20201066). |
 
 
