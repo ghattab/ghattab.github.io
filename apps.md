@@ -32,7 +32,7 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/mosga.webp)](https://mosga.mathematik.uni-marburg.de) </span> | **MOSGA** is a versatile web application that combines genome annotation and comparative genomics capabilities. It provides a user-friendly interface to generate and integrate annotations, analyze results in a genome browser, and enable comparative genomics analyses on high-quality genome assemblies.  [Publications] [[1](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5514/6015104),[2](https://www.sciencedirect.com/science/article/pii/S2001037021004098)]. |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/mosga.webp)](https://mosga.mathematik.uni-marburg.de) </span> | **MOSGA** is a versatile web application that combines genome annotation and comparative genomics capabilities. It provides a user-friendly interface to generate and integrate annotations, analyze results in a genome browser, and enable comparative genomics analyses on high-quality genome assemblies.  [[Publication 1](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5514/6015104), [Publication 2](https://www.sciencedirect.com/science/article/pii/S2001037021004098)]. |
 
 
 | - | - |
