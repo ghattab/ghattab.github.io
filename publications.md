@@ -9,6 +9,7 @@ comments: false
 ### 2024 
 * **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *‌CHI Conference on Human Factors in Computing Systems*, (in preparation).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Exploring the Potential of Artificial Intelligence for Syndrome Discovery, *The Lancet Public Health*, (in preparation).
+* **Awotoro, E.O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2024). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nucleic Acids Research*, (in preparation).
 * **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable, *IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV)*, (submitted).
 * **Hattab, G.**, Irgang, C., Körber, N., Kühnert, D. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *The Lancet*, (submitted).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G**. Explorando o potencial da inteligência artificial na definição de síndromes, *Anais do Instituto de Higiene e Medicina Tropical*,  (submitted).
