@@ -7,21 +7,24 @@ modified: 04-07-2024
 comments: false
 ---
 ### 2024 
+* **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
 * **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *‌CHI Conference on Human Factors in Computing Systems*, (in preparation).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Exploring the Potential of Artificial Intelligence for Syndrome Discovery, *The Lancet Public Health*, (in preparation).
 * **Awotoro, E.O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2024). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nucleic Acids Research*, (in preparation).
+* **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). AI Readiness in Healthcare Domain with Storytelling XAI, *ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED)*. (submitted).
 * **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable, *IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV)*, (submitted).
 * **Hattab, G.**, Irgang, C., Körber, N., Kühnert, D. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *The Lancet*, (submitted).
-* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G**. Explorando o potencial da inteligência artificial na definição de síndromes, *Anais do Instituto de Higiene e Medicina Tropical*,  (submitted).
+* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G**. Explorando o potencial da inteligência artificial na definição de síndromes (Abstract), *Anais do Instituto de Higiene e Medicina Tropical*,  (submitted).
 * **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *Briefings in Bioinformatics*, (under review).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Nested Model for AI Design and Validation, *iScience*, (under review).
 * Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2024). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, (under review).
 * Wehrli, S., **Ezekannagha, C.**, **Hattab, G.**, Boender, T. S., Arnrich, B., Irrgang, C. (2024). Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19 Pandemic, *Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA)*, (accepted).
+*  **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Five P’s of XAI to Enable Human-Centric Trustworthy AI in Public Health (Abstract), *Annual Meeting of American Public Health Association*, (accepted).
 * **Yang, Z.**, Dai, X., Yang, W., **İlgen, B.**, **Anžel, A.**, **Hattab, G.** (2024). Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations, *Chinese Control Conference (CCC)*, (accepted). 
 * Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (accepted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035).
-* Pilic, A., Falman, A., Külper-Schiek, W., Steffen, C., Mosina, L., **İlgen, B.**, **Hattab, G.**, Henaff, L., Harder, T. (2024). SENSE: Stärkung nationaler Impfkommissionen und ihrer evidenzbasierten Entscheidungsprozesse in der WHO-Region Europa und global, *German Medical Science GMS Publishing House.*, [doi.org/10.3205/24ebm019](https://dx.doi.org/10.3205/24ebm019)
+* Pilic, A., Falman, A., Külper-Schiek, W., Steffen, C., Mosina, L., **İlgen, B.**, **Hattab, G.**, Henaff, L., Harder, T. (2024). SENSE: Stärkung nationaler Impfkommissionen und ihrer evidenzbasierten Entscheidungsprozesse in der WHO-Region Europa und global (Abstract), *German Medical Science GMS Publishing House.*, [doi.org/10.3205/24ebm019](https://dx.doi.org/10.3205/24ebm019)
 * **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, [doi.org/10.5555/3635637.3663066](https://dl.acm.org/doi/10.5555/3635637.3663066).
 
 ### 2023
@@ -76,14 +79,14 @@ comments: false
 * **Hattab, G.**, Schlüter, J. P., Becker, A., & Nattkemper, T. W. (2017). ViCAR: an adaptive and landmark-free registration of time lapse image data from microfluidics experiments. *Frontiers in genetics*, 8, 69. [doi.org/10.3389/fgene.2017.00069](https://www.frontiersin.org/articles/10.3389/fgene.2017.00069/full).
 
 ### 2016
-* **Hattab, G.**, Brink, B. G., Nattkemper, T. W. (2016). A mnemonic card game for your amino acids. *Emily Carr University of Art+Design*, 1, 48. [(Information+ Conference)](https://informationplusconference.com/2016/).
+* **Hattab, G.**, Brink, B. G., & Nattkemper, T. W. (2016). A mnemonic card game for your amino acids (Abstract). *Emily Carr University of Art+Design*, 1, 48. [(Information+ Conference)](https://informationplusconference.com/2016/).
 
 ### 2015
 * **Hattab, G.**, Warschawski, D. E., Moncoq, K., & Miroux, B. (2015). Escherichia coli as host for membrane protein structure determination: a global analysis. *Scientific reports*, 5(1), 1-10. [(doi.org/10.1038/srep12097)](https://www.nature.com/articles/srep12097).
 * Schlueter, J. P., McIntosh, M., **Hattab, G.**, Nattkemper, T. W., & Becker, A. (2015). Phase Contrast and Fluorescence Bacterial Time-Lapse Microscopy Image Data. *Bielefeld University*. [doi.org/10.4119/unibi/2777409](https://pub.uni-bielefeld.de/record/2777409).
 
 ### 2014
-* **Hattab, G.**, Moncoq, K., Warschawski, D., & Miroux, B. (2014). Escherichia coli as host for membrane protein structure determination: A global analysis. *Biophysical Journal*, 106(2), 46a. [doi.org/10.1016/j.bpj.2013.11.335](https://www.cell.com/biophysj/fulltext/S0006-3495(13)01570-1).
+* **Hattab, G.**, Moncoq, K., Warschawski, D., & Miroux, B. (2014). Escherichia coli as host for membrane protein structure determination: A global analysis (Abstract). *Biophysical Journal*, 106(2), 46a. [doi.org/10.1016/j.bpj.2013.11.335](https://www.cell.com/biophysj/fulltext/S0006-3495(13)01570-1).
 * **Hattab, G.** (2014). Pattern recognition in a heat maze based spatial system adapted to Drosophila melanogaster. *Université Paris-Saclay. Université Paris Diderot Sorbonne.* (Master of Science).
 * **Hattab, G.**, Suisse, A. Y., Ilioaia, O., Casiraghi, M., Dezi, M., Warnet, X. L., ... & Miroux, B. (2014). Membrane protein production in Escherichia coli: overview and protocols. Membrane Proteins Production for Structural Analysis, *Springer*, 87-106. [doi.org/10.1007/978-1-4939-0662-8_4](https://link.springer.com/chapter/10.1007%2F978-1-4939-0662-8_4)
 
