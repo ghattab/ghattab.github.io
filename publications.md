@@ -8,6 +8,7 @@ comments: false
 ---
 ### 2024 
 * **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *‌CHI Conference on Human Factors in Computing Systems*, (in preparation).
+* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Exploring the potential of AI for syndrome discovery, *The Lancet Public Health*, (in preparation).
 * **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable, *IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV)*, (submitted).
 * **Hattab, G.**, Irgang, C., Körber, N., Kühnert, D. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *The Lancet*, (submitted).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G**. Explorando o potencial da inteligência artificial na definição de síndromes, *Anais do Instituto de Higiene e Medicina Tropical*,  (submitted).
@@ -19,6 +20,7 @@ comments: false
 * Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (accepted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035).
+* Pilic, A., Falman, A., Külper-Schiek, W., Steffen, C., Mosina, L., **İlgen, B.**, **Hattab, G.**, Henaff, L., Harder, T. (2024). SENSE: Stärkung nationaler Impfkommissionen und ihrer evidenzbasierten Entscheidungsprozesse in der WHO-Region Europa und global, *German Medical Science GMS Publishing House.*, [doi.org/10.3205/24ebm019](https://dx.doi.org/10.3205/24ebm019)
 * **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, [doi.org/10.5555/3635637.3663066](https://dl.acm.org/doi/10.5555/3635637.3663066).
 
 ### 2023
