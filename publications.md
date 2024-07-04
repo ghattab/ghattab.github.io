@@ -7,18 +7,23 @@ modified: 18-04-2024
 comments: false
 ---
 ### 2024 
-* **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *IEEE Visualization*, (submitted).
-* **Wijaya, A.J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *Briefings in Bioinformatics*, (submitted).
+* **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *‌CHI Conference on Human Factors in Computing Systems*, (in preparation).
+* **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable, *IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV)*, (submitted).
+* **Hattab, G.**, Irrgang, C., Körber, N., Kühnert, D. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *The Lancet*, (submitted).
+* **Ferreira, A.P.G.**, **Anžel, A.**, Ullrich, A., & **Hattab, G**. Explorando o potencial da inteligência artificial na definição de síndromes, *Anais do Instituto de Higiene e Medicina Tropical*,  (submitted).
+* **Wijaya, A.J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *Briefings in Bioinformatics*, (under review).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Nested Model for AI Design and Validation, *Machine Learning: Science and Technology*, (under review).
-* **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, (accepted).
+* **Wehrli, S.**, **Ezekannagha, C.**, **Hattab, G.**, Boender, T.S., Arnrich, B., Irrgang, C. (2024). Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19 Pandemic, *Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA)*, (accepted).
 * **Yang, Z.**, Dai, X., Yang, W., **İlgen, B.**, **Anžel, A.**, **Hattab, G.** (2024). Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations, *Chinese Control Conference (CCC)*, (accepted). 
 * Dai, X., **Yang, Z.**, **Hattab, G.**, Hirche, S. (2024). Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression, *European Control Conference (ECC)*, (accepted).
 * **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, (accepted).
-* **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, (accepted).
+* **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035).
+* **Yang, Z.**, Dai, X., **Dubey, A.**, Hirche, S., **Hattab, G.** (2024). Whom to Trust? Elective Learning for Distributed Gaussian Process Regression, *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, [doi.org/10.5555/3635637.3663066](https://dl.acm.org/doi/10.5555/3635637.3663066).
 
 ### 2023
 * **İlgen, B.**,  Pilic, A., Harder, T., **Hattab, G.**, (2023). Pre-Training to Identify Immunization-Related Entities from Systematic Reviews, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, [doi.org/10.1145/3639233.3639355](https://dl.acm.org/doi/10.1145/3639233.3639355).
 * **Anžel, A.**, Heider, D., **Hattab, G.** (2023). Interactive Polar Diagrams for Model Comparison, *Computer Methods and Programs in Biomedicine*, [doi.org/10.1016/j.cmpb.2023.107843](https://www.sciencedirect.com/science/article/pii/S0169260723005096).
+* RJ. Andrews, R. J., **Hattab, G.**, Marey, É. J., & Wainer, H. (2023). The Graphic Method, **CHANCE**, [doi.org/10.1080/09332480.2023.2290959](https://doi.org/10.1080/09332480.2023.2290959)
 * **Weckbecker, M.**, **Neziri, S.**, **Hattab, G.** (2023). Supporting Mathematical Education with Interactive Visual Proofs, *IEEE VIS Workshop on Visualization for Social Good (VIS4Good)*, [doi.org/10.1109/VIS4Good60218.2023.00011](https://ghattab.github.io/documents/weckbeckerneziri2023.pdf).
 * Yin, Z., Dai, X., **Yang, Z.**, Shen, Y., **Hattab, G.** , Zhao, H. (2023). Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy, *‌Conference of the IEEE Industrial Electronics Society (IECON)*, [doi.org/10.1109/IECON51785.2023.10312503](https://ieeexplore.ieee.org/document/10312503).
 * **Ezekannagha, C.**, Heider, D., **Hattab, G.** (2023). DNAsmart: Multiple Attribute Ranking Tool for DNA Data Storage Systems, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2023.02.016](https://www.sciencedirect.com/science/article/pii/S2001037023000624).
