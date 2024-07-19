@@ -13,6 +13,7 @@ comments: false
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
+[Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 Ana Paula Gomes Ferreira  | PhD Student
 Jannis Köckritz  | PhD Student
