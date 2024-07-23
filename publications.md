@@ -8,7 +8,7 @@ comments: false
 ---
 ### 2024 
 * **Ezekannagha, C.**, **Langlotz, X.**, **Awotoro, E. O.**, Heider, D., **Hattab, G.**, (2025). A Systematic Exploration of visual techniques for Multidimensional Projection. *IEEE Pacific Visualization Conference (PacificVis)*, (in preparation).
-* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  Hattab, G.** (2024). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
+* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2024). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
 * **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). A Multi-Technique Strategy for Improving The Polar Diagrams, *‌CHI Conference on Human Factors in Computing Systems*, (in preparation).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Exploring the Potential of Artificial Intelligence for Syndrome Discovery, *The Lancet Public Health*, (in preparation).
