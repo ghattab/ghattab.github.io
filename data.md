@@ -16,7 +16,7 @@ comments: false
 |                     | **Number of Instances**: Varies by dataset              |
 |                     | **Key Characteristics**: Categorical |
 |                     | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
-|                     | [/data/molecular.md](#)                                 |
+|                     | [[View Detailed Page]](/data/molecular.md)                                 |
 
 ### 2021
 
@@ -27,7 +27,7 @@ comments: false
 |                     | **Number of Instances**: 28 storage technologies        |
 |                     | **Key Characteristics**: Quantitative and Categorical   |
 |                     | **Description**: Historical overview of data storage technologies, detailing their properties and evolution. |
-|                     | [View Detailed Page](/data/storage.md)                                 |
+|                     | [[View Detailed Page]](/data/storage.md)                                 |
 
 ### 2020
 
@@ -38,7 +38,7 @@ comments: false
 |                     | **Number of Instances**: 61,069           |
 |                     | **Key Characteristics**: Multivariate     |
 |                     | **Description**: Comprehensive overview of mushroom species focusing on classification as edible or poisonous. |
-|                     | [View Detailed Page](/data/mushroom.md)                   |
+|                     | [[View Detailed Page]](/data/mushroom.md)                   |
 
 | ![Dataset Image](#) | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
 |---------------------|---------------------------------------------------------|
@@ -47,7 +47,7 @@ comments: false
 |                     | **Number of Instances**: 6,000+ entries                 |
 |                     | **Key Characteristics**: Quantitative                   |
 |                     | **Description**: Comprehensive data on the properties and measurement of different silicone materials, crucial for research in materials science. |
-|                     | [View Detailed Page](/data/uniaxial.md)                                 |
+|                     | [[View Detailed Page]](/data/uniaxial.md)                                 |
 
 ### 2017
 
@@ -58,6 +58,6 @@ comments: false
 |                     | **Number of Instances**: 100 annotated images           |
 |                     | **Key Characteristics**: Quantitative    |
 |                     | **Description**: Focuses on the detection of kidney boundaries in medical imaging, providing a dataset for training and evaluating segmentation algorithms. |
-|                     | [View Detailed Page](/data/boundary.md)                                 |
+|                     | [[View Detailed Page]](/data/boundary.md)                                 |
 
 
