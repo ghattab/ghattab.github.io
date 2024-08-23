@@ -1,14 +1,14 @@
 ---
 layout: page
-title: The Mushroom Data Set 2020
+title: Mushroom Data 2020
 tags: [data, UCI, mushroom, edible, poisonous, simulation, classification]
 modified: 23-08-2024
 comments: false
 ---
 
-The Mushroom Data Set 2020 provides a comprehensive overview of mushroom species, focusing on their physical characteristics and classification as either poisonous or edible. 
+The Mushroom Data 2020 provides a comprehensive overview of mushroom species, focusing on their physical characteristics and classification as either poisonous or edible. 
 
-## Mushroom Data Set 2020
+##  Mushroom Data 2020
 
 ### Data Set Description
 
@@ -56,7 +56,7 @@ The Mushroom Data Set 2020 provides a comprehensive overview of mushroom species
 
 ### Comparison with UCI 1987
 
-The Mushroom Data Set 2020 provides a modernized approach to mushroom classification, building on the foundational UCI 1987 data set. While the UCI 1987 dataset focused on a limited number of species with predefined attributes, the 2020 dataset expands significantly in terms of species diversity and number of hypothetical instances. This expansion allows for more robust machine learning applications and provides a comprehensive testbed for binary classification tasks. For more details, please see the [Results section of the publication] (https://www.nature.com/articles/s41598-021-87602-3#Sec2).
+The Mushroom Data 2020 provides a modernized approach to mushroom classification, building on the foundational UCI 1987 data set. While the UCI 1987 dataset focused on a limited number of species with predefined attributes, the 2020 dataset expands significantly in terms of species diversity and number of hypothetical instances. This expansion allows for more robust machine learning applications and provides a comprehensive testbed for binary classification tasks. For more details, please see the [Results section of the publication] (https://www.nature.com/articles/s41598-021-87602-3#Sec2).
 
 ### Publication
 

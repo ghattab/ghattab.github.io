@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Peptide and Protein Molecular Encoder Data 2024
+title: Molecular Encoder Data 2024
 tags: [data, molecular encodings, encoder, fingerprint, machine learning, peptide classification]
-modified: 09-08-2024
+modified: 23-08-2024
 comments: false
 ---
 
-The Peptide and Protein Molecular Encoder Data 2024 provides comprehensive data of peptides and proteins, including unnatural amino acids, for binary classification across various applications like antimicrobial and antiviral peptides, encoded using different fingerprints.
+The Molecular Encoder Data 2024 provides comprehensive data of peptides and proteins, including unnatural amino acids, for binary classification across various applications like antimicrobial and antiviral peptides, encoded using different fingerprints.
 This dataset is essential for researchers in computational biology and bioinformatics.
 
-## Peptide and Protein Molecular Encoder Data 2024
+##  Molecular Encoder Data 2024
 
 ### Data Set Description
 

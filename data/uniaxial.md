@@ -7,8 +7,7 @@ modified: 23-08-2024
 comments: false
 ---
 
-The Materials Cloud Archive dataset focuses on 2D materials, providing comprehensive data on their properties and simulations. 
-This dataset is crucial for researchers in materials science, particularly those working on the properties and applications of 2D materials.
+The Silicone Uniaxial Test Data 2020 focuses on the uniaxial compression testing of industry grade silicones, providing comprehensive data on their properties. 
 
 ## Silicone Uniaxial Test Data 2020
 

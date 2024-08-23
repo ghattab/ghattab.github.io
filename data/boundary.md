@@ -1,16 +1,16 @@
 ---
 
 layout: page
-title: Kidney Boundary Detection Data 2017
+title: Kidney Boundary Data 2017
 tags: [data, medical imaging, kidney, boundary detection, segmentation, EndoVis]
 modified: 23-08-2024
 comments: false
 ---
 
-The Kidney Boundary Detection Data 2017 focuses on the detection of kidney boundaries in medical imaging, providing a dataset for training and evaluating segmentation algorithms. 
+The Kidney Boundary Data 2017 focuses on the detection of kidney boundaries in medical imaging, providing a dataset for training and evaluating segmentation algorithms. 
 This data was initially shared as part of the EndoVis Sub-Challenge 2017.
 
-## Kidney Boundary Detection Data 2017
+## Kidney Boundary Data 2017
 
 ### Data Set Description
 
@@ -32,7 +32,7 @@ This data was initially shared as part of the EndoVis Sub-Challenge 2017.
 | **Number of Variables**      | Not applicable             |
 | **Attribute Characteristics**| Pixel values (quantitative)|
 | **Date Published**           | 2017                       |
-| **Associated Tasks**         | Segmentation, Boundary Detection |
+| **Associated Tasks**         | Segmentation, Edge Detection |
 
 ### Publications
 
