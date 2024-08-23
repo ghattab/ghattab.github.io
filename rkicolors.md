@@ -11,4 +11,3 @@ Colors carry meaning, both culturally and emotionally. Viewers infer certain cha
 <br/>
 <script async class="speakerdeck-embed" data-slide="1" data-id="7617208910a84db8b0a19126dd143c7b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
-More details coming soon.<br/>
