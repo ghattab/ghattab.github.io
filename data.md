@@ -39,7 +39,7 @@ comments: false
 |                     | **Key Characteristics**: Multivariate     |
 |                     | **Description**: Comprehensive overview of mushroom species focusing on classification as edible or poisonous. |
 |                     | [View Detailed Page](/data/mushroom.md)                   |
-
+<br/>
 | ![Dataset Image](#) | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: Multiple properties            |
@@ -50,6 +50,7 @@ comments: false
 |                     | [View Detailed Page](/data/uniaxial.md)                                 |
 
 ### 2017
+
 | ![Dataset Image](#) | **Dataset Name**: Kidney Boundary Detection Data 2017 |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: Not applicable (image data)    |
