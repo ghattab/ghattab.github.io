@@ -56,11 +56,11 @@ The Mushroom Data 2020 provides a comprehensive overview of mushroom species, fo
 
 ### Comparison with UCI 1987
 
-The Mushroom Data 2020 provides a modernized approach to mushroom classification, building on the foundational UCI 1987 data set. While the UCI 1987 dataset focused on a limited number of species with predefined attributes, the 2020 dataset expands significantly in terms of species diversity and number of hypothetical instances. This expansion allows for more robust machine learning applications and provides a comprehensive testbed for binary classification tasks. For more details, please see the [Results section of the publication] (https://www.nature.com/articles/s41598-021-87602-3#Sec2).
+The Mushroom Data 2020 provides a modernized approach to mushroom classification, building on the foundational UCI 1987 data set. While the UCI 1987 dataset focused on a limited number of species with predefined attributes, the 2020 dataset expands significantly in terms of species diversity and number of hypothetical instances. This expansion allows for more robust machine learning applications and provides a comprehensive testbed for binary classification tasks. For more details, please see the [Results section of the publication] (https://www.nature.com/articles/s41598-021-87602-3).
 
 ### Publication
 
-Wagner, D., Heider, D., & Hattab, G. (2021). Mushroom data creation, curation, and simulation to support classification tasks. *Scientific Reports*, 11, 8134. [DOI:10.1038/s41598-021-87602-3](https://doi.org/10.1038/s41598-021-87602-3)
+Wagner, D., Heider, D., & Hattab, G. (2021). Mushroom data creation, curation, and simulation to support classification tasks. *Scientific Reports*, 11, 8134. [10.1038/s41598-021-87602-3](https://doi.org/10.1038/s41598-021-87602-3).
 
 ### Data Variables
 

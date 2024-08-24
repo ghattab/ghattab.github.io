@@ -67,13 +67,13 @@ The data sets consist of a total of 62 entries, each tailored to specific peptid
 ### Publications
 
 Weckbecker, M., Anžel, A., Yang, Z., & Hattab, G. (2024). Interpretable molecular encodings and representations for machine learning tasks. Computational and Structural Biotechnology Journal.
-https://doi.org/10.1016/j.csbj.2024.05.035
+[doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035).
 
 Hattab, G., Anžel, A., Spänig, S., Neumann, N., & Heider, D. (2023). A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification. NAR Genomics and Bioinformatics, 5(1), lqac103.
-https://doi.org/10.1093/nargab/lqac103
+[doi.org/10.1093/nargab/lqac103](https://doi.org/10.1093/nargab/lqac103).
 
 Spänig, S., Mohsen, S., Hattab, G., Hauschild, A. C., & Heider, D. (2021). A large-scale comparative study on peptide encodings for biomedical classification. NAR genomics and bioinformatics, 3(2), lqab039.
-https://doi.org/10.1093/nargab/lqab039
+[doi.org/10.1093/nargab/lqab039](https://doi.org/10.1093/nargab/lqab039).
 
 ### Data Variables
 
