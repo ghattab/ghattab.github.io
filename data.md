@@ -46,7 +46,7 @@ comments: false
 |                     | **Data Type**: Measurement Data                          |
 |                     | **Number of Instances**: 5 silicone mixtures (M1 to M5)                 |
 |                     | **Key Characteristics**: Quantitative                   |
-|                     | **Description**: Analysis of stress-strain relationships in silicone mixtures for soft robotics. |
+|                     | **Description**: Analysis of stress-strain relationships in silicone mixtures for the design of silicone-based organ replicas. |
 |                     | [[View Detailed Page]](/data/uniaxial.md)                                 |
 
 ### 2017
