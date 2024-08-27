@@ -42,11 +42,11 @@ comments: false
 
 | ![Dataset Image](#) | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
 |---------------------|---------------------------------------------------------|
-|                     | **Number of Variables**: Multiple properties            |
+|                     | **Number of Variables**: 3            |
 |                     | **Data Type**: Measurement Data                          |
-|                     | **Number of Instances**: 6,000+ entries                 |
+|                     | **Number of Instances**: 5 silicone mixtures (M1 to M5)                 |
 |                     | **Key Characteristics**: Quantitative                   |
-|                     | **Description**: Comprehensive data on the properties and measurement of different silicone materials, crucial for research in materials science. |
+|                     | **Description**: Analysis of stress-strain relationships in silicone mixtures for soft robotics. |
 |                     | [[View Detailed Page]](/data/uniaxial.md)                                 |
 
 ### 2017
