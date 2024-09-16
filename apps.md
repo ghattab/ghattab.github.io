@@ -12,7 +12,7 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
-| <span style="display: inline-block; width:200px"> [![](/images/apps/ican.webp)](https://github.com/ghattab/ican) </span> | **iCAN** is a console application that enables molecular encoding of any organic compound using the Interpretable Carbon-based Array of Neighborhoods method. It offers interpretable representations tailored for machine learning, outperforms previous methods in peptide and protein classification, and is versatile for all organic molecules, aiding in drug discovery and disease diagnosis. [[Publication 1](https://academic.oup.com/nargab/article/5/1/lqac103/6980839), [Publication 2](https://doi.org/10.1016/j.csbj.2024.05.035)]. |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/ican.webp)](https://github.com/ghattab/ican) </span> | **iCAN** is a console application that enables molecular encoding of any organic compound using the Interpretable Carbon-based Array of Neighborhoods method. It offers interpretable representations tailored for machine learning, outperforms previous methods in peptide and protein classification, and aids in drug discovery and disease diagnosis. [[Publication 1](https://academic.oup.com/nargab/article/5/1/lqac103/6980839), [Publication 2](https://doi.org/10.1016/j.csbj.2024.05.035)]. |
 
 
 | - | - |
