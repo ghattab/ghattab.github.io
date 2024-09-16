@@ -3,14 +3,14 @@ layout: page
 permalink: /data/
 title: Data
 tags: [data, dataset, data set, variable, attribute, feature, abstraction]
-modified: 23-04-2024
+modified: 16-09-2024
 comments: false
 ---
 
 ### 2024
 
 | - | - |
-| <span style="display: inline-block; width:100px"> [![](/images/data/molecular.webp)](/data/molecular.md) </span> |**Dataset Name**: Peptide and Protein Molecular Encoder Data 2024  |
+| <span style="display: inline-block; width:50px"> [![](/images/data/molecular.webp)](/data/molecular.md) </span> |**Dataset Name**: Peptide and Protein Molecular Encoder Data 2024  |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: Not applicable (sequence data) |
 |                     | **Data Type**: Fasta Files                              |
@@ -22,7 +22,7 @@ comments: false
 ### 2021
 
 | - | - |
-| <span style="display: inline-block; width:100px"> [![](/images/data/storage.webp)](/data/storage.md) </span> | **Dataset Name**: Visual Story of Data Storage Data 2021 |
+| <span style="display: inline-block; width:50px"> [![](/images/data/storage.webp)](/data/storage.md) </span> | **Dataset Name**: Visual Story of Data Storage Data 2021 |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: 9                              |
 |                     | **Data Type**: Historical Data                          |
@@ -34,7 +34,7 @@ comments: false
 ### 2020
 
 | - | - |
-| <span style="display: inline-block; width:100px"> [![](/images/data/mushroom.webp)](/data/mushroom.md) </span> | **Dataset Name**: Classification Mushroom Data 2020  |
+| <span style="display: inline-block; width:50px"> [![](/images/data/mushroom.webp)](/data/mushroom.md) </span> | **Dataset Name**: Classification Mushroom Data 2020  |
 |---------------------|-------------------------------------------|
 |                     | **Number of Variables**: 20               |
 |                     | **Data Type**: Textual                    |
@@ -44,7 +44,7 @@ comments: false
 |                     | [[View Detailed Page]](/data/mushroom.md)                   |
 
 | - | - |
-| <span style="display: inline-block; width:100px"> [![](/images/data/uniaxial.webp)](/data/uniaxial.md) </span> | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
+| <span style="display: inline-block; width:50px"> [![](/images/data/uniaxial.webp)](/data/uniaxial.md) </span> | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: 3            |
 |                     | **Data Type**: Measurement Data                          |
@@ -56,7 +56,7 @@ comments: false
 ### 2017
 
 | - | - |
-| <span style="display: inline-block; width:100px"> [![](/images/data/boundary.webp)](/data/boundary.md) </span> | **Dataset Name**: Kidney Boundary Detection Data 2017 |
+| <span style="display: inline-block; width:50px"> [![](/images/data/boundary.webp)](/data/boundary.md) </span> | **Dataset Name**: Kidney Boundary Detection Data 2017 |
 |---------------------|---------------------------------------------------------|
 |                     | **Number of Variables**: Not applicable (image data)    |
 |                     | **Data Type**: Medical Imaging                          |
