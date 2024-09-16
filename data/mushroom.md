@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mushroom Data 2020
+title: Classification Mushroom Data 2020
 tags: [data, UCI, mushroom, edible, poisonous, simulation, classification]
 modified: 23-08-2024
 comments: false
