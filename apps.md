@@ -12,6 +12,10 @@ This page lists published computer applications, including console, web and wind
 
 
 | - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/ican.webp)](https://github.com/ghattab/ican) </span> | **iCAN** is a console application that enables molecular encoding of any organic compound using the Interpretable Carbon-based Array of Neighborhoods method. It offers interpretable representations tailored for machine learning, outperforms previous methods in peptide and protein classification, and is versatile for all organic molecules, aiding in drug discovery and disease diagnosis. [[Publication 1](https://academic.oup.com/nargab/article/5/1/lqac103/6980839), [Publication 2](https://doi.org/10.1016/j.csbj.2024.05.035)]. |
+
+
+| - | - |
 | <span style="display: inline-block; width:200px"> [![](/images/apps/polardiagrams.webp)](https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison) </span> | **PolarDiagrams** is an interactive console application that enables the evaluation of complex models across various domains, including biology, medicine, climatology, and machine learning. It addresses the challenge of evaluating models using multiple metrics by providing an integrated visualization approach. [[Publication]](https://www.sciencedirect.com/science/article/pii/S0169260723005096). |
 
 

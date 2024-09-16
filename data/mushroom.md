@@ -6,9 +6,9 @@ modified: 23-08-2024
 comments: false
 ---
 
-The Mushroom Data 2020 provides a comprehensive overview of mushroom species, focusing on their physical characteristics and classification as either poisonous or edible. 
+The Classification Mushroom Data 2020 provides a comprehensive overview of mushroom species, focusing on their physical characteristics and classification as either poisonous or edible. 
 
-##  Mushroom Data 2020
+##  Classification Mushroom Data 2020
 
 ### Data Set Description
 
