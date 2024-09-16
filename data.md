@@ -9,19 +9,17 @@ comments: false
 
 ### 2024
 
-| - |
-|**Dataset Name**: Peptide and Protein Molecular Encoder Data 2024  |
-|---------------------------------------------------------|
+| **Dataset Name**: Peptide and Protein Molecular Encoder Data 2024 |
 | **Number of Variables**: Not applicable (sequence data) |
-| **Data Type**: Fasta Files|
+| **Data Type**: Fasta Files |
 | **Number of Instances**: Varies by dataset |
 | **Key Characteristics**: Categorical |
 | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
-| [[View Detailed Page]](/data/molecular.md) |
+| [View Detailed Page](/data/molecular.md) |
 
 ### 2021
 
-| - |
+
 | **Dataset Name**: Visual Story of Data Storage Data 2021 |
 |---------------------------------------------------------|
 | **Number of Variables**: 9 |
@@ -33,7 +31,6 @@ comments: false
 
 ### 2020
 
-| - |
 | **Dataset Name**: Classification Mushroom Data 2020 |
 |-------------------------------------------|
 | **Number of Variables**: 20               |
@@ -43,7 +40,6 @@ comments: false
 | **Description**: Comprehensive overview of mushroom species focusing on classification as edible or poisonous. |
 | [[View Detailed Page]](/data/mushroom.md) |
 
-| - |
 | **Dataset Name**: Silicone Uniaxial Test Data 2020 |
 |---------------------------------------------------------|
 | **Number of Variables**: 3 |
@@ -55,7 +51,6 @@ comments: false
 
 ### 2017
 
-| - |
 | **Dataset Name**: Kidney Boundary Detection Data 2017 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (image data) |
