@@ -23,7 +23,7 @@ Vincent Schilling  | PhD Student
 [Berk Gönenç](https://www.linkedin.com/in/sb-gonenc/)  | Research Assistant
 {: .display}
 <br/>
-<br/>
+
 
 **Alumni**
 <br/>
