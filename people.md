@@ -14,13 +14,13 @@ comments: false
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
 [Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
+[Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
-Ebenezer Oladimeji Awotoro  | PhD Student 
 Ana Paula Gomes Ferreira  | PhD Student
 Jannis Köckritz  | PhD Student
 Vincent Schilling  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
-Berk Gönenç  | Research Assistant
+[Berk Gönenç](https://www.linkedin.com/in/sb-gonenc/)  | Research Assistant
 {: .display}
 <br/>
 <br/>
