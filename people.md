@@ -20,7 +20,7 @@ comments: false
 Jannis Köckritz  | PhD Student
 [Vincent Schilling](https://www.linkedin.com/in/vincent-schilling-019537266/)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
-[Marina Milad](https://www.linkedin.com/in/marinaayoub96/)  | PhD Student (co-supv. by [Kühnert D.](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH2/ZKI-PH2_node.html))
+[Marina Milad](https://www.linkedin.com/in/marinaayoub96/)  | PhD Student (supv. by [Kühnert D.](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH2/ZKI-PH2_node.html))
 [Berk Gönenç](https://www.linkedin.com/in/sb-gonenc/)  | Research Assistant
 [Henry El-Jawhari](https://www.linkedin.com/in/henryelj/)  | Research Intern
 {: .display}
