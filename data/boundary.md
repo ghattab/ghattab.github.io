@@ -36,10 +36,10 @@ This data was initially shared as part of the EndoVis Sub-Challenge 2017.
 
 ### Publications
 
-Arnold, M., Speidel, S., & Hattab, G. (2021). Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. BMC Medical Imaging, 21, 1-9.
+Arnold, M., Speidel, S., & Hattab, G. (2021). Towards improving edge quality using combinatorial optimization and a novel skeletonize algorithm. BMC Medical Imaging, 21, 1-9. [doi.org/10.1186/s12880-021-00650-z](https://doi.org/10.1186/s12880-021-00650-z).
 <br/>
 
-Hattab, G., Arnold, M., Strenger, L., Allan, M., Arsentjeva, D., Gold, O., ... & Speidel, S. (2020). Kidney edge detection in laparoscopic image data for computer-assisted surgery: Kidney edge detection. International journal of computer assisted radiology and surgery, 15, 379-387. 
+Hattab, G., Arnold, M., Strenger, L., Allan, M., Arsentjeva, D., Gold, O., Simpfendörfer, T., Maier-Hein, L., & Speidel, S. (2020). Kidney edge detection in laparoscopic image data for computer-assisted surgery : Kidney edge detection. International journal of computer assisted radiology and surgery, 15(3), 379–387. [doi.org/10.1007/s11548-019-02102-0](https://doi.org/10.1007/s11548-019-02102-0).
 
 ### Data Variables
 

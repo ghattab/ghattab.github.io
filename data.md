@@ -16,7 +16,7 @@ comments: false
 | **Key Characteristics**: Categorical |
 | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
 | [[View Detailed Page]](/data/molecular.md) |
-
+‌
 ### 2021
 
 
@@ -60,4 +60,13 @@ comments: false
 | **Description**: Focuses on the detection of kidney boundaries in medical imaging, providing a dataset for training and evaluating segmentation algorithms. |
 | [[View Detailed Page]](/data/boundary.md) |
 
+### 2015
 
+| **Dataset Name**: Bacterial Cell Colony Imaging Data 2024 |
+|---------------------------------------------------------|
+| **Number of Variables**: Not applicable (image data) |
+| **Data Type**: Microscopy Images (Phase Contrast, Red, Green, Blue) |
+| **Number of Instances**: 2 movies with 460 images each, 4 channels per time point |
+| **Key Characteristics**: High-resolution time-lapse imaging using TIRF microscopy |
+| **Description**: Comprehensive dataset of time-lapse images of bacterial cell colonies of *Sinorhizobium meliloti*, focusing on cellular heterogeneity and cell behavior over time. |
+| [[View Detailed Page]](/data/bacterial.md) |
