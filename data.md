@@ -69,4 +69,4 @@ comments: false
 | **Number of Instances**: 2 movies with 460 images each, 4 channels per time point |
 | **Key Characteristics**: High-resolution time-lapse imaging using TIRF microscopy |
 | **Description**: Comprehensive dataset of time-lapse images of bacterial cell colonies of *Sinorhizobium meliloti*, focusing on cellular heterogeneity and cell behavior over time. |
-| [[View Detailed Page]](/data/bacterial.md) |
+| [[View Detailed Page]](/data/bacteria.md) |

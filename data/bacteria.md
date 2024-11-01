@@ -29,7 +29,7 @@ The Bacterial Cell Colony Imaging Data 2015 provides a comprehensive dataset of 
 | Characteristic               | Details                    |
 |------------------------------|----------------------------|
 | **Type**                     | Image Files (Phase Contrast, Red, Green, Blue) |
-| **Number of Images**         | 2 movies with 460 images each, 4 channels per time point |
+| **Number of Images**         | 2 movies with 460 images each (4 channels) |
 | **Image Interval**           | 30 minutes                 |
 | **Imaging Technique**        | Total Internal Reflection Fluorescence (TIRF) Microscopy |
 | **Attribute Characteristics**| High-resolution time-lapse imaging |
