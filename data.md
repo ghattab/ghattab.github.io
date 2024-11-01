@@ -12,11 +12,11 @@ comments: false
 | **Dataset Name**: Peptide and Protein Molecular Encoder Data 2024 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (sequence data) |
-| **Data Type**: Fasta Files |
-| **Number of Instances**: Varies by dataset |
-| **Key Characteristics**: Categorical |
+| **Data Type**: Fasta Files                               |
+| **Number of Instances**: Varies by dataset              |
+| **Key Characteristics**: Categorical                     |
 | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
-| [[View Detailed Page]](/data/molecular.md) |
+| [View Detailed Page](/data/molecular.md)                |
 ‌
 ### 2021
 
