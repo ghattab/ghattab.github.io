@@ -55,7 +55,7 @@ comments: false
 | **Dataset Name**: Kidney Boundary Detection Data 2017 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (image data) |
-| **Data Type**: Medical Imaging |
+| **Data Type**: Medical Image Data |
 | **Number of Instances**: 100 annotated images |
 | **Key Characteristics**: Quantitative    |
 | **Description**: Focuses on the detection of kidney boundaries in medical imaging, providing a dataset for training and evaluating segmentation algorithms. |
@@ -66,7 +66,7 @@ comments: false
 | **Dataset Name**: Bacterial Cell Colony Imaging Data 2024 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (image data) |
-| **Data Type**: Microscopy Images (Phase Contrast, Red, Green, Blue) |
+| **Data Type**: Microscopy Image Data |
 | **Number of Instances**: 2 movies with 460 images each (4 channels) |
 | **Key Characteristics**: High-resolution time-lapse imaging using TIRF microscopy |
 | **Description**: Comprehensive dataset of time-lapse images of bacterial cell colonies of *Sinorhizobium meliloti*, focusing on cellular heterogeneity and cell behavior over time. |
