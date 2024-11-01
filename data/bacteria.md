@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Bacterial Cell Colony Imaging Data 2015
