@@ -10,7 +10,7 @@ comments: false
 ### 2024
 
 
-| **Dataset Name**: Peptide and Protein Molecular Encoder Data 2024 |
+| **Dataset Name**: Molecular Encoder Data 2024 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (sequence data) |
 | **Data Type**: Fasta Files                               |
