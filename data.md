@@ -35,7 +35,7 @@ comments: false
 | **Dataset Name**: Classification Mushroom Data 2020 |
 |-------------------------------------------|
 | **Number of Variables**: 20               |
-| **Data Type**: Textual                    |
+| **Data Type**: Textual Data               |
 | **Number of Instances**: 61,069           |
 | **Key Characteristics**: Multivariate     |
 | **Description**: Comprehensive overview of mushroom species focusing on classification as edible or poisonous. |
