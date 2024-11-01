@@ -3,7 +3,7 @@ layout: page
 permalink: /data/
 title: Data
 tags: [data, dataset, data set, variable, attribute, feature, abstraction]
-modified: 16-09-2024
+modified: 01-11-2024
 comments: false
 ---
 
@@ -13,11 +13,11 @@ comments: false
 | **Dataset Name**: Molecular Encoder Data 2024 |
 |---------------------------------------------------------|
 | **Number of Variables**: Not applicable (sequence data) |
-| **Data Type**: Fasta Files                               |
-| **Number of Instances**: Varies by dataset              |
-| **Key Characteristics**: Categorical                     |
+| **Data Type**: Fasta Files |
+| **Number of Instances**: Varies by dataset |
+| **Key Characteristics**: Categorical |
 | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
-| [View Detailed Page](/data/molecular.md)                |
+| [View Detailed Page](/data/molecular.md) |
 ‌
 ### 2021
 
@@ -69,6 +69,6 @@ comments: false
 | **Number of Variables**: Not applicable (image data) |
 | **Data Type**: Microscopy Image Data |
 | **Number of Instances**: 2 movies with 460 images each (4 channels) |
-| **Key Characteristics**: High-resolution time-lapse imaging using TIRF microscopy |
+| **Key Characteristics**: High-resolution time-lapse imaging |
 | **Description**: Comprehensive dataset of time-lapse images of bacterial cell colonies of *Sinorhizobium meliloti*, focusing on cellular heterogeneity and cell behavior over time. |
 | [[View Detailed Page]](/data/bacteria.md) |

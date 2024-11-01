@@ -7,7 +7,7 @@ modified: 26-10-2024
 comments: false
 ---
 ### 2024 
-* **Ezekannagha, C.**, **Langlotz, X.**, **Awotoro, E. O.**, Heider, D., **Hattab, G.**, (2025). A Systematic Exploration of visual techniques for Multidimensional Projection. (in preparation).
+* **Ezekannagha, C.**, **Langlotz, X.**, **Awotoro, E. O.**, Heider, D., **Hattab, G.**, (2024). A Systematic Exploration of visual techniques for Multidimensional Projection. (in preparation).
 * **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2024). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
 * **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2024). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, (in preparation).
 * **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2024). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Nature Biotechnology Review*, (in preparation).
