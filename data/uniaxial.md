@@ -38,6 +38,7 @@ The Silicone Uniaxial Test Data 2020 focuses on the uniaxial compression testing
 
 Hattab, G., Ahlfeld, T., Klimova, A., Koepp, A.,  Schuerer, M., Speidel, S. (2020). Data from Uniaxial Compression testing and validation scripts for Cauchy stress modeling to design anatomical silicone replicas, Materials Cloud Archive 2020.0019/v2, [doi.org/10.24435/materialscloud:2020.0019/v2](https://doi.org/10.24435/materialscloud:2020.0019/v2)
 <br/>
+<br/>
 
 Hattab, G., Ahlfeld, T., Klimova, A., Koepp, A., Schuerer, M., & Speidel, S. (2020). Uniaxial compression testing and Cauchy stress modeling to design anatomical silicone replicas. Scientific Reports, 10(1), 11849.
 [doi.org/10.1038/s41598-020-68886-3](https://doi.org/10.1038/s41598-020-68886-3)
