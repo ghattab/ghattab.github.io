@@ -16,8 +16,8 @@ comments: false
 | **Number of Instances**: Varies by dataset |
 | **Key Characteristics**: Categorical |
 | **Description**: Comprehensive data on molecular encodings and representations for machine learning tasks, particularly focusing on peptide and protein classification. |
-| [View Detailed Page](/data/molecular.md) |
-‌
+| [[View Detailed Page]](/data/molecular.md) |
+
 ### 2021
 
 | **Dataset Name**: Visual Story of Data Storage Data 2021 |
