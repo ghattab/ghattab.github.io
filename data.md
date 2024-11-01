@@ -2,13 +2,12 @@
 layout: page
 permalink: /data/
 title: Data
-tags: [data, dataset, data set, variable, attribute, feature, abstraction]
+tags: [data, dataset, data set, variable, attribute, feature, abstraction, data type]
 modified: 01-11-2024
 comments: false
 ---
 
 ### 2024
-
 
 | **Dataset Name**: Molecular Encoder Data 2024 |
 |---------------------------------------------------------|
@@ -20,7 +19,6 @@ comments: false
 | [View Detailed Page](/data/molecular.md) |
 ‌
 ### 2021
-
 
 | **Dataset Name**: Visual Story of Data Storage Data 2021 |
 |---------------------------------------------------------|

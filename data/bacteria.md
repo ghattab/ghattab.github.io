@@ -20,7 +20,7 @@ The Bacterial Cell Colony Imaging Data 2015 provides a comprehensive dataset of 
 - **Date Published**: 2015
 - **Associated Tasks**: Single-cell analysis, cellular heterogeneity studies
 
-[Data](#) are available for download under appropriate licensing.
+[Data](https://pub.uni-bielefeld.de/record/2777409) are available for download under appropriate licensing.
 
 ### Data Set Characteristics
 
@@ -54,17 +54,21 @@ Individual cells in a single bacterial population may differ strikingly and even
 Hattab, G., Wiesmann, V., Becker, A., Munzner, T., & Nattkemper, T. W. (2018). A novel methodology for characterizing cell subpopulations in automated time-lapse microscopy. *Frontiers in Bioengineering and Biotechnology*, 6, 17.
 [doi.org/10.3389/fbioe.2018.00017](https://doi.org/10.3389/fbioe.2018.00017)
 <br/>
+<br/>
 
 Hattab, G., & Nattkemper, T. W. (2019). SeeVis—3D space-time cube rendering for visualization of microfluidics image data. *Bioinformatics*, 35(10), 1802-1804.
 [doi.org/10.1093/bioinformatics/bty889](https://doi.org/10.1093/bioinformatics/bty889)
+<br/>
 <br/>
 
 Hattab, G., Schlüter, J. P., Becker, A., & Nattkemper, T. W. (2017). Vicar: an adaptive and landmark-free registration of time lapse image data from microfluidics experiments. *Frontiers in Genetics*, 8, 69.
 [doi.org/10.3389/fgene.2017.00069](https://doi.org/10.3389/fgene.2017.00069)
 <br/>
+<br/>
 
 Schlüter, J. P., McIntosh, M., Hattab, G., Nattkemper, T. W., & Becker, A. (n.d.). Phase Contrast and Fluorescence Bacterial Time-Lapse Microscopy Image Data.
 [doi.org/10.4119/unibi/2777409](https://doi.org/10.4119/unibi/2777409)
+<br/>
 <br/>
 
 Schlüter, J. P., Czuppon, P., Schauer, O., Pfaffelhuber, P., McIntosh, M., & Becker, A. (2015). Classification of phenotypic subpopulations in isogenic bacterial cultures by triple promoter probing at single cell level. *Journal of Biotechnology*, 198, 3-14.
