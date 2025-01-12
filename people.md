@@ -12,7 +12,6 @@ comments: false
 Dr. Bahar İlgen  | Postdoctoral Researcher
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
-[Dr. Zewen Yang](https://scholar.google.com/citations?user=DbuBsVUAAAAJ&hl)  | Postdoctoral Researcher
 [Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
 [Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
@@ -30,7 +29,7 @@ Jannis Köckritz  | PhD Student
 <br/>
 **2024**
 <br/>
-Florian Suhre, Blessy Rajan.
+Florian Suhre, Blessy Rajan, [Zewen Yang](https://www.linkedin.com/in/zewen-yang/).
 <br/>
 <br/>
 **2023**

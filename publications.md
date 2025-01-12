@@ -6,15 +6,17 @@ tags: [research,publications,scholar,APA]
 modified: 22-11-2024
 comments: false
 ---
-### 2024 
-* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2024). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
-* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2024). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, (submitted).
-* **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2024). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
-* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2024). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Artificial Intelligence Review*, (submitted).
+### 2025 
+* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2025). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
+* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, (submitted).
+* **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2025). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
+* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Artificial Intelligence Review*, (submitted).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Advocating the potential of AI for syndrome discovery, *The Lancet Public Health*, (submitted).
-* **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *NAR genomics and bioinformatics*, (submitted).
-* Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2024). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, (submitted).
-* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2024). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Communications* Biology, (submitted).
+* Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2024). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, (under review).
+* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2024). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nature Communications* Biology, (under review).
+* **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2024). Current State and Future Prospects of Horizontal Gene Transfer Detection, *NAR genomics and bioinformatics*, (accepted).
+
+### 2024
 * **İlgen, B.**, **Hattab, G.** (2024). Visualizing Evidence through Natural Language Interaction for Public Health Interventions, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
 * **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable , *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
 * **İlgen, B.**, **Hattab, G.** (2024). A Lexical Simplification Framework for Turkish, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
