@@ -9,14 +9,14 @@ comments: false
 
 **Name**    | **Role**
 [PD. Dr. Georges Hattab](/hattab)  | Principle Investigator
-Dr. Bahar İlgen  | Postdoctoral Researcher
+[Dr. Bahar İlgen](https://www.linkedin.com/in/baharilgen/)  | Postdoctoral Researcher
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
 [Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
 [Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
 [Ana Paula Gomes Ferreira](https://www.linkedin.com/in/anapaulagomess/)  | PhD Student
-Jannis Köckritz  | PhD Student
+[Jannis Köckritz](https://www.linkedin.com/in/jannis-köckritz-4a311233b/)  | PhD Student
 [Vincent Schilling](https://www.linkedin.com/in/vincent-schilling-019537266/)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 [Marina Milad](https://www.linkedin.com/in/marinaayoub96/)  | PhD Student (academic supv.)
