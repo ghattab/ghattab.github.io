@@ -3,30 +3,28 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 22-11-2024
+modified: 05-04-2025
 comments: false
 ---
 ### 2025 
 * **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2025). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
 * **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, (submitted).
 * **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2025). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
-* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Artificial Intelligence Review*, (submitted).
+* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Nature Communications*, (submitted).
 * **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2025). Advocating the potential of AI for syndrome discovery, *The Lancet Public Health*, (submitted).
 * Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2025). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, (under review).
-* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2025). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nature Communications* Biology, (under review).
-* **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Current State and Future Prospects of Horizontal Gene Transfer Detection, *NAR genomics and bioinformatics*, (accepted).
+* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2025). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nature Scientific Reports* Biology, (under review).
+* **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Current State and Future Prospects of Horizontal Gene Transfer Detection, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqaf005](https://doi.org/10.1093/nargab/lqaf005).
 
 ### 2024
 * **İlgen, B.**, **Hattab, G.** (2024). Visualizing Evidence through Natural Language Interaction for Public Health Interventions, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
 * **Hattab, G.**, **Anžel, A.**, **Dubey, A.**, **Ezekannagha, C.**, **Yang, Z.**, **İlgen, B.** (2024). Persona Adaptable Strategies Make Large Language Models Tractable , *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
 * **İlgen, B.**, **Hattab, G.** (2024). A Lexical Simplification Framework for Turkish, *ACM Natural Language Processing and Information Retrieval (NLPIR)*, (accepted).
-* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2024). Explorando o potencial da inteligência artificial na definição de síndromes (Abstract), *Anais do Instituto de Higiene e Medicina Tropical*, (accepted).
-* **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Five P’s of XAI to Enable Human-Centric Trustworthy AI in Public Health (Abstract), *Annual Meeting of American Public Health Association (APHA)*, (accepted).
 * **Hattab, G.**, Irgang, C., Körber, N., Kühnert, D., Ladewig, K. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *American Journal of Public Health*, [doi.org/10.2105/AJPH.2024.307888](https://doi.org/10.2105/AJPH.2024.307888).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). AI Readiness in Healthcare Domain with Storytelling XAI, *ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED)*. [ceur-ws.org/Vol-3831](https://ceur-ws.org/Vol-3831/paper12.pdf).
 * Wehrli, S., **Ezekannagha, C.**, **Hattab, G.**, Boender, T. S., Arnrich, B., Irrgang, C. (2024). Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19 Pandemic, *ACL Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA), Association for Computational Linguistics*, [aclanthology.org/2024.wassa-1.13](https://aclanthology.org/2024.wassa-1.13).
-* **Yang, Z.**, Dai, X., Yang, W., **İlgen, B.**, **Anžel, A.**, **Hattab, G.** (2024). Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations, *Chinese Control Conference (CCC)*, [10.23919/CCC63176.2024.10662288](https://doi.org/10.23919/CCC63176.2024.10662288). 
-* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, [10.23919/ACC60939.2024.10644832](https://doi.org/10.23919/ACC60939.2024.10644832).
+* **Yang, Z.**, Dai, X., Yang, W., **İlgen, B.**, **Anžel, A.**, **Hattab, G.** (2024). Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations, *Chinese Control Conference (CCC)*, [doi.org/10.23919/CCC63176.2024.10662288](https://doi.org/10.23919/CCC63176.2024.10662288). 
+* **Yang, Z.**, Dong, S., Lederer, A., Dai, X., Chen, S., Sosnowski, S., **Hattab, G.**, Hirche, S. (2024). Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies, *IEEE American Control Conference (ACC)*, [doi.org/10.23919/ACC60939.2024.10644832](https://doi.org/10.23919/ACC60939.2024.10644832).
 * **Dubey, A.**, **Yang, Z.**, **Hattab, G.** (2024). Nested Model for AI Design and Validation, *iScience*, [doi.org/10.1016/j.isci.2024.110603](https://www.cell.com/iscience/fulltext/S2589-0042(24)01828-5).
 * Dai, X., **Yang, Z.**, Xu, M., Zhang, S., Liu, F., **Hattab, G.**, & Hirche, S. (2024). Decentralized event-triggered online learning for safe consensus control of multi-agent systems with Gaussian process regression, *European Journal of Control*, [doi.org/10.1016/j.ejcon.2024.101058](https://www.sciencedirect.com/science/article/pii/S0947358024001183).
 * **Weckbecker, M.**, **Anžel, A.**, **Yang, Z.**, **Hattab, G.** (2024). Interpretable Molecular Encoding and Representation for Machine Learning Tasks, *Computational and Structural Biotechnology*, [doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035).
