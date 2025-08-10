@@ -3,17 +3,23 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 05-04-2025
+modified: 11-08-2025
 comments: false
 ---
 ### 2025 
-* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2025). A Unified Evaluation Tool for DNA storage Codes. *Nature Communications*, (in preparation).
-* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, (submitted).
-* **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2025). Framework for Audience Centric Storytelling and Explainable Artificial Intelligence (FACES), *Nature Communications*, (in preparation).
+* **Dubey, A.**, **Anžel, A.**, **İlgen, B.**, **Hattab, G.** (2025). FACES: Framework for Audience Centric Storytelling and Explainable Artificial Intelligence, (in preparation).
+* **Ezekannagha, C.**, **Anžel, A.**, **Wimbes, L.**, **Staus, L.**, **Heldian, I. T.**, **Sonnabend, D.**, **Elhadri, K.**, **Becker, S.**, **Klein, F.**, **Schön, R.**, Welzel, M., Schwarz, M., Heider, D.,  **Hattab, G.** (2025). A Unified Evaluation Tool for DNA storage Codes, (in preparation).
+* **Dubey, A.**, **Anžel, A.**, **İlgen, B.**, **Hattab, G.** (2025). UbiQTree: Uncertainty Quantification in XAI for Tree Ensembles, (submitted).
+* **İlgen, B.**, **Dubey, A.**, **Hattab, G.** (2025). PHAX: A Structured Argumentation Framework for User-Centered Explainable AI in Public Health and Biomedical Sciences, (submitted).
+* **Dubey, A.**, **Anžel, A.**, **Hattab, G.** (2025). Surrogate Interpretable Graph for Random Decision Forests, (submitted). 
 * **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics. *Nature Communications*, (submitted).
-* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2025). Advocating the potential of AI for syndrome discovery, *The Lancet Public Health*, (submitted).
-* Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2025). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, (under review).
-* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Moncoq, K., Miroux, B., **Hattab, G.** (2025). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, *Nature Scientific Reports* Biology, (under review).
+* **Anžel, A.**, **Hattab, G.** (2025). Limitations of Interaction Techniques in Modern Radial Chart Implementations, (under review).
+* **Ferreira, A. P. G.**, **Anžel, A.**, Ullrich, A., **Hattab, G** (2025). Advocating the potential of AI for syndrome discovery, (under review).
+* **Awotoro, E. O.**, **Ezekannagha, C.**, Schwarz, F., Tauscher, J., Heider, D., Ladewig, K., Le Bon, C., Moncoq, K., Miroux, B., **Hattab, G.** (2025). Bridging the Gap in Membrane Protein Research through Machine Learning, Visualization and Metadata Enrichment of Membrane Protein Structures, (under review).
+* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, *Nature Scientific Reports*, (in revision).
+* **Köckritz, J.**, **İlgen, B.**, **Hattab, G.** (2025). Reasoning Under Distress: Mining Claims and Evidence in Mental Health Narratives, *ACL Workshop on Argument Mining*, [doi.org/10.18653/v1/2025.argmining-1.18](https://doi.org/10.18653/v1/2025.argmining-1.18).
+* **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2025). Protocol for implementing the nested model for AI design and validation in compliance with AI regulations, *Cell Press STAR Protocols*, [doi.org/10.1016/j.xpro.2025.103771](https://doi.org/10.1016/j.xpro.2025.103771).
+* Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2025). Holistic forecasting for future pandemics – a review of pathogens, models, and data. *Journal of Epidemiology and Global Health*, [doi.org/10.1186/s12982-025-00573-y](https://doi.org/10.1186/s12982-025-00573-y).
 * **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Current State and Future Prospects of Horizontal Gene Transfer Detection, *NAR genomics and bioinformatics*, [doi.org/10.1093/nargab/lqaf005](https://doi.org/10.1093/nargab/lqaf005).
 * **Hattab, G.**, Irgang, C., Körber, N., Kühnert, D., Ladewig, K. (2024). The Way Forward to Embrace Artificial Intelligence in Public Health, *American Journal of Public Health*, [doi.org/10.2105/AJPH.2024.307888](https://doi.org/10.2105/AJPH.2024.307888).
 
