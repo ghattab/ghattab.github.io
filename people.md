@@ -22,6 +22,7 @@ comments: false
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 [Marina Milad](https://www.linkedin.com/in/marinaayoub96/)  | PhD Student (academic supv.)
 [Henry El-Jawhari](https://www.linkedin.com/in/henryelj/)  | Master Student
+[Utkarsha Kandale](https://www.linkedin.com/in/utkarsha-kandale-a25452175/)  | Master Student
 [Rebecca Grevens Carpi](https://www.linkedin.com/in/rebecca-grevens-carpi-42153b365/)  | Bachelor Student
 {: .display}
 <br/>
