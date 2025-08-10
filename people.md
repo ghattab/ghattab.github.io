@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: People
 tags: [group, members, researcher, assistant, phd, student]
-modified: 28-09-2024
+modified: 11-08-2025
 comments: false
 ---
 
