@@ -3,7 +3,7 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 07-10-2025
+modified: 11-10-2025
 comments: false
 ---
 ### 2025 
@@ -94,7 +94,7 @@ comments: false
 * **Hattab, G.**, Brink, B. G., & Nattkemper, T. W. (2016). A mnemonic card game for your amino acids (Abstract). *Emily Carr University of Art+Design*, 1, 48. [(Information+ Conference)](https://informationplusconference.com/2016/).
 
 ### 2015
-* **Hattab, G.**, Warschawski, D. E., Moncoq, K., & Miroux, B. (2015). Escherichia coli as host for membrane protein structure determination: a global analysis. *Scientific reports*, 5(1), 1-10. [(doi.org/10.1038/srep12097)](https://www.nature.com/articles/srep12097).
+* **Hattab, G.**, Warschawski, D. E., Moncoq, K., & Miroux, B. (2015). Escherichia coli as host for membrane protein structure determination: a global analysis. *Scientific reports*, 5(1), 1-10. [doi.org/10.1038/srep12097](https://www.nature.com/articles/srep12097).
 * Schlueter, J. P., McIntosh, M., **Hattab, G.**, Nattkemper, T. W., & Becker, A. (2015). Phase Contrast and Fluorescence Bacterial Time-Lapse Microscopy Image Data. *Bielefeld University*. [doi.org/10.4119/unibi/2777409](https://pub.uni-bielefeld.de/record/2777409).
 
 ### 2014
