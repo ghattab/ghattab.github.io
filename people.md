@@ -9,9 +9,9 @@ comments: false
 
 **Name**    | **Role**
 [PD. Dr. Georges Hattab](/hattab)  | Principle Investigator
-[Dr. Bahar İlgen](https://www.linkedin.com/in/baharilgen/)  | Postdoctoral Researcher
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
+[Dr. Bahar İlgen](https://www.linkedin.com/in/baharilgen/)  | Postdoctoral Researcher
 [Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
 [Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Student
