@@ -7,11 +7,11 @@ modified: 11-10-2025
 comments: false
 ---
 ### 2026 
-* **İlgen, B.**, **Hattab, G.**(2026). Visualizing the Chain-of-Thought in Large Language Models, *IEEE Computer Graphics and Applications*, (in press).
+* **İlgen, B.**, **Hattab, G.** (2026). Visualizing the Chain-of-Thought in Large Language Models, *IEEE Computer Graphics and Applications*, (in press).
 
 ### 2025 
 * **Wijaya, A.J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Current State and Future
-Prospects of Horizontal Gene Transfer Detection, *NAR Genomics and Bioinformatics*,(in press).
+Prospects of Horizontal Gene Transfer Detection, *NAR Genomics and Bioinformatics*, (in press).
 * **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics, *Nature Scientific Reports*, (in press).
 * **Dubey, A.**, **Anžel, A.**, **İlgen, B.**, **Hattab, G.** (2025). UbiQTree: Uncertainty Quantification in XAI for Tree Ensembles, *Cell Press*, (in press).
 * **İlgen, B.**, **Hattab, G.** (2025). Toward Human-Centered Readability Evaluation, *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, (in press).
