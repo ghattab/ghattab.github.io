@@ -6,16 +6,19 @@ tags: [research,publications,scholar,APA]
 modified: 30-10-2025
 comments: false
 ---
+
 ### 2026 
-* **İlgen, B.**, **Hattab, G.** (2026). Visualizing the Chain-of-Thought in Large Language Models, *IEEE Computer Graphics and Applications*, (in press).
+* **Hattab, G.** (2026). Human Agency, Causality, and the Human Computer Interface in High-Stakes Artificial Intelligence, *CHI Workshop on Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures (CHI EA ’26)*, (in press).
+* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2026). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics, *Computational and Structural Biotechnology*, (in press).
+* Ferreira, A. P. G., **Anžel, A.**, Ullrich, A., **Hattab, G.** (2026). Advocating the potential of artificial intelligence for syndrome discovery in syndromic surveillance systems: A scoping review, *iScience*, [doi.org/10.1016/j.isci.2026.115103](https://doi.org/10.1016/j.isci.2026.115103).
+* **İlgen, B.**, **Hattab, G.** (2026). Visualizing the Chain of Thought in Large Language Models, *IEEE Computer Graphics and Applications*, [doi.org/10.1109/MCG.2025.3624666](https://doi.org/10.1109/MCG.2025.3624666).
 
 ### 2025 
-* **Wijaya, A.J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Genomic Data Representations for Horizontal Gene Transfer Detection, *NAR Genomics and Bioinformatics*, (in press).
-* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2025). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics, *Computational and Structural Biotechnology*, (in press).
-* **Dubey, A.**, **Anžel, A.**, **İlgen, B.**, **Hattab, G.** (2025). UbiQTree: Uncertainty Quantification in XAI for Tree Ensembles, *Patterns*, (in press).
+* **Wijaya, A. J.**, **Anžel, A.**, Richard, H., **Hattab, G.** (2025). Genomic Data Representations for Horizontal Gene Transfer Detection, *NAR Genomics and Bioinformatics*, [doi.org/10.1093/nargab/lqaf165](https://doi.org/10.1093/nargab/lqaf165).
+* **Dubey, A.**, **Anžel, A.**, **İlgen, B.**, **Hattab, G.** (2026). UbiQTree: Uncertainty Quantification in XAI for Tree Ensembles, *Patterns*, [doi.org/10.1016/j.patter.2025.101454](https://doi.org/10.1016/j.patter.2025.101454).
+* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, *Nature Scientific Reports*, [doi.org/10.1038/s41598-025-18413-z](https://doi.org/10.1038/s41598-025-18413-z).
 * **İlgen, B.**, **Hattab, G.** (2025). Toward Human-Centered Readability Evaluation, *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, [doi.org/10.18653/v1/2025.hcinlp-1.22](https://aclanthology.org/2025.hcinlp-1.22/).
 * **İlgen, B.**, **Dubey, A.**, **Hattab, G.** (2025). PHAX: A Structured Argumentation Framework for User-Centered Explainable AI in Public Health and Biomedical Sciences, *ECAI Workshop on Argumentation for eXplainable AI (ArgXAI)*, [ceur-ws.org/Vol-4066](https://ceur-ws.org/Vol-4066/paper_8.pdf).
-* **Köckritz, J.**, **İlgen, B.**, Cohrdes, C., **Hattab, G.** (2025). Current Applications and Future Directions in Natural Language Processing for News Media and Mental Health, *Nature Scientific Reports*, [doi.org/10.1038/s41598-025-18413-z](https://doi.org/10.1038/s41598-025-18413-z).
 * **Köckritz, J.**, **İlgen, B.**, **Hattab, G.** (2025). Reasoning Under Distress: Mining Claims and Evidence in Mental Health Narratives, *ACL Workshop on Argument Mining*, [doi.org/10.18653/v1/2025.argmining-1.18](https://doi.org/10.18653/v1/2025.argmining-1.18).
 * **Dubey, A.**, **Yang, Z.**, **Anžel, A.**, **Hattab, G.** (2025). Protocol for implementing the nested model for AI design and validation in compliance with AI regulations, *Cell Press STAR Protocols*, [doi.org/10.1016/j.xpro.2025.103771](https://doi.org/10.1016/j.xpro.2025.103771).
 * Esquivel Gomez, L.R, Nadezdha, M., Pfeil, J., **Yang, Z.**, Bütow, S.M., Irrgang, C., Körber, N., **Hattab, G.**, Kühnert, D., Ladewig, K. (2025). Holistic forecasting for future pandemics – a review of pathogens, models, and data, *Journal of Epidemiology and Global Health*, [doi.org/10.1186/s12982-025-00573-y](https://doi.org/10.1186/s12982-025-00573-y).
