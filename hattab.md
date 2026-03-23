@@ -3,7 +3,7 @@ layout: profile
 permalink: /hattab/
 title: Georges Hattab
 tags: [about, profile, bio, curriculum]
-modified: 12-12-2022
+modified: 23-03-2026
 comments: false
 ---
 

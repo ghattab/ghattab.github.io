@@ -3,9 +3,20 @@ layout: page
 permalink: /data/
 title: Data
 tags: [data, dataset, data set, variable, attribute, feature, abstraction, data type]
-modified: 01-11-2024
+modified: 23-03-2025
 comments: false
 ---
+
+### 2025
+
+| **Dataset Name**: Genomic Islands Detection Data 2025 |
+|---------------------------------------------------------|
+| **Number of Variables**: Not applicable (sequence data) |
+| **Data Type**: Fasta Files |
+| **Number of Instances**: Varies by dataset |
+| **Key Characteristics**: Categorical |
+| **Description**: Comprehensive collection of datasets for Genomic Islands (GIs) Detection. This collection facilitates the evaluation of genomic data representations and machine learning models for identifying the transfer of genetic material between species. |
+| [[View Detailed Page]](/data/island.md) |
 
 ### 2024
 
