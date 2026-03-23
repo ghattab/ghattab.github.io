@@ -36,7 +36,7 @@ Bahar İlgen.
 <br/>
 **2025**
 <br/>
-Rebecca Grevens Carpi; Utkarsha Kandale.
+Rebecca Grevens Carpi, Utkarsha Kandale.
 <br/>
 <br/>
 **2024**
