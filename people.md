@@ -12,8 +12,8 @@ comments: false
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
 [Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
 [Dr. Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
-[Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Candidate
+[Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
 [Ana Paula Gomes Ferreira](https://www.linkedin.com/in/anapaulagomess/)  | PhD Student
 [Jannis Köckritz](https://www.linkedin.com/in/jannis-köckritz-4a311233b/)  | PhD Student
 [Vincent Schilling](https://www.linkedin.com/in/vincent-schilling-019537266/)  | PhD Student
