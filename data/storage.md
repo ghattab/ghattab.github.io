@@ -1,7 +1,6 @@
 ---
 
 layout: page
-title: Visual Story of Data Storage Data 2021
 tags: [data, storage, history, technology, visualization]
 modified: 24-08-2024
 comments: false

@@ -1,7 +1,6 @@
 ---
 
 layout: page
-title: Kidney Boundary Data 2017
 tags: [data, medical imaging, kidney, boundary detection, segmentation, EndoVis]
 modified: 23-08-2024
 comments: false

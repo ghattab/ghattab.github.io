@@ -7,7 +7,7 @@ comments: false
 
 The **Genomic Islands Detection Data 2025** provides a unified collection of datasets used for the detection of Genomic Islands (GIs). Genomic islands play a pivotal role in horizontal gene transfer (HGT), which is a primary driver of antimicrobial resistance (AMR) and bacterial evolution. This collection serves as a benchmark for researchers in computational biology and bioinformatics to develop and evaluate new detection methods.
 
-## Genomic Islands Detection Data 2024
+## Genomic Islands Detection Data 2025
 Source code, trained models, and the benchmark datasets are [available for download](https://github.com/andrejw27/genomic-data-representations-for-hgt-detection/tree/main/dataset/train_data) under appropriate licensing.
 
 ### Data Set Characteristics

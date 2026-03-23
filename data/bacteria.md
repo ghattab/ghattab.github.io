@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Bacterial Cell Colony Imaging Data 2015
 tags: [data, bacterial cell colonies, time-lapse imaging, cellular heterogeneity, TIRF microscopy]
 modified: 01-11-2024
 comments: false

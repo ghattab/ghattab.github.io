@@ -1,7 +1,6 @@
 ---
 
 layout: page
-title: Silicone Uniaxial Test Data 2020
 tags: [data, materials science, 2D materials, simulation, properties]
 modified: 23-08-2024
 comments: false

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Molecular Encoder Data 2024
 tags: [data, molecular encodings, encoder, fingerprint, machine learning, peptide classification]
 modified: 23-08-2024
 comments: false
