@@ -3,12 +3,24 @@ layout: page
 permalink: /apps/
 title: Computer Applications (Apps)
 tags: [computer applications, application, app, console, web, embedded, web, tools, packages, research, table]
-modified: 21-04-2024
+modified: 05-06-2024
 comments: false
 ---
 
 This page lists published computer applications, including console, web and window-based applications.<br/>
 <br/>
+
+
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/metamp.webp)](https://ebenco36.github.io/MetaMP-Server/)  | **MetaMP** is a web-based reconciliation and benchmarking application for membrane protein data that unifies fragmented knowledge from MPstruc, PDB, OPM, and UniProt. Through eight interactive analytical views, the platform enables researchers to seamlessly review structural discrepancies, compare topologies across multiple predictors, and utilize explainable machine learning for structure classification and outlier detection. MetaMP accelerates data curation and establishes a high-quality, enriched dataset to empower AI-driven structural biology research. [[Publication 1](https://arxiv.org/abs/2510.04776)]. |
+
+
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/opensyndrome.webp)](https://opensyndrome.org/)  | **Open Syndrome** is a collaborative initiative to standardize and modernize disease surveillance through machine-readable case definitions. It provides an open, machine-readable format that lets clinicians, epidemiologists, and developers share, version, and reuse case definitions across systems, enabling applications from syndromic surveillance and machine learning research to clinical education and interoperability between public health organizations. [[Publication 1](https://dx.doi.org/10.2196/86249)]. |
+
+
+| - | - |
+| <span style="display: inline-block; width:200px"> [![](/images/apps/ubiq.webp)](https://ubiq.ai/)  | **UbiQ** is an integrated visual analytical application that enables the dynamic assessment and structural decomposition of Explainable AI (XAI) reliability across both tabular and visual domains. Comprising the UbiQTree and UbiQVision modules, it embeds evidence theory to quantify epistemic and aleatoric uncertainties in SHAP-derived feature attributions, transforming explainability from a post-hoc consideration into a foundational driver of reliability. [[Publication 1](https://doi.org/10.1016/j.patter.2025.101454), [Publication 2](https://arxiv.org/abs/2512.20288)]. |
 
 
 | - | - |

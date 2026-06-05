@@ -3,9 +3,20 @@ layout: page
 permalink: /data/
 title: Data
 tags: [data, dataset, data set, variable, attribute, feature, abstraction, data type]
-modified: 23-03-2025
+modified: 05-06-2025
 comments: false
 ---
+
+### 2026
+
+| **Dataset Name**: Open Syndrome Case Definitions Data 2026|
+| --- |
+| **Number of Variables**: ~19 fields per record (title, description, scope, category, version, published_at, location, organization, authors, inclusion_criteria, references, target_public_health_threats, keywords, definition_type, and others) |
+| **Data Type**: JSON (machine-readable), PDF and TXT (human-readable) |
+| **Number of Instances**: 40 case definitions |
+| **Key Characteristics**: Categorical and structured (nested inclusion criteria, multi-organization, multi-threat) |
+| **Description**: The first dataset of public health case definitions provided in both human-readable and machine-readable formats. It contains 40 case definitions covering various public health threats, sourced from different countries and health organizations, structured under the Open Syndrome Definition schema to support syndromic surveillance research and interoperability. |
+| [[View Detailed Page]](/data/syndrome/) |
 
 ### 2025
 

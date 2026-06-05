@@ -3,13 +3,15 @@ layout: page
 perma(link): /publications/
 title: Publications
 tags: [research,publications,scholar,APA]
-modified: 23-03-2026
+modified: 05-06-2026
 comments: false
 ---
 
 ### 2026 
-* **Hattab, G.** (2026). Human Agency, Causality, and the Human Computer Interface in High-Stakes Artificial Intelligence, *CHI Workshop on Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures (CHI EA ’26)*, (in press).
-* **Schilling, V.**, **Anžel, A.**, Döllinger, J., Lasch, P., Heider, D., **Hattab, G.** (2026). Adoption of AI Standards for Improved Peptide Detectability in Computational Proteomics, *Computational and Structural Biotechnology*, (in press).
+* Ferreira, A. P. G., **Anžel, A.**, de Souza, I. O. M., Hughes, H., Elliot, A. J., Kong, J. D., Schranz, M., Ullrich, A., **Hattab, G.** (2025). The Open Syndrome Definition, *Journal of Medical Internet Research*, [doi.org/10.2196/86249](https://dx.doi.org/10.2196/86249).
+* **Wijaya, A. J.**, **Anžel, A.**, **Hattab, G.** (2026). Evaluating ensemble learning approaches for horizontal gene transfer detection, *Scientific Reports*, 16(1), 16582, [doi.org/10.1038/s41598-026-53037-x](https://doi.org/10.1038/s41598-026-53037-x).
+* Hassan, H. A., **Anžel, A.**, **İlgen, B.**, Luchner, M., Schramowski, P., Blasse, A., Mayer, J. U., Ladewig, K., **Hattab, G.**, Sprang, M. (2026). A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics, *Trends in Genetics*, [doi.org/10.1016/j.tig.2026.04.001](https://doi.org/10.1016/j.tig.2026.04.001).
+* **Schilling, V.**, **Anžel, A.**, Doellinger, J., Lasch, P., Heider, D., **Hattab, G.** (2026). The state of peptide detectability in computational proteomics and guidelines for AI applications, *Computational and Structural Biotechnology Journal*, [doi.org/10.34133/csbj.0037](https://www.google.com/search?q=https://doi.org/10.34133/csbj.0037).
 * Ferreira, A. P. G., **Anžel, A.**, Ullrich, A., **Hattab, G.** (2026). Advocating the potential of artificial intelligence for syndrome discovery in syndromic surveillance systems: A scoping review, *iScience*, [doi.org/10.1016/j.isci.2026.115103](https://doi.org/10.1016/j.isci.2026.115103).
 * **İlgen, B.**, **Hattab, G.** (2026). Visualizing the Chain of Thought in Large Language Models, *IEEE Computer Graphics and Applications*, [doi.org/10.1109/MCG.2025.3624666](https://doi.org/10.1109/MCG.2025.3624666).
 

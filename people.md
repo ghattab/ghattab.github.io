@@ -3,14 +3,14 @@ layout: page
 permalink: /people/
 title: People
 tags: [group, members, researcher, assistant, phd, student]
-modified: 23-03-2026
+modified: 05-06-2026
 comments: false
 ---
 
 **Name**    | **Role**
 [PD. Dr. Georges Hattab](/hattab)  | Principle Investigator
 [Dr. Aleksandar Anžel](https://aanzel.github.io)  | Postdoctoral Researcher
-[Dr. Chisom Ezekannagha](https://sombiri.github.io)  | Postdoctoral Researcher
+[Dr. Chisom Anyabolu](https://sombiri.github.io)  | Postdoctoral Researcher
 [Dr. Marco Schäfer](https://scholar.google.com/citations?user=JtUNLVcAAAAJ&hl)  | Postdoctoral Researcher 
 [Akshat Dubey](https://www.linkedin.com/in/akshat-dubey-5983b2185/)  | PhD Candidate
 [Ebenezer Oladimeji Awotoro](https://www.linkedin.com/in/ebenezer-awotoro/)  | PhD Student 
@@ -20,8 +20,8 @@ comments: false
 [Ljupka Titizova](https://www.linkedin.com/in/ljupka-titizova/)  | PhD Student
 [Andre Jatmiko Wijaya](https://www.linkedin.com/in/andre-jatmiko-wijaya-9a0296107/)  | PhD Student
 [Marina Milad](https://www.linkedin.com/in/marinaayoub96/)  | PhD Student (academic supv.)
-[Henry El-Jawhari](https://www.linkedin.com/in/henryelj/)  | Master Student
 [Candra Saiguistia](https://www.linkedin.com/in/saigustia/)  | Master Student
+[Hrishikesh Yadav](https://www.linkedin.com/in/hrishikesh-yadav-aa748121a/)  | Master Student
 {: .display}
 <br/>
 
@@ -31,7 +31,7 @@ comments: false
 <br/>
 **2026**
 <br/>
-Bahar İlgen.
+Bahar İlgen, Henry El-Jawhari.
 <br/>
 <br/>
 **2025**
